@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/math/0411629v2
+
+==================================================
+
+论文标题: Restriction theorems for homogeneous bundles
+作者: V. B. Mehta, V. Trivedi
+摘要: We prove that for an irreducible representation $τ:GL(n)\to GL(W)$, the associated homogeneous ${\bf P}_k^n$-vector bundle $W_τ$ is strongly semistable when restricted to any smooth quadric or to any smooth cubic in ${\bf P}_k^n$, where $k$ is an algebraically closed field of characteristic $\neq 2,3$ respectively. In particular $W_τ$ is semistable when restricted to general hypersurfaces of degree $\geq 2$ and is strongly semistable when restricted to the $k$-generic hypersurface of degree $\geq 2$.
+arXiv链接: http://arxiv.org/abs/math/0411629v2
+请访问链接查看完整论文。

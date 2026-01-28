@@ -1,0 +1,4 @@
+Title: Create a Large Language Model from Scratch with Python – Tutorial
+URL: https://www.youtube.com/watch?v=UU1WVnMk4E8
+Description: YouTube视频: Create a Large Language Model from Scratch with Python – Tutorial
+Thumbnail: https://i.ytimg.com/vi/UU1WVnMk4E8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUkLditB21EwA97hdMmoFkwoyfiw

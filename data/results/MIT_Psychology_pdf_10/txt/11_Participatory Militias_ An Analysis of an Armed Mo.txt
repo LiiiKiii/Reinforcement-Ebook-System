@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/1502.02065v1
+
+==================================================
+
+论文标题: Participatory Militias: An Analysis of an Armed Movement's Online Audience
+作者: Saiph Savage, Andrés Monroy-Hernández
+摘要: Armed groups of civilians known as "self-defense forces" have ousted the powerful Knights Templar drug cartel from several towns in Michoacan. This militia uprising has unfolded on social media, particularly in the "VXM" ("Valor por Michoacan," Spanish for "Courage for Michoacan") Facebook page, gathering more than 170,000 fans. Previous work on the Drug War has documented the use of social media for real-time reports of violent clashes. However, VXM goes one step further by taking on a pro-militia propagandist role, engaging in two-way communication with its audience. This paper presents a descriptive analysis of VXM and its audience. We examined nine months of posts, from VXM's inception until May 2014, totaling 6,000 posts by VXM administrators and more than 108,000 comments from its audience. We describe the main conversation themes, post frequency and relationships with offline events and public figures. We also characterize the behavior of VXM's most active audience members. Our ...
+arXiv链接: http://arxiv.org/abs/1502.02065v1
+请访问链接查看完整论文。

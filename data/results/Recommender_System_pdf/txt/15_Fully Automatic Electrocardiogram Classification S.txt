@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2004.04894v3
+
+==================================================
+
+论文标题: Fully Automatic Electrocardiogram Classification System based on Generative Adversarial Network with Auxiliary Classifier
+作者: Zhanhong Zhou, Xiaolong Zhai, Chung Tin
+摘要: A generative adversarial network (GAN) based fully automatic electrocardiogram (ECG) arrhythmia classification system with high performance is presented in this paper. The generator (G) in our GAN is designed to generate various coupling matrix inputs conditioned on different arrhythmia classes for data augmentation. Our designed discriminator (D) is trained on both real and generated ECG coupling matrix inputs, and is extracted as an arrhythmia classifier upon completion of training for our GAN. After fine-tuning the D by including patient-specific normal beats estimated using an unsupervised algorithm, and generated abnormal beats by G that are usually rare to obtain, our fully automatic system showed superior overall classification performance for both supraventricular ectopic beats (SVEB or S beats) and ventricular ectopic beats (VEB or V beats) on the MIT-BIH arrhythmia database. It surpassed several state-of-art automatic classifiers and can perform on similar levels as some expe...
+arXiv链接: http://arxiv.org/abs/2004.04894v3
+请访问链接查看完整论文。

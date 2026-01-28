@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2403.09676v1
+
+==================================================
+
+论文标题: Unmasking the Shadows of AI: Investigating Deceptive Capabilities in Large Language Models
+作者: Linge Guo
+摘要: This research critically navigates the intricate landscape of AI deception, concentrating on deceptive behaviours of Large Language Models (LLMs). My objective is to elucidate this issue, examine the discourse surrounding it, and subsequently delve into its categorization and ramifications. The essay initiates with an evaluation of the AI Safety Summit 2023 (ASS) and introduction of LLMs, emphasising multidimensional biases that underlie their deceptive behaviours.The literature review covers four types of deception categorised: Strategic deception, Imitation, Sycophancy, and Unfaithful Reasoning, along with the social implications and risks they entail. Lastly, I take an evaluative stance on various aspects related to navigating the persistent challenges of the deceptive AI. This encompasses considerations of international collaborative governance, the reconfigured engagement of individuals with AI, proposal of practical adjustments, and specific elements of digital education.
+arXiv链接: http://arxiv.org/abs/2403.09676v1
+请访问链接查看完整论文。

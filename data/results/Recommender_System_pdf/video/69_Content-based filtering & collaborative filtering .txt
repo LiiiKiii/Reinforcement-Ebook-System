@@ -1,0 +1,4 @@
+Title: Content-based filtering & collaborative filtering (Building recommendation systems with TensorFlow)
+URL: https://www.youtube.com/watch?v=v90un9ALRzw
+Description: YouTube视频: Content-based filtering & collaborative filtering (Building recommendation systems with TensorFlow)
+Thumbnail: https://i.ytimg.com/vi/v90un9ALRzw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkHhh_B-UJ-KxIAgNy_gRIi2KQ8A

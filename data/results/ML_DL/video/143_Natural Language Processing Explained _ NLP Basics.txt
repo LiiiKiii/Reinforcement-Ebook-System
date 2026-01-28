@@ -1,0 +1,4 @@
+Title: Natural Language Processing Explained | NLP Basics
+URL: https://www.youtube.com/watch?v=pph11STqtXQ
+Description: YouTube视频: Natural Language Processing Explained | NLP Basics
+Thumbnail: https://i.ytimg.com/vi/pph11STqtXQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5XCE4KvhsTGw9MKd13dXK3d88GA

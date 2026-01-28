@@ -1,0 +1,4 @@
+Title: Stanford CS230 | Autumn 2025 | Lecture 1: Introduction to Deep Learning
+URL: https://www.youtube.com/watch?v=_NLHFoVNlbg
+Description: YouTube视频: Stanford CS230 | Autumn 2025 | Lecture 1: Introduction to Deep Learning
+Thumbnail: https://i.ytimg.com/vi/_NLHFoVNlbg/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBbNwoDclDW6Z3Gu4d4xwUaDGOyTg

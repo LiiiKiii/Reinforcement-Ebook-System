@@ -1,0 +1,4 @@
+Title: char-rnn-tensorflow
+URL: https://github.com/sherjilozair/char-rnn-tensorflow
+Source: GitHub
+Description: GitHub代码仓库: char-rnn-tensorflow

@@ -1,0 +1,10 @@
+Source: Google Scholar
+URL: https://mjt.cs.illinois.edu/dlt/index.pdf
+
+==================================================
+
+论文标题: Deep learning theory lecture notes
+作者/来源: M Telgarsky - … Illinois Urbana-Champaign: Champaign, IL, USA, 2021 -
+摘要: … We consider standard shallow and deep feedforward networks. 2. We study mainly
+binary classification in the supervised learning setup. 3. As above, we study an error …
+请访问链接查看完整论文。

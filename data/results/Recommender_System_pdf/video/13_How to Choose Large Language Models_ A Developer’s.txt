@@ -1,0 +1,4 @@
+Title: How to Choose Large Language Models: A Developer’s Guide to LLMs
+URL: https://www.youtube.com/watch?v=pYax2rupKEY
+Description: YouTube视频: How to Choose Large Language Models: A Developer’s Guide to LLMs
+Thumbnail: https://i.ytimg.com/vi/pYax2rupKEY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDlRslolxUyq6fLf6_aapxNKdp6Q

@@ -1,0 +1,4 @@
+Title: Generative Adversarial Networks Explained As An Art Forger
+URL: https://www.youtube.com/watch?v=ioysISch8ZU
+Description: YouTube视频: Generative Adversarial Networks Explained As An Art Forger
+Thumbnail: https://i.ytimg.com/vi/ioysISch8ZU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWjCjcVcYh7uDeFIck_59U3PIYOQ

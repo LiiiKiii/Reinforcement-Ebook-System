@@ -1,0 +1,4 @@
+Title: AI in SurrealDB: Integrating TensorFlow, PyTorch, and more directly in your queries
+URL: https://www.youtube.com/watch?v=0fcZ47fp_pw
+Description: YouTube视频: AI in SurrealDB: Integrating TensorFlow, PyTorch, and more directly in your queries
+Thumbnail: https://i.ytimg.com/vi/0fcZ47fp_pw/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhyIEIoUjAP&rs=AOn4CLDcRj6864FbTY4odkUaXuyRkbWJ5w

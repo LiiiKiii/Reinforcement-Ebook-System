@@ -1,0 +1,10 @@
+Source: Google Scholar
+URL: https://sunju.org/teach/TMML-Fall-2021/Donoho-2000.pdf
+
+==================================================
+
+论文标题: High-dimensional data analysis: The curses and blessings of dimensionality
+作者/来源: DL Donoho - AMS math challenges lecture, 2000 - sunju.org
+摘要: … fluctuations are very well controlled in high dimensions and the success of asymptotic …
+论文链接: https://sunju.org/teach/TMML-Fall-2021/Donoho-2000.pdf
+请访问链接查看完整论文。

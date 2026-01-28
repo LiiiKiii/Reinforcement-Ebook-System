@@ -1,0 +1,4 @@
+Title: StatQuest: Principal Component Analysis (PCA), Step-by-Step
+URL: https://www.youtube.com/watch?v=FgakZw6K1QQ
+Description: YouTube视频: StatQuest: Principal Component Analysis (PCA), Step-by-Step
+Thumbnail: https://i.ytimg.com/vi/FgakZw6K1QQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTWD4FUjjgziaAlfhbtHbiKF-nyg

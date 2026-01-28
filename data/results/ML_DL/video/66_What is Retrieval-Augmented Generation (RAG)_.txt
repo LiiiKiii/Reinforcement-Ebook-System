@@ -1,0 +1,4 @@
+Title: What is Retrieval-Augmented Generation (RAG)?
+URL: https://www.youtube.com/watch?v=T-D1OfcDW1M
+Description: YouTube视频: What is Retrieval-Augmented Generation (RAG)?
+Thumbnail: https://i.ytimg.com/vi/T-D1OfcDW1M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAh_RMHPUPB75A9ru3DLzNRPNRHUA

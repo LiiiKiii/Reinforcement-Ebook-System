@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://link.springer.com/article/10.1007/s11263-015-0812-2
+
+==================================================
+
+论文标题: Do we need more training data?
+作者/来源: X Zhu, C Vondrick, CC Fowlkes, D Ramanan - International Journal of …, 2016 - Springer
+摘要: … training dataset size and model complexity. The effect of additional training examples is
+diminished as the training dataset … overly-flexible model overfits the training dataset (right). Both …
+论文链接: https://link.springer.com/article/10.1007/s11263-015-0812-2
+请访问链接查看完整论文。

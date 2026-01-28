@@ -1,0 +1,4 @@
+Title: Predict Sales Using a Neural Network (PyTorch, Google Colab)
+URL: https://www.youtube.com/watch?v=SugVN2t3M8I
+Description: YouTube视频: Predict Sales Using a Neural Network (PyTorch, Google Colab)
+Thumbnail: https://i.ytimg.com/vi/SugVN2t3M8I/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDcPAB1fjI6auBNFHLDLBlDljpew

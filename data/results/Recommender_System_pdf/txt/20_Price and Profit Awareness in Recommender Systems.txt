@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/1707.08029v1
+
+==================================================
+
+论文标题: Price and Profit Awareness in Recommender Systems
+作者: Dietmar Jannach, Gediminas Adomavicius
+摘要: Academic research in the field of recommender systems mainly focuses on the problem of maximizing the users' utility by trying to identify the most relevant items for each user. However, such items are not necessarily the ones that maximize the utility of the service provider (e.g., an online retailer) in terms of the business value, such as profit. One approach to increasing the providers' utility is to incorporate purchase-oriented information, e.g., the price, sales probabilities, and the resulting profit, into the recommendation algorithms. In this paper we specifically focus on price- and profit-aware recommender systems. We provide a brief overview of the relevant literature and use numerical simulations to illustrate the potential business benefit of such approaches.
+arXiv链接: http://arxiv.org/abs/1707.08029v1
+请访问链接查看完整论文。

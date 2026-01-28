@@ -1,0 +1,4 @@
+Title: L11.7 Weight Initialization in PyTorch -- Code Example
+URL: https://www.youtube.com/watch?v=nA6oEAE9IVc
+Description: YouTube视频: L11.7 Weight Initialization in PyTorch -- Code Example
+Thumbnail: https://i.ytimg.com/vi/nA6oEAE9IVc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDkXjJVFla2k4UntgKU0uo0su1hrg

@@ -1,0 +1,4 @@
+Title: Lecture 8 - Data Splits, Models & Cross-Validation | Stanford CS229: Machine Learning (Autumn 2018)
+URL: https://www.youtube.com/watch?v=rjbkWSTjHzM
+Description: YouTube视频: Lecture 8 - Data Splits, Models & Cross-Validation | Stanford CS229: Machine Learning (Autumn 2018)
+Thumbnail: https://i.ytimg.com/vi/rjbkWSTjHzM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFXrc3eTIdfZi41kqpXZaUQGVIkw

@@ -1,0 +1,4 @@
+Title: Ollama Launch + Claude Code + GLM Flash
+URL: https://www.youtube.com/watch?v=NA5U06WuO34
+Description: YouTube视频: Ollama Launch + Claude Code + GLM Flash
+Thumbnail: https://i9.ytimg.com/vi/NA5U06WuO34/hq720_custom_1.jpg?sqp=COSD38sG-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR8N80heN6Lixv3HJQdL-EanBW2A

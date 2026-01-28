@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2202.08261v2
+
+==================================================
+
+论文标题: Evaluation and Analysis of Different Aggregation and Hyperparameter Selection Methods for Federated Brain Tumor Segmentation
+作者: Ece Isik-Polat, Gorkem Polat, Altan Kocyigit, Alptekin Temizel
+摘要: Availability of large, diverse, and multi-national datasets is crucial for the development of effective and clinically applicable AI systems in the medical imaging domain. However, forming a global model by bringing these datasets together at a central location, comes along with various data privacy and ownership problems. To alleviate these problems, several recent studies focus on the federated learning paradigm, a distributed learning approach for decentralized data. Federated learning leverages all the available data without any need for sharing collaborators' data with each other or collecting them on a central server. Studies show that federated learning can provide competitive performance with conventional central training, while having a good generalization capability. In this work, we have investigated several federated learning approaches on the brain tumor segmentation problem. We explore different strategies for faster convergence and better performance which can also work ...
+arXiv链接: http://arxiv.org/abs/2202.08261v2
+请访问链接查看完整论文。

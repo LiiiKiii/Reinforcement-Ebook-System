@@ -1,0 +1,4 @@
+Title: ANN vs CNN vs RNN | Difference Between ANN CNN and RNN | Types of Neural Networks Explained
+URL: https://www.youtube.com/watch?v=u7obuspdQu4
+Description: YouTube视频: ANN vs CNN vs RNN | Difference Between ANN CNN and RNN | Types of Neural Networks Explained
+Thumbnail: https://i.ytimg.com/vi/u7obuspdQu4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxeUm4CL5hGEpzVjxfow_AxR68vw

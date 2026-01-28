@@ -1,0 +1,4 @@
+Title: General Sequence Learning using Recurrent Neural Networks
+URL: https://www.youtube.com/watch?v=VINCQghQRuM
+Description: YouTube视频: General Sequence Learning using Recurrent Neural Networks
+Thumbnail: https://i.ytimg.com/vi/VINCQghQRuM/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLA4IuLx_lVVuNRsXqMclNNuMbYIGw

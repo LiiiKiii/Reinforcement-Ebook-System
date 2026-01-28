@@ -1,0 +1,4 @@
+Title: Tutorial: Data Analytics in R: Dimension Reduction, PCA and Dostadning
+URL: https://www.youtube.com/watch?v=K5HcVuLra38
+Description: YouTube视频: Tutorial: Data Analytics in R: Dimension Reduction, PCA and Dostadning
+Thumbnail: https://i.ytimg.com/vi/K5HcVuLra38/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwOcR7ZHKYgnGhh0zOU0zrR-fzMw

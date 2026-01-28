@@ -1,0 +1,4 @@
+Title: PCA & Feature Coordinate System | Clustering and Dimensionality Reduction
+URL: https://www.youtube.com/watch?v=kbAafaCE6sc
+Description: YouTube视频: PCA & Feature Coordinate System | Clustering and Dimensionality Reduction
+Thumbnail: https://i.ytimg.com/vi/kbAafaCE6sc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDi3GnAjdbgjx01GHstVLcDUrE-Cg

@@ -1,0 +1,4 @@
+Title: Dendrites: Why Biological Neurons Are Deep Neural Networks
+URL: https://www.youtube.com/watch?v=hmtQPrH-gC4
+Description: YouTube视频: Dendrites: Why Biological Neurons Are Deep Neural Networks
+Thumbnail: https://i.ytimg.com/vi/hmtQPrH-gC4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMIHCiAJyAYEuZrHqGvvEifeMQ5A

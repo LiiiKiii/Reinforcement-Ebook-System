@@ -1,0 +1,4 @@
+Title: Latent Space Visualisation: PCA, t-SNE, UMAP | Deep Learning Animated
+URL: https://www.youtube.com/watch?v=o_cAOa5fMhE
+Description: YouTube视频: Latent Space Visualisation: PCA, t-SNE, UMAP | Deep Learning Animated
+Thumbnail: https://i.ytimg.com/vi/o_cAOa5fMhE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASZEMyeFTlrykh-vwRWavgKWx0NQ

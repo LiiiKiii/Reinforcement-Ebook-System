@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://arxiv.org/abs/2103.00265
+
+==================================================
+
+论文标题: A brief introduction to generative models
+作者/来源: A Lamb - arXiv preprint arXiv:2103.00265, 2021 - arxiv.org
+摘要: … generative model as an estimating distribution qθ(x), which is described by a set of parameters
+θ. Then we can frame generative modeling … To simplify, we’ll write the definition using the …
+论文链接: https://arxiv.org/abs/2103.00265
+请访问链接查看完整论文。

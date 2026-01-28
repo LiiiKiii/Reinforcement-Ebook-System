@@ -1,0 +1,4 @@
+Title: Lecture 2: Doubly Efficient Interactive Proofs, Part 2
+URL: https://www.youtube.com/watch?v=Ob1fFHAXlJQ
+Description: YouTube视频: Lecture 2: Doubly Efficient Interactive Proofs, Part 2
+Thumbnail: https://i.ytimg.com/vi/Ob1fFHAXlJQ/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIFgoZTAP&rs=AOn4CLDEqhLP6_8zneLic5xIG-ab43U78Q

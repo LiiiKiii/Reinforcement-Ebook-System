@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2005.07866v1
+
+==================================================
+
+论文标题: Byzantine-Resilient SGD in High Dimensions on Heterogeneous Data
+作者: Deepesh Data, Suhas Diggavi
+摘要: We study distributed stochastic gradient descent (SGD) in the master-worker architecture under Byzantine attacks. We consider the heterogeneous data model, where different workers may have different local datasets, and we do not make any probabilistic assumptions on data generation. At the core of our algorithm, we use the polynomial-time outlier-filtering procedure for robust mean estimation proposed by Steinhardt et al. (ITCS 2018) to filter-out corrupt gradients. In order to be able to apply their filtering procedure in our {\em heterogeneous} data setting where workers compute {\em stochastic} gradients, we derive a new matrix concentration result, which may be of independent interest.   We provide convergence analyses for smooth strongly-convex and non-convex objectives. We derive our results under the bounded variance assumption on local stochastic gradients and a {\em deterministic} condition on datasets, namely, gradient dissimilarity; and for both these quantities, we provide ...
+arXiv链接: http://arxiv.org/abs/2005.07866v1
+请访问链接查看完整论文。

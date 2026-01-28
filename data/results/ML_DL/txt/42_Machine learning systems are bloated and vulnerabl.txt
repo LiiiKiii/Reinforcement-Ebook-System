@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://dl.acm.org/doi/abs/10.1145/3639032
+
+==================================================
+
+论文标题: Machine learning systems are bloated and vulnerable
+作者/来源: H Zhang, M Alhanahnah, FA Ahmed, D Fatih… - Proceedings of the …, 2024 - dl.acm.org
+摘要: … from TensorFlow, PyTorch, and Nvidia… main focus of this work is ML containers. • We study
+the bloat of 15 different containers running popular ML models using TensorFlow and PyTorch …
+论文链接: https://dl.acm.org/doi/abs/10.1145/3639032
+请访问链接查看完整论文。

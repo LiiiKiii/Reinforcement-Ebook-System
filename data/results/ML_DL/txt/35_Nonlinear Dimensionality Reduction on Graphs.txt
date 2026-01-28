@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/1801.09390v2
+
+==================================================
+
+论文标题: Nonlinear Dimensionality Reduction on Graphs
+作者: Yanning Shen, Panagiotis A. Traganitis, Georgios B. Giannakis
+摘要: In this era of data deluge, many signal processing and machine learning tasks are faced with high-dimensional datasets, including images, videos, as well as time series generated from social, commercial and brain network interactions. Their efficient processing calls for dimensionality reduction techniques capable of properly compressing the data while preserving task-related characteristics, going beyond pairwise data correlations. The present paper puts forth a nonlinear dimensionality reduction framework that accounts for data lying on known graphs. The novel framework encompasses most of the existing dimensionality reduction methods, but it is also capable of capturing and preserving possibly nonlinear correlations that are ignored by linear methods. Furthermore, it can take into account information from multiple graphs. The proposed algorithms were tested on synthetic as well as real datasets to corroborate their effectiveness.
+arXiv链接: http://arxiv.org/abs/1801.09390v2
+请访问链接查看完整论文。

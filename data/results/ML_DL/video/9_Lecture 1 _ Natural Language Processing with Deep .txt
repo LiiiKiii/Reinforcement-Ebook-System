@@ -1,0 +1,4 @@
+Title: Lecture 1 | Natural Language Processing with Deep Learning
+URL: https://www.youtube.com/watch?v=OQQ-W_63UgQ
+Description: YouTube视频: Lecture 1 | Natural Language Processing with Deep Learning
+Thumbnail: https://i.ytimg.com/vi/OQQ-W_63UgQ/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAZjgQ0Rpius7jk5z7DTwb5t8INIA

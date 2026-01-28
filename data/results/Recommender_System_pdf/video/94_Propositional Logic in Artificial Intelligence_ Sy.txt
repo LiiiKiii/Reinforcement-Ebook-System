@@ -1,0 +1,4 @@
+Title: Propositional Logic in Artificial Intelligence: Syntax, Semantics & Applications
+URL: https://www.youtube.com/watch?v=omh6ldFGhAI
+Description: YouTube视频: Propositional Logic in Artificial Intelligence: Syntax, Semantics & Applications
+Thumbnail: https://i.ytimg.com/vi/omh6ldFGhAI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdL-vfabSz9v5LK707PbKmRa2stg

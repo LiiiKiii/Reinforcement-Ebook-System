@@ -1,0 +1,4 @@
+Title: Sinusoidal Embeddings PyTorch Code From Scratch!
+URL: https://www.youtube.com/watch?v=pw3rlkQRJ4o
+Description: YouTube视频: Sinusoidal Embeddings PyTorch Code From Scratch!
+Thumbnail: https://i.ytimg.com/vi/pw3rlkQRJ4o/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IE8oHTAP&rs=AOn4CLAyJGX9O3pU4oFb2zaaCvjbO9q8KA

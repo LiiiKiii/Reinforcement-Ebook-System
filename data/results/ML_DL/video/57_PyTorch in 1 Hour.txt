@@ -1,0 +1,4 @@
+Title: PyTorch in 1 Hour
+URL: https://www.youtube.com/watch?v=r1bquDz5GGA
+Description: YouTube视频: PyTorch in 1 Hour
+Thumbnail: https://i.ytimg.com/vi/r1bquDz5GGA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4OjQaoy6XF4uYmSjt1R6PNhtSTw

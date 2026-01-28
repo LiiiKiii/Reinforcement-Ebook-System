@@ -1,0 +1,4 @@
+Title: Rectified Flow Joint Image+Text in PyTorch: Text Velocity Head (Part 4)
+URL: https://www.youtube.com/watch?v=ia62E3pTgcA
+Description: YouTube视频: Rectified Flow Joint Image+Text in PyTorch: Text Velocity Head (Part 4)
+Thumbnail: https://i.ytimg.com/vi/ia62E3pTgcA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAueeNG3aVguZkRNWQOGjo7jjOCKQ

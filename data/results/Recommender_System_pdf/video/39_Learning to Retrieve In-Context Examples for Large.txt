@@ -1,0 +1,4 @@
+Title: Learning to Retrieve In-Context Examples for Large Language Models
+URL: https://www.youtube.com/watch?v=sPa8gsFAOeQ
+Description: YouTube视频: Learning to Retrieve In-Context Examples for Large Language Models
+Thumbnail: https://i.ytimg.com/vi/sPa8gsFAOeQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTImHVTGEfqQwRaXxmtJBfbkrqzA

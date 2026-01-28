@@ -1,0 +1,4 @@
+Title: 4.4.1: Implement a neuron for linear regression - Training data and outliers
+URL: https://www.youtube.com/watch?v=vxTAEuETlWk
+Description: YouTube视频: 4.4.1: Implement a neuron for linear regression - Training data and outliers
+Thumbnail: https://i.ytimg.com/vi/vxTAEuETlWk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfSNUePI6JwJXo8kDvOGRvUZxRBQ

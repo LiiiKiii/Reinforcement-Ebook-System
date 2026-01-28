@@ -1,0 +1,4 @@
+Title: Building PyTorch: Adding Broadcasting and Addition Operations to MicroTorch
+URL: https://www.youtube.com/watch?v=pdZij4qj2WQ
+Description: YouTube视频: Building PyTorch: Adding Broadcasting and Addition Operations to MicroTorch
+Thumbnail: https://i.ytimg.com/vi/pdZij4qj2WQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFV3nRVW7zVR2xhHXj8ay4Rj4vvw

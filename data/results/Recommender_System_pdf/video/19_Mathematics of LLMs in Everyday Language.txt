@@ -1,0 +1,4 @@
+Title: Mathematics of LLMs in Everyday Language
+URL: https://www.youtube.com/watch?v=1WHaFWMMXLI
+Description: YouTube视频: Mathematics of LLMs in Everyday Language
+Thumbnail: https://i.ytimg.com/vi/1WHaFWMMXLI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgSAP41udmg6iJTCC17JFbrZE9mw

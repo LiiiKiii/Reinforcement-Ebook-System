@@ -1,0 +1,3 @@
+Title: DuckDuckGo图片搜索: training data
+URL: https://duckduckgo.com/?q=training%20data&iax=images&ia=images
+Source: DuckDuckGo Images

@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://link.springer.com/article/10.1007/S40747-021-00637-X
+
+==================================================
+
+论文标题: Feature dimensionality reduction: a review
+作者/来源: W Jia, M Sun, J Lian, S Hou - Complex &amp; Intelligent Systems, 2022 - Springer
+摘要: … dimensional data are the keys aims of the research. In this paper, two-dimensionality reduction
+methods, feature selection and feature extraction, are introduced; the current mainstream …
+论文链接: https://link.springer.com/article/10.1007/S40747-021-00637-X
+请访问链接查看完整论文。

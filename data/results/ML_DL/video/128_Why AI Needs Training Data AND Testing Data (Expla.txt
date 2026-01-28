@@ -1,0 +1,4 @@
+Title: Why AI Needs Training Data AND Testing Data (Explained Simply)
+URL: https://www.youtube.com/watch?v=2We4gZNjwQ0
+Description: YouTube视频: Why AI Needs Training Data AND Testing Data (Explained Simply)
+Thumbnail: https://i.ytimg.com/vi/2We4gZNjwQ0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaA8yw_loE_CCs4EgTDUcm2xcqrQ

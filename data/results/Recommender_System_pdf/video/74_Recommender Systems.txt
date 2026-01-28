@@ -1,0 +1,4 @@
+Title: Recommender Systems
+URL: https://www.youtube.com/watch?v=Eeg1DEeWUjA
+Description: YouTube视频: Recommender Systems
+Thumbnail: https://i.ytimg.com/vi/Eeg1DEeWUjA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyXoAFdotuxMVCfD-NiFloOX_nxA

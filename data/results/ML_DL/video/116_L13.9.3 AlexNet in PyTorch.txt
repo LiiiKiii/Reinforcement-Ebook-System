@@ -1,0 +1,4 @@
+Title: L13.9.3 AlexNet in PyTorch
+URL: https://www.youtube.com/watch?v=mlXRVuD_HEg
+Description: YouTube视频: L13.9.3 AlexNet in PyTorch
+Thumbnail: https://i.ytimg.com/vi/mlXRVuD_HEg/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhVIF0oZTAP&rs=AOn4CLBm5sInhuQjg0XCI4x-2c2occwV_w

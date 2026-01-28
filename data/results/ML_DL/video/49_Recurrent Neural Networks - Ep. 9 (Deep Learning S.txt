@@ -1,0 +1,4 @@
+Title: Recurrent Neural Networks - Ep. 9 (Deep Learning SIMPLIFIED)
+URL: https://www.youtube.com/watch?v=_aCuOwF1ZjU
+Description: YouTube视频: Recurrent Neural Networks - Ep. 9 (Deep Learning SIMPLIFIED)
+Thumbnail: https://i.ytimg.com/vi/_aCuOwF1ZjU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTXRAbb2J9ku4NAqer5HrOPdNGkg

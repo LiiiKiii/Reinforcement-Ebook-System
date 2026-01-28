@@ -1,0 +1,4 @@
+Title: Simple Guide to Training Small LLMs | Part 1
+URL: https://www.youtube.com/watch?v=Qxp3DpyzYgY
+Description: YouTube视频: Simple Guide to Training Small LLMs | Part 1
+Thumbnail: https://i.ytimg.com/vi/Qxp3DpyzYgY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCK7vYgAbSR4LYa8GaimFKUPl90kg

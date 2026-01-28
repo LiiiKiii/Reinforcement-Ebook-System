@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://www.sciencedirect.com/science/article/pii/S1877050920300879
+
+==================================================
+
+论文标题: A review of dimensionality reduction techniques for efficient computation
+作者/来源: S Velliangiri, S Alagumuthukrishnan - Procedia computer science, 2019 - Elsevier
+摘要: … improve learning feature accuracy and reduce the training time. … dimensional reduction
+techniques are applied in the medical field. Here listed some benefits of dimensionality reduction …
+论文链接: https://www.sciencedirect.com/science/article/pii/S1877050920300879
+请访问链接查看完整论文。

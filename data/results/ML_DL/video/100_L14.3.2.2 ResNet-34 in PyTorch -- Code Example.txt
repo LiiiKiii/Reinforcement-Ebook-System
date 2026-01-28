@@ -1,0 +1,4 @@
+Title: L14.3.2.2 ResNet-34 in PyTorch -- Code Example
+URL: https://www.youtube.com/watch?v=JG_ODvnlgjY
+Description: YouTube视频: L14.3.2.2 ResNet-34 in PyTorch -- Code Example
+Thumbnail: https://i.ytimg.com/vi/JG_ODvnlgjY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IBMoKDAP&rs=AOn4CLD-R211V9Yfr7mVYT0w8DNyAKE4zg

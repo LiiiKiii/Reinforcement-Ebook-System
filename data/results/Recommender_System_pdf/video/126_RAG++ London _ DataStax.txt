@@ -1,0 +1,4 @@
+Title: RAG++ London | DataStax
+URL: https://www.youtube.com/watch?v=A4ulA2V-PnE
+Description: YouTube视频: RAG++ London | DataStax
+Thumbnail: https://i.ytimg.com/vi/A4ulA2V-PnE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaHExAeMURMAK1o0YkXBVXcErsmg

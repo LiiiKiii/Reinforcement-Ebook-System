@@ -1,0 +1,4 @@
+Title: Natural Language Processing with spaCy & Python - Course for Beginners
+URL: https://www.youtube.com/watch?v=dIUTsFT2MeQ
+Description: YouTube视频: Natural Language Processing with spaCy & Python - Course for Beginners
+Thumbnail: https://i.ytimg.com/vi/dIUTsFT2MeQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLF0wg8z9YDCbNblwoYHrun4nlBw

@@ -1,0 +1,4 @@
+Title: RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models
+URL: https://www.youtube.com/watch?v=zYGDpG-pTho
+Description: YouTube视频: RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models
+Thumbnail: https://i.ytimg.com/vi/zYGDpG-pTho/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYHDgpqGH0zbMtBXnJfEGVHMQl6g

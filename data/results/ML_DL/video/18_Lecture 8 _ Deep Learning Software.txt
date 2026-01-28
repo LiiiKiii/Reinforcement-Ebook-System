@@ -1,0 +1,4 @@
+Title: Lecture 8 | Deep Learning Software
+URL: https://www.youtube.com/watch?v=6SlgtELqOWc
+Description: YouTube视频: Lecture 8 | Deep Learning Software
+Thumbnail: https://i.ytimg.com/vi/6SlgtELqOWc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCU9_DSbUgrgQPAqhmHxTQakWV5JA

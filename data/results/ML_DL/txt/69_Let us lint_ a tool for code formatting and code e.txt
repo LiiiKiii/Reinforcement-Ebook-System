@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://ieeexplore.ieee.org/abstract/document/10306770/
+
+==================================================
+
+论文标题: Let us lint: a tool for code formatting and code enhancing
+作者/来源: K Vayadande, K Mukhopadhyay… - 2023 14th …, 2023 - ieeexplore.ieee.org
+摘要: … track and manage code changes over time. In conclusion, Let Us Lint is a powerful tool that
+provides a wide range of features to help developers format and enhance their code. With its …
+论文链接: https://ieeexplore.ieee.org/abstract/document/10306770/
+请访问链接查看完整论文。

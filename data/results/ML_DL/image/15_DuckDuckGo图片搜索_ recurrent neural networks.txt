@@ -1,0 +1,3 @@
+Title: DuckDuckGo图片搜索: recurrent neural networks
+URL: https://duckduckgo.com/?q=recurrent%20neural%20networks&iax=images&ia=images
+Source: DuckDuckGo Images

@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://books.google.com/books?hl=en&amp;lr=&amp;id=2H1_DwAAQBAJ&amp;oi=fnd&amp;pg=PT14&amp;dq=let+look+code&amp;ots=NhCzviq-T2&amp;sig=wxKdjmL-SCxGl9Bz6SIgO53h-hU
+
+==================================================
+
+论文标题: Refactoring: improving the design of existing code
+作者/来源: M Fowler - 2018 - books.google.com
+摘要: … Let me stress that it&#39;s these changes that drive the need to perform refactoring. If the … As
+I look at this chunk, I conclude that it’s calculating the charge for one performance. That …
+论文链接: https://books.google.com/books?hl=en&amp;lr=&amp;id=2H1_DwAAQBAJ&amp;oi=fnd&amp;pg=PT14&amp;dq=let+look+code&amp;ots=NhCzviq-T2&amp;sig=wxKdjmL-SCxGl9Bz6SIgO53h-hU
+请访问链接查看完整论文。

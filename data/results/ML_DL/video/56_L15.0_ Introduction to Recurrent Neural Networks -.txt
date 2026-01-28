@@ -1,0 +1,4 @@
+Title: L15.0: Introduction to Recurrent Neural Networks -- Lecture Overview
+URL: https://www.youtube.com/watch?v=q5YxK17tRm0
+Description: YouTube视频: L15.0: Introduction to Recurrent Neural Networks -- Lecture Overview
+Thumbnail: https://i.ytimg.com/vi/q5YxK17tRm0/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IBMoVDAP&rs=AOn4CLB5a3ZnvDkN6veX-wF2P3ep9ZPbRg

@@ -1,0 +1,4 @@
+Title: Train Diffusion Models - Line by line code example
+URL: https://www.youtube.com/watch?v=KiP-q8LkmQ8
+Description: YouTube视频: Train Diffusion Models - Line by line code example
+Thumbnail: https://i.ytimg.com/vi/KiP-q8LkmQ8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcLpNMtCfsCDO9I4AmlZK7-bOvrw

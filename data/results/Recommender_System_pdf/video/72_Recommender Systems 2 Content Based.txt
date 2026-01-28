@@ -1,0 +1,4 @@
+Title: Recommender Systems 2 Content Based
+URL: https://www.youtube.com/watch?v=4sy2tpzlgg4
+Description: YouTube视频: Recommender Systems 2 Content Based
+Thumbnail: https://i.ytimg.com/vi/4sy2tpzlgg4/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDWlyfphxfnVK5QIqd-z3ZK19TopQ

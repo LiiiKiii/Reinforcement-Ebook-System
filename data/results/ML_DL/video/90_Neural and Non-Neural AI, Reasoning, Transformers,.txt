@@ -1,0 +1,4 @@
+Title: Neural and Non-Neural AI, Reasoning, Transformers, and LSTMs
+URL: https://www.youtube.com/watch?v=DP454c1K_vQ
+Description: YouTube视频: Neural and Non-Neural AI, Reasoning, Transformers, and LSTMs
+Thumbnail: https://i.ytimg.com/vi/DP454c1K_vQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0FnMfYz6U2FJ1IY3QhCLLg0g_hQ

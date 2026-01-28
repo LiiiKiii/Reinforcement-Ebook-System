@@ -1,0 +1,4 @@
+Title: 12a: Neural Nets
+URL: https://www.youtube.com/watch?v=uXt8qF2Zzfo
+Description: YouTube视频: 12a: Neural Nets
+Thumbnail: https://i.ytimg.com/vi/uXt8qF2Zzfo/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhaIFooWjAP&rs=AOn4CLCgbPdq3mSBpzAI-skcfcDeUbspGQ

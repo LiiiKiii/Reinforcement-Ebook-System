@@ -1,0 +1,4 @@
+Title: scikit-mdr
+URL: https://github.com/EpistasisLab/scikit-mdr
+Source: GitHub
+Description: GitHub代码仓库: scikit-mdr

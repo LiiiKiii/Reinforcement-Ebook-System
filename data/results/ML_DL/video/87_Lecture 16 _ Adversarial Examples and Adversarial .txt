@@ -1,0 +1,4 @@
+Title: Lecture 16 | Adversarial Examples and Adversarial Training
+URL: https://www.youtube.com/watch?v=CIfsB_EYsVI
+Description: YouTube视频: Lecture 16 | Adversarial Examples and Adversarial Training
+Thumbnail: https://i.ytimg.com/vi/CIfsB_EYsVI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4NEtO-TqZ3v6OLweL3ZlVR32bPw

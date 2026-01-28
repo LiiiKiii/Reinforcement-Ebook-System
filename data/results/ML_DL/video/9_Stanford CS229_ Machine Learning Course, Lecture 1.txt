@@ -1,0 +1,4 @@
+Title: Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018)
+URL: https://www.youtube.com/watch?v=jGwO_UgTS7I
+Description: YouTube视频: Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018)
+Thumbnail: https://i.ytimg.com/vi/jGwO_UgTS7I/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDpHMTLsrjRRNJQx0_QWp14PuMl3w

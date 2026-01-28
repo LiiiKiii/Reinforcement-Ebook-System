@@ -1,0 +1,4 @@
+Title: Machine Learning vs. Deep Learning vs. Foundation Models
+URL: https://www.youtube.com/watch?v=Beh13Cd_QbY
+Description: YouTube视频: Machine Learning vs.  Deep Learning  vs.  Foundation Models
+Thumbnail: https://i.ytimg.com/vi/Beh13Cd_QbY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDE6PUrSMcxtXcOZ89yvPVS9KxU7Q

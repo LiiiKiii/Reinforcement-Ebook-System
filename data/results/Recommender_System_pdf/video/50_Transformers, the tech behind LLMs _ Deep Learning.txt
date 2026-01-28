@@ -1,0 +1,4 @@
+Title: Transformers, the tech behind LLMs | Deep Learning Chapter 5
+URL: https://www.youtube.com/watch?v=wjZofJX0v4M
+Description: YouTube视频: Transformers, the tech behind LLMs | Deep Learning Chapter 5
+Thumbnail: https://i.ytimg.com/vi/wjZofJX0v4M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIDBL_vgn5H2zkyjwo32PBmvvU2w

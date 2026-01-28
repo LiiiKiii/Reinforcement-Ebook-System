@@ -1,0 +1,9 @@
+Source: arXiv
+URL: http://arxiv.org/abs/1601.05711v1
+
+==================================================
+
+作者: Elena Saiz, Antonio Guerrero, Consuelo Cid, Judith Palacios, Yolanda Cerrato
+摘要: The Carrington storm in 1859 is considered to be the major geomagnetic disturbance related to solar activity. In a recent paper, Cid et al. (2015) discovered a geomagnetic disturbance case with a profile extraordinarily similar to the disturbance of the Carrington event at Colaba, but at a mid-latitude observatory, leading to a re- interpretation of the 1859 event. Based on those results, this paper performs a deep search for other 'Carrington-like' events and analyses interplanetary observations leading to the ground disturbances which emerged from the systematic analysis. The results of this study based on two Carrington-like events (1) reinforce the awareness about the possibility of missing hazardous space weather events as the large H-spike recorded at Colaba by using global geomagnetic indices, (2) argue against the role of the ring current as the major current involved in Carrington-like events, leaving field- aligned currents (FACs) as the main current involved, and (3) propose...
+arXiv链接: http://arxiv.org/abs/1601.05711v1
+请访问链接查看完整论文。

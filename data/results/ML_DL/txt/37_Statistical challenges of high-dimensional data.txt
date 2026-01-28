@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2009.0159
+
+==================================================
+
+论文标题: Statistical challenges of high-dimensional data
+作者/来源: IM Johnstone, DM Titterington - … transactions of the …, 2009 - royalsocietypublishing.org
+摘要: … to high dimension In this section, we attempt to indicate the nature of the general issue of
+high dimension by … takes us into realms where the difficulties of high dimension become clear. …
+论文链接: https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2009.0159
+请访问链接查看完整论文。

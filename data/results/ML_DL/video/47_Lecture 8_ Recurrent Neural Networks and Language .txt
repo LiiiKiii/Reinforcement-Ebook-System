@@ -1,0 +1,4 @@
+Title: Lecture 8: Recurrent Neural Networks and Language Models
+URL: https://www.youtube.com/watch?v=Keqep_PKrY8
+Description: YouTube视频: Lecture 8: Recurrent Neural Networks and Language Models
+Thumbnail: https://i.ytimg.com/vi/Keqep_PKrY8/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAP7t4y_VyMmMW9VncqQboSFEjmrg

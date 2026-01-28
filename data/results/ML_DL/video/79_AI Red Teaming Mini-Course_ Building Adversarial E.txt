@@ -1,0 +1,4 @@
+Title: AI Red Teaming Mini-Course: Building Adversarial Examples
+URL: https://www.youtube.com/watch?v=sq_tvsS0lrU
+Description: YouTube视频: AI Red Teaming Mini-Course: Building Adversarial Examples
+Thumbnail: https://i.ytimg.com/vi/sq_tvsS0lrU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGDYyQaLijFdFWlbdokismNoRBTw

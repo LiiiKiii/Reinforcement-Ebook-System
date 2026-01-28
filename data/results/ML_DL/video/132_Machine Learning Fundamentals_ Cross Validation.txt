@@ -1,0 +1,4 @@
+Title: Machine Learning Fundamentals: Cross Validation
+URL: https://www.youtube.com/watch?v=fSytzGwwBVw
+Description: YouTube视频: Machine Learning Fundamentals: Cross Validation
+Thumbnail: https://i.ytimg.com/vi/fSytzGwwBVw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClzFfKc7G5EW0GK8av08ZhER7N2w

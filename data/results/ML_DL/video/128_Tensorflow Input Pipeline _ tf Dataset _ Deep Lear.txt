@@ -1,0 +1,4 @@
+Title: Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)
+URL: https://www.youtube.com/watch?v=VFEOskzhhbc
+Description: YouTube视频: Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)
+Thumbnail: https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOucHTY-xPxtt7YcEQvLScLQ0WKA

@@ -1,0 +1,4 @@
+Title: What are Generative Adversarial Networks - GANs - Ian Goodfellow GAN inventor
+URL: https://www.youtube.com/watch?v=ZR7tyWUZyHw
+Description: YouTube视频: What are Generative Adversarial Networks - GANs - Ian Goodfellow   GAN inventor
+Thumbnail: https://i.ytimg.com/vi/ZR7tyWUZyHw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBGyG5Xj4M5hY8KkXjoqYokiO2Pg

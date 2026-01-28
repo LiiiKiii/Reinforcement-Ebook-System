@@ -1,0 +1,9 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2002.05559v2
+
+==================================================
+
+作者: Francisca Vasconcelos
+摘要: This article provides an overview of the history, theoretical basis, and different implementations of quantum computers. In Fall 2018, four MIT faculty -- Isaac Chuang, Dirk Englund, Aram Harrow, and William Oliver -- at the forefront of quantum computation and information research were interviewed. They provided personal perspectives on the development of the field, as well as insight to its near-term trajectory. There has been a lot of recent media hype surrounding quantum computation, so in this article we present an academic view of the matter, specifically highlighting progress being made at MIT.
+arXiv链接: http://arxiv.org/abs/2002.05559v2
+请访问链接查看完整论文。

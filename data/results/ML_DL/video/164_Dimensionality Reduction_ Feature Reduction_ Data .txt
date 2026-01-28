@@ -1,0 +1,4 @@
+Title: Dimensionality Reduction: Feature Reduction: Data Science Project Development
+URL: https://www.youtube.com/watch?v=KCNBGB4iIlM
+Description: YouTube视频: Dimensionality Reduction: Feature Reduction: Data Science Project Development
+Thumbnail: https://i.ytimg.com/vi/KCNBGB4iIlM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh9f8gL7H90ECwLMjgA-Pjr8YAYA

@@ -1,0 +1,618 @@
+/* 研发进度页面样式 - 苹果风格设计 */
+
+/* 注意：body背景样式在style.css中统一设置，这里不覆盖body背景 */
+
+.progress-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  padding-top: 100px;
+  padding-bottom: 120px;
+}
+
+.navbar {
+  animation: none !important;
+  opacity: 1 !important;
+}
+
+/* ========== 苹果风格动画定义 ========== */
+@keyframes appleFadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(60px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes appleFadeInUpCard {
+  from {
+    opacity: 0;
+    transform: translateY(50px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+:root {
+  --apple-ease: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --apple-ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --apple-smooth: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ========== Hero Section ========== */
+.progress-hero {
+  text-align: center;
+  padding: 60px 20px 100px;
+  margin-bottom: 40px;
+  opacity: 0;
+  transform: translateY(60px);
+  animation: appleFadeInUp 1.2s var(--apple-ease-out) 0.2s forwards;
+  animation-fill-mode: forwards;
+}
+
+.progress-main-title {
+  font-size: 4rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #1d1d1f;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  transition: color 0.3s ease;
+}
+
+body.light-mode .progress-main-title {
+  color: #1d1d1f;
+}
+
+body:not(.light-mode) .progress-main-title {
+  color: #f5f5f7;
+}
+
+.progress-subtitle {
+  font-size: 1.25rem;
+  color: #86868b;
+  font-weight: 400;
+  margin: 0;
+  transition: color 0.3s ease;
+  opacity: 0;
+  transform: translateY(40px);
+  animation: appleFadeInUp 1s var(--apple-ease-out) 0.4s forwards;
+  animation-fill-mode: forwards;
+}
+
+body:not(.light-mode) .progress-subtitle {
+  color: #a1a1a6;
+}
+
+/* ========== 横向时间线（替换原来的三个方块） ========== */
+.progress-overview-timeline {
+  margin-bottom: 150px;
+  padding-bottom: 80px;
+}
+
+.overview-timeline {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 80px 40px;
+  opacity: 0;
+  transform: translateY(50px) scale(0.95);
+  animation: appleFadeInUpCard 0.9s var(--apple-ease-out) 0.6s forwards;
+  animation-fill-mode: forwards;
+}
+
+.overview-timeline-item {
+  position: relative;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 2;
+}
+
+.overview-marker {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.overview-dot {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 4px solid;
+  position: relative;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.overview-timeline-item.completed .overview-dot {
+  background: #667eea;
+  border-color: #667eea;
+  box-shadow: 0 0 0 8px rgba(102, 126, 234, 0.2);
+}
+
+.overview-timeline-item.completed .overview-dot::after {
+  content: '✓';
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.overview-timeline-item.in-progress .overview-dot {
+  background: #f59e0b;
+  border-color: #f59e0b;
+  box-shadow: 0 0 0 8px rgba(245, 158, 11, 0.2);
+  animation: pulse 2s infinite;
+}
+
+.overview-timeline-item.upcoming .overview-dot {
+  background: transparent;
+  border-color: #86868b;
+}
+
+.overview-content {
+  text-align: center;
+}
+
+.overview-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #e0e0e0;
+  margin: 0;
+  transition: color 0.3s ease;
+}
+
+body.light-mode .overview-title {
+  color: #2d3748;
+}
+
+.overview-connector {
+  position: absolute;
+  top: 20px;
+  left: calc(50% + 20px);
+  width: calc(100% - 40px);
+  height: 3px;
+  background: linear-gradient(90deg, #667eea 0%, rgba(102, 126, 234, 0.3) 100%);
+  z-index: 1;
+}
+
+.overview-timeline-item:last-child .overview-connector {
+  display: none;
+}
+
+.overview-timeline-item.upcoming .overview-connector {
+  background: rgba(255,255,255,0.1);
+}
+
+body.light-mode .overview-timeline-item.upcoming .overview-connector {
+  background: rgba(0,0,0,0.1);
+}
+
+.overview-timeline-item.in-progress ~ .overview-timeline-item .overview-connector {
+  background: rgba(255,255,255,0.1);
+}
+
+body.light-mode .overview-timeline-item.in-progress ~ .overview-timeline-item .overview-connector {
+  background: rgba(0,0,0,0.1);
+}
+
+@keyframes pulse {
+  0%, 100% {
+    box-shadow: 0 0 0 8px rgba(245, 158, 11, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 0 12px rgba(245, 158, 11, 0.1);
+  }
+}
+
+/* ========== 滚动渐入效果 ========== */
+.scroll-fade-in {
+  opacity: 0;
+  transform: translate3d(0, 50px, 0);
+  transition: opacity 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+              transform 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  /* 防止抖动 */
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+.scroll-fade-in.visible {
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+  /* 完全可见后移除will-change，避免性能问题 */
+  will-change: auto;
+}
+
+/* ========== 研发时间线（垂直时间线，保持不变） ========== */
+.progress-timeline {
+  margin-top: 120px;
+  margin-bottom: 120px;
+  padding-top: 60px;
+  /* 防止滚动时抖动 - 使用GPU加速 */
+  transform: translateZ(0);
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #1d1d1f;
+  margin-bottom: 80px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  transition: color 0.3s ease;
+}
+
+body:not(.light-mode) .section-title {
+  color: #f5f5f7;
+}
+
+.timeline {
+  position: relative;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.timeline-item {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 80px;
+  /* 防止滚动时抖动 */
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+.timeline-marker {
+  position: relative;
+  flex-shrink: 0;
+  width: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.marker-dot {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: 3px solid;
+  position: relative;
+  z-index: 2;
+  transition: all 0.3s ease;
+}
+
+.timeline-item.completed .marker-dot {
+  background: #667eea;
+  border-color: #667eea;
+  box-shadow: 0 0 0 4px rgba(102, 126, 234, 0.2);
+}
+
+.timeline-item.in-progress .marker-dot {
+  background: #f59e0b;
+  border-color: #f59e0b;
+  box-shadow: 0 0 0 4px rgba(245, 158, 11, 0.2);
+  animation: pulse 2s infinite;
+}
+
+.timeline-item.upcoming .marker-dot {
+  background: transparent;
+  border-color: #86868b;
+}
+
+.marker-line {
+  width: 2px;
+  flex: 1;
+  margin-top: 8px;
+  background: linear-gradient(180deg, #667eea 0%, rgba(102, 126, 234, 0.3) 100%);
+}
+
+.timeline-item.upcoming .marker-line {
+  background: rgba(255,255,255,0.1);
+}
+
+body.light-mode .timeline-item.upcoming .marker-line {
+  background: rgba(0,0,0,0.1);
+}
+
+.timeline-content {
+  flex: 1;
+  padding-bottom: 20px;
+}
+
+.timeline-date {
+  font-size: 0.9rem;
+  color: #86868b;
+  margin-bottom: 8px;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+body:not(.light-mode) .timeline-date {
+  color: #a1a1a6;
+}
+
+.timeline-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #1d1d1f;
+  margin-bottom: 12px;
+  transition: color 0.3s ease;
+}
+
+body:not(.light-mode) .timeline-title {
+  color: #f5f5f7;
+}
+
+.timeline-description {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #86868b;
+  margin-bottom: 16px;
+  transition: color 0.3s ease;
+}
+
+body:not(.light-mode) .timeline-description {
+  color: #a1a1a6;
+}
+
+.timeline-features {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.feature-tag {
+  display: inline-block;
+  padding: 6px 12px;
+  background: rgba(102, 126, 234, 0.15);
+  color: #667eea;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.feature-tag:hover {
+  background: rgba(102, 126, 234, 0.25);
+  transform: translateY(-2px);
+}
+
+/* ========== 功能模块 ========== */
+.progress-modules {
+  margin-top: 120px;
+  margin-bottom: 0;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+/* 确保功能模块在底部时完全不透明 */
+.progress-modules.visible,
+.progress-modules.visible .module-card {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
+}
+
+.modules-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 32px;
+  margin-top: 40px;
+}
+
+.module-card {
+  background: linear-gradient(135deg, #2d2d44 0%, #1e1e2e 100%);
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+  border: 1px solid rgba(255,255,255,0.1);
+  transition: all 0.3s ease;
+}
+
+.module-card:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 15px 50px rgba(0,0,0,0.6);
+}
+
+body.light-mode .module-card {
+  background: linear-gradient(135deg, #ffffff 0%, #f7fafc 100%);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.module-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.module-icon {
+  font-size: 2rem;
+}
+
+.module-status {
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.module-status.completed {
+  background: rgba(34, 197, 94, 0.2);
+  color: #22c55e;
+}
+
+.module-status.in-progress {
+  background: rgba(245, 158, 11, 0.2);
+  color: #f59e0b;
+}
+
+.module-status.upcoming {
+  background: rgba(134, 134, 139, 0.2);
+  color: #86868b;
+}
+
+.module-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #e0e0e0;
+  margin-bottom: 12px;
+  transition: color 0.3s ease;
+}
+
+body.light-mode .module-title {
+  color: #2d3748;
+}
+
+.module-description {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #86868b;
+  margin-bottom: 16px;
+  transition: color 0.3s ease;
+}
+
+body:not(.light-mode) .module-description {
+  color: #a1a1a6;
+}
+
+.module-progress {
+  display: none;
+  align-items: center;
+  gap: 12px;
+}
+
+.progress-bar-container {
+  flex: 1;
+  height: 6px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+body.light-mode .progress-bar-container {
+  background: rgba(0,0,0,0.1);
+}
+
+.progress-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  border-radius: 4px;
+  transition: width 0.6s ease;
+}
+
+.module-progress span {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #667eea;
+  min-width: 40px;
+  text-align: right;
+}
+
+/* ========== 响应式设计 ========== */
+@media (max-width: 1200px) {
+  .overview-timeline {
+    padding: 50px 30px;
+  }
+  
+  .overview-title {
+    font-size: 1rem;
+  }
+  
+  .overview-dot {
+    width: 35px;
+    height: 35px;
+  }
+}
+
+@media (max-width: 768px) {
+  .progress-main-title {
+    font-size: 2.5rem;
+  }
+  
+  .overview-timeline {
+    flex-direction: column;
+    gap: 30px;
+    padding: 40px 20px;
+  }
+  
+  .overview-timeline-item {
+    width: 100%;
+  }
+  
+  .overview-connector {
+    display: block;
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 3px;
+    height: 32px;
+    margin-top: 8px;
+    background: linear-gradient(180deg, #667eea 0%, rgba(102, 126, 234, 0.2) 100%);
+  }
+  
+  .overview-marker {
+    margin-bottom: 12px;
+  }
+  
+  .modules-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+  }
+
+  /* 移动端时间线视觉增强 */
+  .timeline-marker {
+    align-items: flex-start;
+  }
+
+  .marker-dot {
+    width: 28px;
+    height: 28px;
+    box-shadow: 0 0 0 6px rgba(102, 126, 234, 0.18);
+  }
+
+  .timeline-date {
+    font-size: 0.95rem;
+  }
+
+  .timeline-title {
+    font-size: 1.25rem;
+  }
+
+  /* 移动端研发时间线：保持与桌面类似的左侧竖线布局，只是更加紧凑 */
+  .timeline {
+    padding: 0 4px;
+  }
+
+  .timeline-item {
+    flex-direction: row;
+    gap: 18px;
+  }
+
+  .timeline-marker {
+    width: 32px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+  .marker-line {
+    width: 2px;
+    height: auto;
+    margin-top: 8px;
+    margin-left: 0;
+  }
+}

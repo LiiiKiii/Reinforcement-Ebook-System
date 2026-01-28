@@ -1,0 +1,4 @@
+Title: chainer
+URL: https://github.com/chainer/chainer
+Source: GitHub
+Description: GitHub代码仓库: chainer

@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://link.springer.com/chapter/10.1007/978-81-322-3972-7_19
+
+==================================================
+
+论文标题: Natural language processing
+作者/来源: KR Chowdhary - Fundamentals of artificial intelligence, 2020 - Springer
+摘要: … Python is also available with an extensive standard library, that includes tools for speech
+processing, natural language processing, numerical processing, and graphical programming […
+论文链接: https://link.springer.com/chapter/10.1007/978-81-322-3972-7_19
+请访问链接查看完整论文。

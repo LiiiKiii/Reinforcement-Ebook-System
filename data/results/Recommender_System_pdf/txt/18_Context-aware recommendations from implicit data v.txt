@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/1309.7611v1
+
+==================================================
+
+论文标题: Context-aware recommendations from implicit data via scalable tensor factorization
+作者: Balázs Hidasi, Domonkos Tikk
+摘要: Albeit the implicit feedback based recommendation problem - when only the user history is available but there are no ratings - is the most typical setting in real-world applications, it is much less researched than the explicit feedback case. State-of-the-art algorithms that are efficient on the explicit case cannot be automatically transformed to the implicit case if scalability should be maintained. There are few implicit feedback benchmark data sets, therefore new ideas are usually experimented on explicit benchmarks. In this paper, we propose a generic context-aware implicit feedback recommender algorithm, coined iTALS. iTALS applies a fast, ALS-based tensor factorization learning method that scales linearly with the number of non-zero elements in the tensor. We also present two approximate and faster variants of iTALS using coordinate descent and conjugate gradient methods at learning. The method also allows us to incorporate various contextual information into the model while mai...
+arXiv链接: http://arxiv.org/abs/1309.7611v1
+请访问链接查看完整论文。

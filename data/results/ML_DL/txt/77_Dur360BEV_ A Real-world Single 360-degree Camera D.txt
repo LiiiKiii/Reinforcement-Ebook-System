@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://www.luisli.org/assets/pdf/e2025durlar360.pdf
+
+==================================================
+
+论文标题: Dur360BEV: A Real-world Single 360-degree Camera Dataset and Benchmark for Bird-Eye View Mapping in Autonomous Driving
+作者/来源: A Atapour-Abarghouei, TP Breckon - luisli.org
+摘要: We present Dur360BEV, a novel spherical camera autonomous driving dataset equipped
+with a high-resolution 128-channel 3D LiDAR and a RTK-refined GNSS/INS system, along …
+论文链接: https://www.luisli.org/assets/pdf/e2025durlar360.pdf
+请访问链接查看完整论文。

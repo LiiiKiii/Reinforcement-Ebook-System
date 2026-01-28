@@ -1,0 +1,4 @@
+Title: Quantum Quirks & Coherence Hacks (Qwen3 32B)
+URL: https://www.youtube.com/watch?v=Q-bZNJQ58uI
+Description: YouTube视频: Quantum Quirks & Coherence Hacks (Qwen3 32B)
+Thumbnail: https://i.ytimg.com/vi/Q-bZNJQ58uI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWd9jkVWf_KWK8rPJDGmBsf0XKIQ

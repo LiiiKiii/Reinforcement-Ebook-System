@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/1506.04501v1
+
+==================================================
+
+论文标题: On the sensitivity of extracting the astrophysical cross section factor of the 12C(a,g) reaction from existing data [Comment on Schuermann et al. Phys. Lett. B711(2012)35]
+作者: Moshe Gai
+摘要: We address a conflicting report on the value and uncertainty of the astrophysical cross section factor of the 12C(a,g) reaction extracted from existing data. In sharp contrast to previously reported ambiguities (by up to a factor 8), Schuermann et al. suggest an accuracy of 12%. We demonstrate that the so claimed "rigorous data selection criteria" used by Schuermann et al. relies on the s-factors extracted by Assuncao et al. But these results were shown in a later analysis (by this author) to have large error bars (considerably larger than claimed by Assuncao em et al.) which render these data not appropriate for a rigorous analysis. When their "rigorous data selection" is adjusted to remove the results of Assuncao et al. the astrophysical cross section factor cannot be extracted with 12% accuracy, or even close to it. Such data on the S_E2 values at low energies deviate by up to a factor two from their fit and exhibit a sharper slope rising toward low energies, leading to strong doubt...
+arXiv链接: http://arxiv.org/abs/1506.04501v1
+请访问链接查看完整论文。

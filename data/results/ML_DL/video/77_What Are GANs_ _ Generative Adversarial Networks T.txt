@@ -1,0 +1,4 @@
+Title: What Are GANs? | Generative Adversarial Networks Tutorial | Deep Learning | Generative Models
+URL: https://www.youtube.com/watch?v=ThoGC31U-cY
+Description: YouTube视频: What Are GANs? | Generative Adversarial Networks Tutorial | Deep Learning | Generative Models
+Thumbnail: https://i.ytimg.com/vi/ThoGC31U-cY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA0uQqzeHyVQV2z1MCQFIc07BuLw

@@ -1,0 +1,4 @@
+Title: What is Recurrent Neural Network (RNN)? Deep Learning Tutorial 33 (Tensorflow, Keras & Python)
+URL: https://www.youtube.com/watch?v=Y2wfIKQyd1I
+Description: YouTube视频: What is Recurrent Neural Network (RNN)? Deep Learning Tutorial 33 (Tensorflow, Keras & Python)
+Thumbnail: https://i.ytimg.com/vi/Y2wfIKQyd1I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDm1-GQkgsLVMedRmUCBSG8TV0pw

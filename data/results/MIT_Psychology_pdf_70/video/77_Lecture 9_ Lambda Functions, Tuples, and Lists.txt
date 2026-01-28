@@ -1,0 +1,4 @@
+Title: Lecture 9: Lambda Functions, Tuples, and Lists
+URL: https://www.youtube.com/watch?v=h5abkZ_Ch6c
+Description: YouTube视频: Lecture 9: Lambda Functions, Tuples, and Lists
+Thumbnail: https://i.ytimg.com/vi/h5abkZ_Ch6c/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhNIFwoZTAP&rs=AOn4CLB0AAH_Uh31WbWWPztVthz0mbdeXA

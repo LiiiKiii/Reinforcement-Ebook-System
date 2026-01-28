@@ -1,0 +1,4 @@
+Title: Recurrent Neural Networks (RNNs), Clearly Explained!!!
+URL: https://www.youtube.com/watch?v=AsNTP8Kwu80
+Description: YouTube视频: Recurrent Neural Networks (RNNs), Clearly Explained!!!
+Thumbnail: https://i.ytimg.com/vi/AsNTP8Kwu80/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCL6E_5J2e1IaL-M0keWx7X34V6vA

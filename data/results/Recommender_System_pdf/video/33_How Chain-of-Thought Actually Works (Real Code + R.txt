@@ -1,0 +1,4 @@
+Title: How Chain-of-Thought Actually Works (Real Code + Research Papers)
+URL: https://www.youtube.com/watch?v=iYea8xo_Ydg
+Description: YouTube视频: How Chain-of-Thought Actually Works (Real Code + Research Papers)
+Thumbnail: https://i.ytimg.com/vi/iYea8xo_Ydg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFPwF_4P-HeS6bd3tavuRsRNOHoA

@@ -1,0 +1,4 @@
+Title: How word vectors encode meaning
+URL: https://www.youtube.com/watch?v=FJtFZwbvkI4
+Description: YouTube视频: How word vectors encode meaning
+Thumbnail: https://i.ytimg.com/vi/FJtFZwbvkI4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhlIEEoQDAP&rs=AOn4CLCHQcQHvdSxlMbs6xLEPepRq1sXZw

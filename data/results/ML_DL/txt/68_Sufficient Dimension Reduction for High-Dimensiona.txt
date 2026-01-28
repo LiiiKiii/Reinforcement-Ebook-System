@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2110.09620v1
+
+==================================================
+
+论文标题: Sufficient Dimension Reduction for High-Dimensional Regression and Low-Dimensional Embedding: Tutorial and Survey
+作者: Benyamin Ghojogh, Ali Ghodsi, Fakhri Karray, Mark Crowley
+摘要: This is a tutorial and survey paper on various methods for Sufficient Dimension Reduction (SDR). We cover these methods with both statistical high-dimensional regression perspective and machine learning approach for dimensionality reduction. We start with introducing inverse regression methods including Sliced Inverse Regression (SIR), Sliced Average Variance Estimation (SAVE), contour regression, directional regression, Principal Fitted Components (PFC), Likelihood Acquired Direction (LAD), and graphical regression. Then, we introduce forward regression methods including Principal Hessian Directions (pHd), Minimum Average Variance Estimation (MAVE), Conditional Variance Estimation (CVE), and deep SDR methods. Finally, we explain Kernel Dimension Reduction (KDR) both for supervised and unsupervised learning. We also show that supervised KDR and supervised PCA are equivalent.
+arXiv链接: http://arxiv.org/abs/2110.09620v1
+请访问链接查看完整论文。

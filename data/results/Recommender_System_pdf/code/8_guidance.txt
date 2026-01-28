@@ -1,0 +1,4 @@
+Title: guidance
+URL: https://github.com/guidance-ai/guidance
+Source: GitHub
+Description: GitHub代码仓库: guidance

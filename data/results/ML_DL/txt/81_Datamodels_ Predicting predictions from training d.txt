@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://arxiv.org/abs/2202.00622
+
+==================================================
+
+论文标题: Datamodels: Predicting predictions from training data
+作者/来源: A Ilyas, SM Park, L Engstrom, G Leclerc… - arXiv preprint arXiv …, 2022 - arxiv.org
+摘要: … learning suggests that the answers to these questions lie within both the learning algorithm
+and the training data … distribution over subsets that we will use to collect “training data” for gθ, …
+论文链接: https://arxiv.org/abs/2202.00622
+请访问链接查看完整论文。

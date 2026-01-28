@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://arxiv.org/abs/2503.14226
+
+==================================================
+
+论文标题: The Hidden Bloat in Machine Learning Systems
+作者/来源: H Zhang, A Ali-Eldin - arXiv preprint arXiv:2503.14226, 2025 - arxiv.org
+摘要: … For example, in our experiment, we observed a single shared library in the PyTorch
+framework contained elements for 6 different GPU architectures. If the library is deployed on a …
+论文链接: https://arxiv.org/abs/2503.14226
+请访问链接查看完整论文。

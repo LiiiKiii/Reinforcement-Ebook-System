@@ -1,0 +1,4 @@
+Title: Natural Language Processing: Crash Course Computer Science #36
+URL: https://www.youtube.com/watch?v=fOvTtapxa9c
+Description: YouTube视频: Natural Language Processing: Crash Course Computer Science #36
+Thumbnail: https://i.ytimg.com/vi/fOvTtapxa9c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAy7rmTf8fP2y_fdpMbZ1J6FCItpg

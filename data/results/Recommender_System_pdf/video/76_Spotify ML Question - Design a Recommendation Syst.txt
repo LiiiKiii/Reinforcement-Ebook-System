@@ -1,0 +1,4 @@
+Title: Spotify ML Question - Design a Recommendation System (Full mock interview)
+URL: https://www.youtube.com/watch?v=vyZMYlGBSBM
+Description: YouTube视频: Spotify ML Question - Design a Recommendation System (Full mock interview)
+Thumbnail: https://i.ytimg.com/vi/vyZMYlGBSBM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2jDd2DHk2nmCy1jLmze692zcrBA

@@ -1,0 +1,4 @@
+Title: Tutorial: Recurrent neural networks for cognitive neuroscience
+URL: https://www.youtube.com/watch?v=k5bQnPtX3wY
+Description: YouTube视频: Tutorial: Recurrent neural networks for cognitive neuroscience
+Thumbnail: https://i.ytimg.com/vi/k5bQnPtX3wY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARhlIFsoTjAP&rs=AOn4CLABWwsFHThb-ApnVE1lDGn13NoKrA

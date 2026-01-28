@@ -1,0 +1,4 @@
+Title: neural-networks-and-deep-learning
+URL: https://github.com/mnielsen/neural-networks-and-deep-learning
+Source: GitHub
+Description: GitHub代码仓库: neural-networks-and-deep-learning

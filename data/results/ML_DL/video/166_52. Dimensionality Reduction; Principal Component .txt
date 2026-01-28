@@ -1,0 +1,4 @@
+Title: 52. Dimensionality Reduction; Principal Component Analysis PCA
+URL: https://www.youtube.com/watch?v=Wcc35gTjNhs
+Description: YouTube视频: 52. Dimensionality Reduction; Principal Component Analysis PCA
+Thumbnail: https://i.ytimg.com/vi/Wcc35gTjNhs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhOIGUoWTAP&rs=AOn4CLDLm8ifFUxdanWv8COznhRiWUQCAA

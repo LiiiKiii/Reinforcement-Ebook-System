@@ -1,0 +1,4 @@
+Title: Context-aware Fast Food Recommendation with Ray on Apache Spark at Burger King
+URL: https://www.youtube.com/watch?v=2MUQa7kVCV4
+Description: YouTube视频: Context-aware Fast Food Recommendation with Ray on Apache Spark at Burger King
+Thumbnail: https://i.ytimg.com/vi/2MUQa7kVCV4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF9YAaThIK8Hsd7_skoSajk2InaQ

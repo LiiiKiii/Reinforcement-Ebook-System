@@ -1,0 +1,4 @@
+Title: The Only Deep Learning Book You Need
+URL: https://www.youtube.com/watch?v=Ri-CkjnhRRo
+Description: YouTube视频: The Only Deep Learning Book You Need
+Thumbnail: https://i.ytimg.com/vi/Ri-CkjnhRRo/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFkoSzAP&rs=AOn4CLBmREYNzMVOBvN4euHMAYJsceASxA

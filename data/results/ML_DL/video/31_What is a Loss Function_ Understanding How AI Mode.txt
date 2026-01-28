@@ -1,0 +1,4 @@
+Title: What is a Loss Function? Understanding How AI Models Learn
+URL: https://www.youtube.com/watch?v=v_ueBW_5dLg
+Description: YouTube视频: What is a Loss Function? Understanding How AI Models Learn
+Thumbnail: https://i.ytimg.com/vi/v_ueBW_5dLg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTQr09Xwq7EE01LBXTwU_uY2A7uQ

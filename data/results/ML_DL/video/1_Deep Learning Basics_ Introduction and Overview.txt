@@ -1,0 +1,4 @@
+Title: Deep Learning Basics: Introduction and Overview
+URL: https://www.youtube.com/watch?v=O5xeyoRL95U
+Description: YouTube视频: Deep Learning Basics: Introduction and Overview
+Thumbnail: https://i.ytimg.com/vi/O5xeyoRL95U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClpExzSeCF1pfFTkWUOjec26BDvA

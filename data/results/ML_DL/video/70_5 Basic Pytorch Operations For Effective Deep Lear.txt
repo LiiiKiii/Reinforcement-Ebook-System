@@ -1,0 +1,4 @@
+Title: 5 Basic Pytorch Operations For Effective Deep Learning Flows
+URL: https://www.youtube.com/watch?v=LVnmqj-h33E
+Description: YouTube视频: 5 Basic Pytorch Operations For Effective Deep Learning Flows
+Thumbnail: https://i.ytimg.com/vi/LVnmqj-h33E/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY_umtH6lrQaU7yJz6a7hIMLKI9g

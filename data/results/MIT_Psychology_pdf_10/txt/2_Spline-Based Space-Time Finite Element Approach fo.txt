@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2203.16152v1
+
+==================================================
+
+论文标题: Spline-Based Space-Time Finite Element Approach for Fluid-Structure Interaction Problems With a Focus on Fully Enclosed Domains
+作者: Michel Make, Thomas Spenke, Norbert Hosters, Marek Behr
+摘要: Non-Uniform Rational B-Spline (NURBS) surfaces are commonly used within Computer-Aided Design (CAD) tools to represent geometric objects. When using isogeometric analysis (IGA), it is possible to use such NURBS geometries for numerical analysis directly. Analyzing fluid flows, however, requires complex three-dimensional geometries to represent flow domains. Defining a parametrization of such volumetric domains using NURBS can be challenging and is still an ongoing topic in the IGA community. With the recently developed NURBS-enhanced finite element method (NEFEM), the favorable geometric characteristics of NURBS are used within a standard finite element method. This is achieved by enhancing the elements touching the boundary by using the NURBS geometry itself. In the current work, a new variation of NEFEM is introduced, which is suitable for three-dimensional space-time finite element formulations. The proposed method makes use of a new mapping which results in a non-Cartesian formulat...
+arXiv链接: http://arxiv.org/abs/2203.16152v1
+请访问链接查看完整论文。

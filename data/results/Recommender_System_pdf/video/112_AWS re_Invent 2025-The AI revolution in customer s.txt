@@ -1,0 +1,4 @@
+Title: AWS re:Invent 2025-The AI revolution in customer support: Building predictive service systems-SPS315
+URL: https://www.youtube.com/watch?v=-YPRALPdso8
+Description: YouTube视频: AWS re:Invent 2025-The AI revolution in customer support: Building predictive service systems-SPS315
+Thumbnail: https://i.ytimg.com/vi/-YPRALPdso8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2PxdtbtaZBuMt4rcfi4zhZSycSw

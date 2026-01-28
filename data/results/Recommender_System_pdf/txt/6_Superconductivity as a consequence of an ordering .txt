@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/1005.0280v6
+
+==================================================
+
+论文标题: Superconductivity as a consequence of an ordering of the electron gas zero-point oscillations
+作者: Boris V. Vasiliev
+摘要: This paper has been administratively withdrawn by arXiv, duplicate of arXiv:1008.2691.
+arXiv链接: http://arxiv.org/abs/1005.0280v6
+请访问链接查看完整论文。

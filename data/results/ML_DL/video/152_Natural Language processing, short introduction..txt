@@ -1,0 +1,4 @@
+Title: Natural Language processing, short introduction.
+URL: https://www.youtube.com/watch?v=4KStHvq7OIg
+Description: YouTube视频: Natural Language processing, short introduction.
+Thumbnail: https://i.ytimg.com/vi/4KStHvq7OIg/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgTIB4ofzAP&rs=AOn4CLDZLZKTZThfZ3FkF9vsv57e0j3N9A

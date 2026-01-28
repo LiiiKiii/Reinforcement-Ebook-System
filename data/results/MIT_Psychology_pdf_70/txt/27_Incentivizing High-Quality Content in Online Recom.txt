@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2306.07479v3
+
+==================================================
+
+论文标题: Incentivizing High-Quality Content in Online Recommender Systems
+作者: Xinyan Hu, Meena Jagadeesan, Michael I. Jordan, Jacob Steinhardt
+摘要: In content recommender systems such as TikTok and YouTube, the platform's recommendation algorithm shapes content producer incentives. Many platforms employ online learning, which generates intertemporal incentives, since content produced today affects recommendations of future content. We study the game between producers and analyze the content created at equilibrium. We show that standard online learning algorithms, such as Hedge and EXP3, unfortunately incentivize producers to create low-quality content, where producers' effort approaches zero in the long run for typical learning rate schedules. Motivated by this negative result, we design learning algorithms that incentivize producers to invest high effort and achieve high user welfare. At a conceptual level, our work illustrates the unintended impact that a platform's learning algorithm can have on content quality and introduces algorithmic approaches to mitigating these effects.
+arXiv链接: http://arxiv.org/abs/2306.07479v3
+请访问链接查看完整论文。

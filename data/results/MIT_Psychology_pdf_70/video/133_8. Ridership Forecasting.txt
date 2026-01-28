@@ -1,0 +1,4 @@
+Title: 8. Ridership Forecasting
+URL: https://www.youtube.com/watch?v=Wlz_17id1BM
+Description: YouTube视频: 8. Ridership Forecasting
+Thumbnail: https://i.ytimg.com/vi/Wlz_17id1BM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVX_Hyfp2vDdXf3czZELtb0FgSjw

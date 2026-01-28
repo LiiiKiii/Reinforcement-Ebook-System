@@ -1,0 +1,4 @@
+Title: PCA for Feature Transformation
+URL: https://www.youtube.com/watch?v=8kUPRUEMCA8
+Description: YouTube视频: PCA for Feature Transformation
+Thumbnail: https://i.ytimg.com/vi/8kUPRUEMCA8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK2mmsSHjxMqdMMAHvpVfe2v2hpg

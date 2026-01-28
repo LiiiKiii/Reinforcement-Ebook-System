@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://dl.acm.org/doi/abs/10.1145/3422622
+
+==================================================
+
+论文标题: Generative adversarial networks
+作者/来源: I Goodfellow, J Pouget-Abadie, M Mirza, B Xu… - Communications of the …, 2020 - dl.acm.org
+摘要: Generative adversarial networks are a kind of artificial intelligence algorithm designed to
+solve the generative modeling problem. The goal of a generative model is to study a collection …
+论文链接: https://dl.acm.org/doi/abs/10.1145/3422622
+请访问链接查看完整论文。

@@ -1,0 +1,4 @@
+Title: What Adversarial Machine Learning Teaches us about AI Memorization
+URL: https://www.youtube.com/watch?v=us4gUJKvwpQ
+Description: YouTube视频: What Adversarial Machine Learning Teaches us about AI Memorization
+Thumbnail: https://i.ytimg.com/vi/us4gUJKvwpQ/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDMExZfdtOX7_82L3FbZ79vkWaqCg

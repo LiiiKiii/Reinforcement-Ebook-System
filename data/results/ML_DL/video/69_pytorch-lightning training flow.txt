@@ -1,0 +1,4 @@
+Title: pytorch-lightning training flow
+URL: https://www.youtube.com/watch?v=Hz9NragPCkU
+Description: YouTube视频: pytorch-lightning training flow
+Thumbnail: https://i.ytimg.com/vi/Hz9NragPCkU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgnvRVlG8uTzYUHY3Q48l4TZFNUQ

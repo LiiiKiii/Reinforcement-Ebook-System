@@ -1,0 +1,4 @@
+Title: Lecture 9: Table Doubling, Karp-Rabin
+URL: https://www.youtube.com/watch?v=BRO7mVIFt08
+Description: YouTube视频: Lecture 9: Table Doubling, Karp-Rabin
+Thumbnail: https://i.ytimg.com/vi/BRO7mVIFt08/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhkIGQoZDAP&rs=AOn4CLAGMXLEqcZ2Op0zSJPxbOX1lj7zWg

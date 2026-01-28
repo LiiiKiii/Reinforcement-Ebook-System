@@ -1,0 +1,4 @@
+Title: OpenAI Codex integrated in VS Code
+URL: https://www.youtube.com/watch?v=kMerQxk_7ks
+Description: YouTube视频: OpenAI Codex integrated in VS Code
+Thumbnail: https://i.ytimg.com/vi/kMerQxk_7ks/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhqIGooajAP&rs=AOn4CLDby91hjxQNSZAMLqrZxMpUsBasCw

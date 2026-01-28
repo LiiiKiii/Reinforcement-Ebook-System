@@ -1,0 +1,10 @@
+Source: Google Scholar
+URL: https://www.taylorfrancis.com/books/mono/10.1201/9781003158745/introduction-high-dimensional-statistics-christophe-giraud
+
+==================================================
+
+论文标题: Introduction to high-dimensional statistics
+作者/来源: C Giraud - 2021 - taylorfrancis.com
+摘要: Praise for the first edition: &quot;[This book] succeeds singularly at providing a structured
+论文链接: https://www.taylorfrancis.com/books/mono/10.1201/9781003158745/introduction-high-dimensional-statistics-christophe-giraud
+请访问链接查看完整论文。

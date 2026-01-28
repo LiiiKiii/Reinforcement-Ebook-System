@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/astro-ph/0410155v1
+
+==================================================
+
+论文标题: The Stellar Populations of Low Luminosity Active Galactic Nuclei. III: Spatially Resolved Spectral Properties
+作者: R. Cid Fernandes, R. M. Gonzalez Delgado, T. Storchi-Bergmann, L. Pires Martins, H. Schmitt
+摘要: In a recent survey of the stellar populations of LINERS and LINER/HII Transition Objects (TOs) we identified a numerous class of nuclei which stand out because of their conspicuous 10^8-9 yr populations. These objects were called ``Young-TOs'', since they all have TO-like emission line ratios. In this paper we investigate the radial variations of spectral properties in Low Luminosity AGN. Our analysis is based on high S/N, 3500-5500 A, long-slit spectra for 47 galaxies. The data probe distances of typically up to 850 pc from the nucleus with a resolution of ~ 100 pc and S/N ~ 30. Stellar population gradients are mapped by the radial profiles of absorption line equivalent widths and colours along the slit. These variations are further analyzed by means of a decomposition of each spectrum in terms of template galaxies representative of very young (&lt;= 10^7 yr), intermediate age (10^8-9 yr) and old (10^10 yr) populations.   Our main findings are: (1) Significant stellar population gradi...
+arXiv链接: http://arxiv.org/abs/astro-ph/0410155v1
+请访问链接查看完整论文。

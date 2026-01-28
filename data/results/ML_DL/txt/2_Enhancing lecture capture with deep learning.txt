@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://www.sciencedirect.com/science/article/pii/S096599782400139X
+
+==================================================
+
+论文标题: Enhancing lecture capture with deep learning
+作者/来源: RM Sales, S Giani - Advances in Engineering Software, 2024 - Elsevier
+摘要: This paper provides an insight into the development of a state-of-the-art video processing
+system to address limitations within Durham University’s ‘Encore’ lecture capture solution. The …
+论文链接: https://www.sciencedirect.com/science/article/pii/S096599782400139X
+请访问链接查看完整论文。

@@ -1,0 +1,4 @@
+Title: ML Lecture 21-1: Recurrent Neural Network (Part I)
+URL: https://www.youtube.com/watch?v=xCGidAeyS4M
+Description: YouTube视频: ML Lecture 21-1: Recurrent Neural Network (Part I)
+Thumbnail: https://i.ytimg.com/vi/xCGidAeyS4M/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgeAAtAFigIMCAAQARhVIFsoZTAP&rs=AOn4CLDlWdEGDu-LnUr3CW6xUi_XuP5OFQ

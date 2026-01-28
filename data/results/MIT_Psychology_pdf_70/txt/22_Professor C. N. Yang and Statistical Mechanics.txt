@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/1010.1838v1
+
+==================================================
+
+论文标题: Professor C. N. Yang and Statistical Mechanics
+作者: F. Y. Wu
+摘要: Professor Chen Ning Yang has made seminal and influential contributions in many different areas in theoretical physics. This talk focuses on his contributions in statistical mechanics, a field in which Professor Yang has held a continual interest for over sixty years. His Master's thesis was on a theory of binary alloys with multi-site interactions, some 30 years before others studied the problem. Likewise, his other works opened the door and led to subsequent developments in many areas of modern day statistical mechanics and mathematical physics. He made seminal contributions in a wide array of topics, ranging from the fundamental theory of phase transitions, the Ising model, Heisenberg spin chains, lattice models, and the Yang-Baxter equation, to the emergence of Yangian in quantum groups. These topics and their ramifications will be discussed in this talk.
+arXiv链接: http://arxiv.org/abs/1010.1838v1
+请访问链接查看完整论文。

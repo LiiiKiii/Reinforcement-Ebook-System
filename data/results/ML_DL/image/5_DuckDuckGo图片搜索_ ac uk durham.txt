@@ -1,0 +1,3 @@
+Title: DuckDuckGo图片搜索: ac uk durham
+URL: https://duckduckgo.com/?q=ac%20uk%20durham&iax=images&ia=images
+Source: DuckDuckGo Images

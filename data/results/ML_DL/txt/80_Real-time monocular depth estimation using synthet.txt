@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: http://openaccess.thecvf.com/content_cvpr_2018/html/Atapour-Abarghouei_Real-Time_Monocular_Depth_CVPR_2018_paper.html
+
+==================================================
+
+论文标题: Real-time monocular depth estimation using synthetic data with domain adaptation via image style transfer
+作者/来源: A Atapour-Abarghouei… - Proceedings of the IEEE …, 2018 - openaccess.thecvf.com
+摘要: Monocular depth estimation using learning-based approaches has become promising in
+recent years. However, most monocular depth estimators either need to rely on large quantities …
+论文链接: http://openaccess.thecvf.com/content_cvpr_2018/html/Atapour-Abarghouei_Real-Time_Monocular_Depth_CVPR_2018_paper.html
+请访问链接查看完整论文。

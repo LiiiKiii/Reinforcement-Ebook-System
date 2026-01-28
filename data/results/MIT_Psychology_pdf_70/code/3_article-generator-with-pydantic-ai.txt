@@ -1,0 +1,4 @@
+Title: article-generator-with-pydantic-ai
+URL: https://github.com/smkalami/article-generator-with-pydantic-ai
+Source: GitHub
+Description: GitHub代码仓库: article-generator-with-pydantic-ai

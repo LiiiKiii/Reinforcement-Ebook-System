@@ -1,0 +1,4 @@
+Title: Lecture: #5 Natural Language Processing - Domain-Specific Text Analysis - ScaDS.AI Dresden/Leipzig
+URL: https://www.youtube.com/watch?v=XrtJqlwfqQ4
+Description: YouTube视频: Lecture: #5 Natural Language Processing - Domain-Specific Text Analysis - ScaDS.AI Dresden/Leipzig
+Thumbnail: https://i.ytimg.com/vi/XrtJqlwfqQ4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuImo-j28fMplMe-ZUlnnfKpyxFQ

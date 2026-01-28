@@ -1,0 +1,4 @@
+Title: L6.3 Automatic Differentiation in PyTorch -- Code Example
+URL: https://www.youtube.com/watch?v=VvUz0Q9e09g
+Description: YouTube视频: L6.3 Automatic Differentiation in PyTorch -- Code Example
+Thumbnail: https://i.ytimg.com/vi/VvUz0Q9e09g/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARgrIGMocjAP&rs=AOn4CLDTGNClCkwhmjUHsqVYpKXctZCTlw

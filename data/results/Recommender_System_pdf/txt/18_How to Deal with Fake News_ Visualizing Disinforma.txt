@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2101.09251v1
+
+==================================================
+
+论文标题: How to Deal with Fake News: Visualizing Disinformation
+作者: F. Espinoza, Department of Physics, Astronomy, Hofstra University, Hempstead
+摘要: The current public sense of anxiety in dealing with disinformation as manifested by so-called fake news is acutely displayed by the reaction to recent events prompted by a belief in conspiracies among certain groups. A model to deal with disinformation is proposed; it is based on a demonstration of the analogous behavior of disinformation to that of wave phenomena. Two criteria form the basis to combat the deleterious effects of disinformation: the use of a refractive medium based on skepticism as the default mode, and polarization as a filter mechanism to analyze its merits based on evidence. Critical thinking is enhanced since the first one tackles the pernicious effect of the confirmation bias, and the second the tendency towards attribution, both of which undermine our efforts to think and act rationally. The benefits of such a strategy include an epistemic reformulation of disinformation as an independently existing phenomenon, that removes its negative connotations when perceived...
+arXiv链接: http://arxiv.org/abs/2101.09251v1
+请访问链接查看完整论文。

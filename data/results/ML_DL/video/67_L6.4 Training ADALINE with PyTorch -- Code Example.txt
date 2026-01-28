@@ -1,0 +1,4 @@
+Title: L6.4 Training ADALINE with PyTorch -- Code Example
+URL: https://www.youtube.com/watch?v=00KgeJwNaZA
+Description: YouTube视频: L6.4 Training ADALINE with PyTorch -- Code Example
+Thumbnail: https://i.ytimg.com/vi/00KgeJwNaZA/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhZIGEoZTAP&rs=AOn4CLAZ993nDYDEYyk8aUMgRedSvAnMag

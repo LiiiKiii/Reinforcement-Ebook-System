@@ -1,0 +1,4 @@
+Title: 8. Natural Language Processing (NLP), Part 2
+URL: https://www.youtube.com/watch?v=lkO2ocJBsmI
+Description: YouTube视频: 8. Natural Language Processing (NLP), Part 2
+Thumbnail: https://i.ytimg.com/vi/lkO2ocJBsmI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuUTMTOmkmQYpLVH1BPpHwmwAR5g

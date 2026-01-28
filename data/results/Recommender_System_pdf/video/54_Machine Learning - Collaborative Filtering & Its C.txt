@@ -1,0 +1,4 @@
+Title: Machine Learning - Collaborative Filtering & Its Challenges
+URL: https://www.youtube.com/watch?v=wTZUHiLUY94
+Description: YouTube视频: Machine Learning - Collaborative Filtering & Its Challenges
+Thumbnail: https://i.ytimg.com/vi/wTZUHiLUY94/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOfn7wE6R1tdQdR8R7awLV4ezj8g

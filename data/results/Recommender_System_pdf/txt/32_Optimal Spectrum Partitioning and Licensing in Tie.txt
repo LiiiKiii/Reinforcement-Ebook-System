@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2102.09162v1
+
+==================================================
+
+论文标题: Optimal Spectrum Partitioning and Licensing in Tiered Access under Stochastic Market Models
+作者: Gourav Saha, Alhussein A. Abouzeid
+摘要: We consider the problem of partitioning a spectrum band into M channels of equal bandwidth, and then further assigning these M channels into P licensed channels and M-P unlicensed channels. Licensed channels can be accessed both for licensed and opportunistic use following a tiered structure which has a higher priority for licensed use. Unlicensed channels can be accessed only for opportunistic use. We address the following question in this paper. Given a market setup, what values of M and P maximize the net spectrum utilization of the spectrum band? While this problem is of fundamental nature, it is highly relevant practically, e.g., in the context of partitioning the recently proposed Citizens Broadband Radio Service band. If M is too high or too low, it may decrease spectrum utilization due to limited channel capacity or due to wastage of channel capacity, respectively. If P is too high (low), it will not incentivize the wireless operators who are primarily interested in unlicensed ...
+arXiv链接: http://arxiv.org/abs/2102.09162v1
+请访问链接查看完整论文。

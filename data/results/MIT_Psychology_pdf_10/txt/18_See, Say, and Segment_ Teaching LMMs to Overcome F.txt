@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2312.08366v1
+
+==================================================
+
+论文标题: See, Say, and Segment: Teaching LMMs to Overcome False Premises
+作者: Tsung-Han Wu, Giscard Biamby, David Chan, Lisa Dunlap, Ritwik Gupta
+摘要: Current open-source Large Multimodal Models (LMMs) excel at tasks such as open-vocabulary language grounding and segmentation but can suffer under false premises when queries imply the existence of something that is not actually present in the image. We observe that existing methods that fine-tune an LMM to segment images significantly degrade their ability to reliably determine ("see") if an object is present and to interact naturally with humans ("say"), a form of catastrophic forgetting. In this work, we propose a cascading and joint training approach for LMMs to solve this task, avoiding catastrophic forgetting of previous skills. Our resulting model can "see" by detecting whether objects are present in an image, "say" by telling the user if they are not, proposing alternative queries or correcting semantic errors in the query, and finally "segment" by outputting the mask of the desired objects if they exist. Additionally, we introduce a novel False Premise Correction benchmark dat...
+arXiv链接: http://arxiv.org/abs/2312.08366v1
+请访问链接查看完整论文。

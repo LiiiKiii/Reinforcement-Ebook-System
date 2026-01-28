@@ -1,0 +1,4 @@
+Title: Torchvision Transforms
+URL: https://www.youtube.com/watch?v=-oAOgBvXdJY
+Description: YouTube视频: Torchvision Transforms
+Thumbnail: https://i.ytimg.com/vi/-oAOgBvXdJY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABD-FAJMnytqWIh9za8_7O9OsorA

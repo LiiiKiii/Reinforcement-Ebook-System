@@ -1,0 +1,4 @@
+Title: This is why Deep Learning is really weird.
+URL: https://www.youtube.com/watch?v=sJXn4Cl4oww
+Description: YouTube视频: This is why Deep Learning is really weird.
+Thumbnail: https://i.ytimg.com/vi/sJXn4Cl4oww/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi3fxwdfXBX1ZAgQ6BmT9vDDXMTQ

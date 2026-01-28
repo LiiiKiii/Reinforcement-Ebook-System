@@ -1,0 +1,4 @@
+Title: Long Short-Term Memory (LSTM), Clearly Explained
+URL: https://www.youtube.com/watch?v=YCzL96nL7j0
+Description: YouTube视频: Long Short-Term Memory (LSTM), Clearly Explained
+Thumbnail: https://i.ytimg.com/vi/YCzL96nL7j0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUjsSEHYu-ZeX5c6yUG4pPwl_gnw

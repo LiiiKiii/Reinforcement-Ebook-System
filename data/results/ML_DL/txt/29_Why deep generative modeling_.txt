@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://link.springer.com/chapter/10.1007/978-3-031-64087-2_1
+
+==================================================
+
+论文标题: Why deep generative modeling?
+作者/来源: JM Tomczak - Deep generative modeling, 2024 - Springer
+摘要: … In VAEs and the pPCA, all distributions must be defined upfront; therefore, they are called
+prescribed models. We will pay special attention to this group of deep generative models in …
+论文链接: https://link.springer.com/chapter/10.1007/978-3-031-64087-2_1
+请访问链接查看完整论文。

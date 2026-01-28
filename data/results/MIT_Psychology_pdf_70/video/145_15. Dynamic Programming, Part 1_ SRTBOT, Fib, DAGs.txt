@@ -1,0 +1,4 @@
+Title: 15. Dynamic Programming, Part 1: SRTBOT, Fib, DAGs, Bowling
+URL: https://www.youtube.com/watch?v=r4-cftqTcdI
+Description: YouTube视频: 15. Dynamic Programming, Part 1: SRTBOT, Fib, DAGs, Bowling
+Thumbnail: https://i.ytimg.com/vi/r4-cftqTcdI/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARhyIGYoOTAP&rs=AOn4CLDmU2eL5DMJZpLe1dyEseXdrP7jUg

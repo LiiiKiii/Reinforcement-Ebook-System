@@ -1,0 +1,4 @@
+Title: Dimensionality Reduction | Stanford CS224U Natural Language Understanding | Spring 2021
+URL: https://www.youtube.com/watch?v=5Bx5UhrJbJI
+Description: YouTube视频: Dimensionality Reduction | Stanford CS224U Natural Language Understanding | Spring 2021
+Thumbnail: https://i.ytimg.com/vi/5Bx5UhrJbJI/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhAIGUoPjAP&rs=AOn4CLAZYS-7aV-QceLHWtrqriht5Nk9Cg

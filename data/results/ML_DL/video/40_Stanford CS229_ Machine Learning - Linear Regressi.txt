@@ -1,0 +1,4 @@
+Title: Stanford CS229: Machine Learning - Linear Regression and Gradient Descent | Lecture 2 (Autumn 2018)
+URL: https://www.youtube.com/watch?v=4b4MUYve_U8
+Description: YouTube视频: Stanford CS229: Machine Learning - Linear Regression and Gradient Descent |  Lecture 2 (Autumn 2018)
+Thumbnail: https://i.ytimg.com/vi/4b4MUYve_U8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC-MRxGWbvDXSjTgeaME9y2PMmTA

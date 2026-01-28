@@ -1,0 +1,4 @@
+Title: AI vs Machine Learning
+URL: https://www.youtube.com/watch?v=4RixMPF4xis
+Description: YouTube视频: AI vs Machine Learning
+Thumbnail: https://i.ytimg.com/vi/4RixMPF4xis/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGWFlnWMT-Cgpy_QXlflBuP-h3Ug

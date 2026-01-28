@@ -1,0 +1,9 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2601.16325v1
+
+==================================================
+
+作者: Renato Vieira dos Santos
+摘要: Does gravity care about electric charge? Precision tests of the weak equivalence principle achieve remarkable sensitivity but deliberately minimize electric charge on test masses, leaving this fundamental question experimentally open. We present a minimalist framework coupling electromagnetism to linearized gravity through conservation of a complex charge-mass current, predicting charge-dependent violations $Δa/g = κ(q/m)$. Remarkably, this prediction occupies unexplored experimental territory precisely because precision gravity tests avoid charge variation. We identify this as a significant gap and propose a modified torsion balance experiment where $q/m$ is treated as a controlled variable. Such an experiment could test whether gravitational acceleration depends on electric charge, probing physics in genuinely new parameter space. This work exemplifies how theoretical minimalism can reveal overlooked opportunities in fundamental physics.
+arXiv链接: http://arxiv.org/abs/2601.16325v1
+请访问链接查看完整论文。

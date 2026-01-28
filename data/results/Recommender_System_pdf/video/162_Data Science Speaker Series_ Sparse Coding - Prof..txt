@@ -1,0 +1,4 @@
+Title: Data Science Speaker Series: Sparse Coding - Prof. Mike DeWeese, UC Berkeley
+URL: https://www.youtube.com/watch?v=4KpXlmoQtxs
+Description: YouTube视频: Data Science Speaker Series: Sparse Coding - Prof. Mike DeWeese, UC Berkeley
+Thumbnail: https://i.ytimg.com/vi/4KpXlmoQtxs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBe_ceo8pCcTHTWDsNgZr5G5MdloQ

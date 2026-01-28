@@ -1,0 +1,4 @@
+Title: Stanford CS224N NLP with Deep Learning | 2023 | Lecture 9 - Pretraining
+URL: https://www.youtube.com/watch?v=DGfCRXuNA2w
+Description: YouTube视频: Stanford CS224N NLP with Deep Learning | 2023 | Lecture 9 - Pretraining
+Thumbnail: https://i.ytimg.com/vi/DGfCRXuNA2w/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhiIGIoYjAP&rs=AOn4CLAjjui8xs6W6RPWbOoC7tmKQVT_DA

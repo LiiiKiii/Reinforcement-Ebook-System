@@ -1,0 +1,4 @@
+Title: Locally-Adaptive-Activation-Functions-Neural-Networks
+URL: https://github.com/AmeyaJagtap/Locally-Adaptive-Activation-Functions-Neural-Networks-
+Source: GitHub
+Description: GitHub代码仓库: Locally-Adaptive-Activation-Functions-Neural-Networks-

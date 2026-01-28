@@ -1,0 +1,4 @@
+Title: Autoencoders | Deep Learning Animated
+URL: https://www.youtube.com/watch?v=hZ4a4NgM3u0
+Description: YouTube视频: Autoencoders | Deep Learning Animated
+Thumbnail: https://i.ytimg.com/vi/hZ4a4NgM3u0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcIo3-sgWF57jp7fs93IzQDFIhCA

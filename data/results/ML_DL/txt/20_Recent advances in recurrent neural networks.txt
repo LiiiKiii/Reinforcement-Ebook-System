@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://arxiv.org/abs/1801.01078
+
+==================================================
+
+论文标题: Recent advances in recurrent neural networks
+作者/来源: H Salehinejad, S Sankar, J Barfett, E Colak… - arXiv preprint arXiv …, 2017 - arxiv.org
+摘要: … not much work occurred on deep network architectures before significant advances in 2006
+[2], [3]. ANNs with recurrent connections are called recurrent neural networks (RNNs), which …
+论文链接: https://arxiv.org/abs/1801.01078
+请访问链接查看完整论文。

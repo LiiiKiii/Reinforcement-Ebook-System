@@ -1,0 +1,4 @@
+Title: Natural Language Processing with NVIDIA AI Enterprise
+URL: https://www.youtube.com/watch?v=guYIxRnTXfs
+Description: YouTube视频: Natural Language Processing with NVIDIA AI Enterprise
+Thumbnail: https://i.ytimg.com/vi/guYIxRnTXfs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARhjIGMoYzAP&rs=AOn4CLDvPuMVGq9re413BGFc5TiaoJh5Rg

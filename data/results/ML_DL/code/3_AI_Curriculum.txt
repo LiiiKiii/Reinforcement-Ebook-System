@@ -1,0 +1,4 @@
+Title: AI_Curriculum
+URL: https://github.com/Machine-Learning-Tokyo/AI_Curriculum
+Source: GitHub
+Description: GitHub代码仓库: AI_Curriculum

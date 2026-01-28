@@ -1,0 +1,4 @@
+Title: What are Transformers (Machine Learning Model)?
+URL: https://www.youtube.com/watch?v=ZXiruGOCn9s
+Description: YouTube视频: What are Transformers (Machine Learning Model)?
+Thumbnail: https://i.ytimg.com/vi/ZXiruGOCn9s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoVV6mNeCGT-G_xiSE_qjuGZVLrg

@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/1410.5694v2
+
+==================================================
+
+论文标题: OpenCourseWare Observatory -- Does the Quality of OpenCourseWare Live up to its Promise?
+作者: Sahar Vahdati, Christoph Lange, Sören Auer
+摘要: A vast amount of OpenCourseWare (OCW) is meanwhile being published online to make educational content accessible to larger audiences. The awareness of such courses among users and the popularity of systems providing such courses are increasing. However, from a subjective experience, OCW is frequently cursory, outdated or non-reusable. In order to obtain a better understanding of the quality of OCW, we assess the quality in terms of fitness for use. Based on three OCW use case scenarios, we define a range of dimensions according to which the quality of courses can be measured. From the definition of each dimension a comprehensive list of quality metrics is derived. In order to obtain a representative overview of the quality of OCW, we performed a quality assessment on a set of 100 randomly selected courses obtained from 20 different OCW repositories. Based on this assessment we identify crucial areas in which OCW needs to improve in order to deliver up to its promises.
+arXiv链接: http://arxiv.org/abs/1410.5694v2
+请访问链接查看完整论文。

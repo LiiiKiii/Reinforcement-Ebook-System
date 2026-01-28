@@ -1,0 +1,4 @@
+Title: bert-sense
+URL: https://github.com/uhh-lt/bert-sense
+Source: GitHub
+Description: GitHub代码仓库: bert-sense

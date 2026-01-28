@@ -1,0 +1,4 @@
+Title: Demystifying RAG for developers
+URL: https://www.youtube.com/watch?v=IelHbj2q3IA
+Description: YouTube视频: Demystifying RAG for developers
+Thumbnail: https://i.ytimg.com/vi/IelHbj2q3IA/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhAIFwocjAP&rs=AOn4CLCYZmrmqVf2VAylK_6KL8rM3ryAnw

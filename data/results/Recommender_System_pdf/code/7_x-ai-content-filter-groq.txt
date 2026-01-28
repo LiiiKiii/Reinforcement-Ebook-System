@@ -1,0 +1,4 @@
+Title: x-ai-content-filter-groq
+URL: https://github.com/ricklamers/x-ai-content-filter-groq
+Source: GitHub
+Description: GitHub代码仓库: x-ai-content-filter-groq

@@ -1,0 +1,9 @@
+Source: arXiv
+URL: http://arxiv.org/abs/astro-ph/9801309v1
+
+==================================================
+
+作者: Roberto Cid Fernandes, Thaisa Storchi-Bergmann, Henrique R. Schmitt
+摘要: We present results of a long-slit spectroscopic study of 39 active and 3 normal galaxies. Stellar absorption features, continuum colors and their radial variations are analyzed in an effort to characterize the stellar population in these galaxies and detect the presence of a featureless continuum underlying the starlight spectral component. Spatial variations of the equivalent widths of conspicuous absorption lines and continuum colors are detected in most galaxies. Star-forming rings, in particular, leave clear fingerprints in the equivalent widths and color profiles. We find that the stellar populations in the inner regions of active galaxies present a variety of characteristics, and cannot be represented by a single starlight template. Dilution of the stellar lines by an underlying featureless continuum is detected in most broad-lined objects, but little or no dilution is found for the most of the 20 type 2 Seyferts in the sample. Color gradients are also ubiquitous. In particular, ...
+arXiv链接: http://arxiv.org/abs/astro-ph/9801309v1
+请访问链接查看完整论文。

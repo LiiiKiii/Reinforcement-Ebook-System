@@ -1,0 +1,4 @@
+Title: Federated-Transfer-Learning-for-EEG
+URL: https://github.com/DashanGao/Federated-Transfer-Learning-for-EEG
+Source: GitHub
+Description: GitHub代码仓库: Federated-Transfer-Learning-for-EEG

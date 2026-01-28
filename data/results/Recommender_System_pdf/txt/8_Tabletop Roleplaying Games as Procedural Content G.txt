@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2007.06108v2
+
+==================================================
+
+论文标题: Tabletop Roleplaying Games as Procedural Content Generators
+作者: Matthew Guzdial, Devi Acharya, Max Kreminski, Michael Cook, Mirjam Eladhari
+摘要: Tabletop roleplaying games (TTRPGs) and procedural content generators can both be understood as systems of rules for producing content. In this paper, we argue that TTRPG design can usefully be viewed as procedural content generator design. We present several case studies linking key concepts from PCG research -- including possibility spaces, expressive range analysis, and generative pipelines -- to key concepts in TTRPG design. We then discuss the implications of these relationships and suggest directions for future work uniting research in TTRPGs and PCG.
+arXiv链接: http://arxiv.org/abs/2007.06108v2
+请访问链接查看完整论文。

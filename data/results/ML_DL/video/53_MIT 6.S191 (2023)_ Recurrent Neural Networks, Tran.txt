@@ -1,0 +1,4 @@
+Title: MIT 6.S191 (2023): Recurrent Neural Networks, Transformers, and Attention
+URL: https://www.youtube.com/watch?v=ySEx_Bqxvvo
+Description: YouTube视频: MIT 6.S191 (2023): Recurrent Neural Networks, Transformers, and Attention
+Thumbnail: https://i.ytimg.com/vi/ySEx_Bqxvvo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf1wRyiKgBm5vY97h9QCnsL0r1mw

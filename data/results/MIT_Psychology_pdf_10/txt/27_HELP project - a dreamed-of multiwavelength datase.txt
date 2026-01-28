@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/1904.12498v1
+
+==================================================
+
+论文标题: HELP project - a dreamed-of multiwavelength dataset for SED fitting: the influence of used models for the main physical properties of galaxies
+作者: Katarzyna Malek, Veronique Buat, Denis Burgarella, Yannick Roehlly, Raphael Shirley
+摘要: The Herschel Extragalactic Legacy Project (HELP) focuses to publish an astronomical multiwavelength catalogue of millions of objects over 1300~deg$^2$ of the Herschel Space Observatory survey fields. Millions of galaxies with ultraviolet--far infrared photometry {make} HELP a perfect sample for testing spectral energy distribution fitting models, and to prepare tools for next-generation data. In the frame of HELP collaboration we estimated the main physical properties of all galaxies from the HELP database and we checked a new procedure to select peculiar galaxies from large galaxy sample and we investigated the influence of used modules for stellar mass estimation.
+arXiv链接: http://arxiv.org/abs/1904.12498v1
+请访问链接查看完整论文。

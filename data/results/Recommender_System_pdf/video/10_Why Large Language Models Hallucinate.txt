@@ -1,0 +1,4 @@
+Title: Why Large Language Models Hallucinate
+URL: https://www.youtube.com/watch?v=cfqtFvWOfg0
+Description: YouTube视频: Why Large Language Models Hallucinate
+Thumbnail: https://i.ytimg.com/vi/cfqtFvWOfg0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhJThs2aHtuIUppk6w7PRqylIv8w

@@ -1,0 +1,4 @@
+Title: What are Convolutional Neural Networks (CNNs)?
+URL: https://www.youtube.com/watch?v=QzY57FaENXg
+Description: YouTube视频: What are Convolutional Neural Networks (CNNs)?
+Thumbnail: https://i.ytimg.com/vi/QzY57FaENXg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWD5Gcqt7zF0Ha8gYh4G5DepNRRw

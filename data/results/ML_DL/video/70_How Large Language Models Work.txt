@@ -1,0 +1,4 @@
+Title: How Large Language Models Work
+URL: https://www.youtube.com/watch?v=5sLYAQS9sWQ
+Description: YouTube视频: How Large Language Models Work
+Thumbnail: https://i.ytimg.com/vi/5sLYAQS9sWQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMIu1HBggVmDsm-RVixJEYct57kQ

@@ -1,0 +1,4 @@
+Title: Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 5 - Recurrent Neural Networks
+URL: https://www.youtube.com/watch?v=fyc0Jzr74y4
+Description: YouTube视频: Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 5 - Recurrent Neural Networks
+Thumbnail: https://i.ytimg.com/vi/fyc0Jzr74y4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoWjAP&rs=AOn4CLCRFdb-Y-lmhmO1A8EocC8DYtHnQg

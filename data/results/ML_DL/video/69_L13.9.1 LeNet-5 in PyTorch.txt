@@ -1,0 +1,4 @@
+Title: L13.9.1 LeNet-5 in PyTorch
+URL: https://www.youtube.com/watch?v=ye5k82FQC7I
+Description: YouTube视频: L13.9.1 LeNet-5 in PyTorch
+Thumbnail: https://i.ytimg.com/vi/ye5k82FQC7I/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhUIFwoZTAP&rs=AOn4CLBh_kqfKtaufKku_33KhgT_m_4LPQ

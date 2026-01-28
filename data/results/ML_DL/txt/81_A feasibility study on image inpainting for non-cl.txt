@@ -1,0 +1,9 @@
+Source: Google Scholar
+URL: https://ieeexplore.ieee.org/abstract/document/9926917/
+
+==================================================
+
+论文标题: A feasibility study on image inpainting for non-cleft lip generation from patients with cleft lip
+作者/来源: S Chen, A Atapour-Abarghouei, J Kerby… - 2022 IEEE-EMBS …, 2022 - ieeexplore.ieee.org
+论文链接: https://ieeexplore.ieee.org/abstract/document/9926917/
+请访问链接查看完整论文。

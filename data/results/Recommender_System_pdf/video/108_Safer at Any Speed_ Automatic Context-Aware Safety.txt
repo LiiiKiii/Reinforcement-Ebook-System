@@ -1,0 +1,4 @@
+Title: Safer at Any Speed: Automatic Context-Aware Safety Enhancement for Rust
+URL: https://www.youtube.com/watch?v=ah3lCg7xOns
+Description: YouTube视频: Safer at Any Speed: Automatic Context-Aware Safety Enhancement for Rust
+Thumbnail: https://i.ytimg.com/vi/ah3lCg7xOns/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIFwoPDAP&rs=AOn4CLBgllHPUSGYEG82roJW9OYdDiDMbQ

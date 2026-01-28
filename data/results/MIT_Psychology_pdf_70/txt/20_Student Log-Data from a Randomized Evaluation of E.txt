@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/1808.02528v3
+
+==================================================
+
+论文标题: Student Log-Data from a Randomized Evaluation of Educational Technology: A Causal Case Study
+作者: Adam C Sales, John F Pane
+摘要: Randomized evaluations of educational technology produce log data as a bi-product: highly granular data student and teacher usage. These datasets could shed light on causal mechanisms, effect heterogeneity, or optimal use. However, there are methodological challenges: implementation is not randomized and is only defined for the treatment group, and log datasets have a complex structure. This paper discusses three approaches to help surmount these issues. One approach uses data from the treatment group to estimate the effect of usage on outcomes in an observational study. Another, causal mediation analysis, estimates the role of usage in driving the overall effect. Finally, principal stratification estimates overall effects for groups of students with the same "potential" usage. We analyze hint data from an evaluation of the Cognitive Tutor Algebra I curriculum using these three approaches, with possibly conflicting results: the observational study and mediation analysis suggest that hi...
+arXiv链接: http://arxiv.org/abs/1808.02528v3
+请访问链接查看完整论文。

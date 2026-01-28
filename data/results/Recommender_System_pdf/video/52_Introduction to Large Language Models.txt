@@ -1,0 +1,4 @@
+Title: Introduction to Large Language Models
+URL: https://www.youtube.com/watch?v=RBzXsQHjptQ
+Description: YouTube视频: Introduction to Large Language Models
+Thumbnail: https://i.ytimg.com/vi/RBzXsQHjptQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeSFhuIRBl_8rRg8WzFwW0VWNlfA

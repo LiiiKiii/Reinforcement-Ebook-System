@@ -1,0 +1,4 @@
+Title: Statistical Learning: 6.9 Dimension Reduction Methods
+URL: https://www.youtube.com/watch?v=bpto4g5l_go
+Description: YouTube视频: Statistical Learning: 6.9 Dimension Reduction Methods
+Thumbnail: https://i.ytimg.com/vi/bpto4g5l_go/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhlIGUoZTAP&rs=AOn4CLCbhrYJ5Ko7Iw1VeAyrO0ZlLDgOkQ

@@ -1,0 +1,4 @@
+Title: 🔬 Day 40 of 101 Days of Data Science: Dimensionality Reduction
+URL: https://www.youtube.com/watch?v=RoePqpGLXQ0
+Description: YouTube视频: 🔬 Day 40 of 101 Days of Data Science: Dimensionality Reduction
+Thumbnail: https://i.ytimg.com/vi/RoePqpGLXQ0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf4mWFAk8DqjvnOsOCR8l0y_x-PQ

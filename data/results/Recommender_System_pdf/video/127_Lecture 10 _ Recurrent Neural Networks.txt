@@ -1,0 +1,4 @@
+Title: Lecture 10 | Recurrent Neural Networks
+URL: https://www.youtube.com/watch?v=6niqTuYFZLQ
+Description: YouTube视频: Lecture 10 | Recurrent Neural Networks
+Thumbnail: https://i.ytimg.com/vi/6niqTuYFZLQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5553oKViMyVyxuP7bubopvqlQlA

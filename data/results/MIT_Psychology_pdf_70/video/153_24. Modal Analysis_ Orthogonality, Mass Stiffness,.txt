@@ -1,0 +1,4 @@
+Title: 24. Modal Analysis: Orthogonality, Mass Stiffness, Damping Matrix
+URL: https://www.youtube.com/watch?v=OxcCPTc_bXw
+Description: YouTube视频: 24. Modal Analysis: Orthogonality, Mass Stiffness, Damping Matrix
+Thumbnail: https://i.ytimg.com/vi/OxcCPTc_bXw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhkIGUoTjAP&rs=AOn4CLB9eDTiRDhB7_MeEsPEb0wY1xvo-w

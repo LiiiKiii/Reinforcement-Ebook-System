@@ -1,0 +1,4 @@
+Title: How to Create a Neural Network (and Train it to Identify Doodles)
+URL: https://www.youtube.com/watch?v=hfMk-kjRv4c
+Description: YouTube视频: How to Create a Neural Network (and Train it to Identify Doodles)
+Thumbnail: https://i.ytimg.com/vi/hfMk-kjRv4c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjJsV-7KNFQ4-hUr9F7JCOt9VFcA

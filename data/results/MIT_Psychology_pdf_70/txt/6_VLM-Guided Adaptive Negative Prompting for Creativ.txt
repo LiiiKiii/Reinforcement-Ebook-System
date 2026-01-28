@@ -1,0 +1,10 @@
+Source: arXiv
+URL: http://arxiv.org/abs/2510.10715v1
+
+==================================================
+
+论文标题: VLM-Guided Adaptive Negative Prompting for Creative Generation
+作者: Shelly Golan, Yotam Nitzan, Zongze Wu, Or Patashnik
+摘要: Creative generation is the synthesis of new, surprising, and valuable samples that reflect user intent yet cannot be envisioned in advance. This task aims to extend human imagination, enabling the discovery of visual concepts that exist in the unexplored spaces between familiar domains. While text-to-image diffusion models excel at rendering photorealistic scenes that faithfully match user prompts, they still struggle to generate genuinely novel content. Existing approaches to enhance generative creativity either rely on interpolation of image features, which restricts exploration to predefined categories, or require time-intensive procedures such as embedding optimization or model fine-tuning. We propose VLM-Guided Adaptive Negative-Prompting, a training-free, inference-time method that promotes creative image generation while preserving the validity of the generated object. Our approach utilizes a vision-language model (VLM) that analyzes intermediate outputs of the generation proces...
+arXiv链接: http://arxiv.org/abs/2510.10715v1
+请访问链接查看完整论文。

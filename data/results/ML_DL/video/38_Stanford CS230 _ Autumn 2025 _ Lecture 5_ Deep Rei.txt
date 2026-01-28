@@ -1,0 +1,4 @@
+Title: Stanford CS230 | Autumn 2025 | Lecture 5: Deep Reinforcement Learning
+URL: https://www.youtube.com/watch?v=4E27qlfYw0A
+Description: YouTube视频: Stanford CS230 | Autumn 2025 | Lecture 5: Deep Reinforcement Learning
+Thumbnail: https://i.ytimg.com/vi/4E27qlfYw0A/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLCSNzC4F_QU3h7x7IdAMxFlzyoJkw

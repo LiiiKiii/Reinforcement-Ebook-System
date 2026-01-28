@@ -1,0 +1,4 @@
+Title: UMAP explained | The best dimensionality reduction?
+URL: https://www.youtube.com/watch?v=6BPl81wGGP8
+Description: YouTube视频: UMAP explained | The best dimensionality reduction?
+Thumbnail: https://i.ytimg.com/vi/6BPl81wGGP8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyfZzO3XGdIMu95WKV-ngey2upHQ

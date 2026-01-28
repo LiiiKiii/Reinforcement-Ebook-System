@@ -1,0 +1,11 @@
+Source: Google Scholar
+URL: https://link.springer.com/chapter/10.1007/978-3-031-25928-9_5
+
+==================================================
+
+论文标题: Natural language processing
+作者/来源: SC Fanni, M Febi, G Aghakhanyan, E Neri - Introduction to artificial …, 2023 - Springer
+摘要: … Natural language processing (NLP) stands halfway between computer science computational
+linguistics, and it is dedicated to the conversion of written and spoken natural human …
+论文链接: https://link.springer.com/chapter/10.1007/978-3-031-25928-9_5
+请访问链接查看完整论文。

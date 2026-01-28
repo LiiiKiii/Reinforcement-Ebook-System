@@ -1,0 +1,4 @@
+Title: Stanford CS230 | Autumn 2025 | Lecture 2: Supervised, Self-Supervised, & Weakly Supervised Learning
+URL: https://www.youtube.com/watch?v=DNCn1BpCAUY
+Description: YouTube视频: Stanford CS230 | Autumn 2025 | Lecture 2: Supervised, Self-Supervised, & Weakly Supervised Learning
+Thumbnail: https://i.ytimg.com/vi/DNCn1BpCAUY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF8oVjAP&rs=AOn4CLDwJGwrsTPHgLD5kvI1aiaJmYRcQw
