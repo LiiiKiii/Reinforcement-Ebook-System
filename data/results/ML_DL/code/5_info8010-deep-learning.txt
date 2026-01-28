@@ -1,4 +1,0 @@
-Title: info8010-deep-learning
-URL: https://github.com/glouppe/info8010-deep-learning
-Source: GitHub
-Description: GitHub代码仓库: info8010-deep-learning

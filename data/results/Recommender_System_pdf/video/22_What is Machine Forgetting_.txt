@@ -1,4 +1,0 @@
-Title: What is Machine Forgetting?
-URL: https://www.youtube.com/watch?v=opRq6kNua1c
-Description: YouTube视频: What is Machine Forgetting?
-Thumbnail: https://i.ytimg.com/vi/opRq6kNua1c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjGXxZz_fJFDrnom5Id_dUryI1Bg

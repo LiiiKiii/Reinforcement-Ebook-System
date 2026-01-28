@@ -1,4 +1,0 @@
-Title: Curse of Dimensionality - Georgia Tech - Machine Learning
-URL: https://www.youtube.com/watch?v=QZ0DtNFdDko
-Description: YouTube视频: Curse of Dimensionality - Georgia Tech - Machine Learning
-Thumbnail: https://i.ytimg.com/vi/QZ0DtNFdDko/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFEoODAP&rs=AOn4CLCVieGDz7MBaGBKQ33Pv85XdJl8wg

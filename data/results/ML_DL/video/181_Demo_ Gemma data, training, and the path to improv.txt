@@ -1,4 +1,0 @@
-Title: Demo: Gemma data, training, and the path to improvement
-URL: https://www.youtube.com/watch?v=reWO41RQZ38
-Description: YouTube视频: Demo: Gemma data, training, and the path to improvement
-Thumbnail: https://i.ytimg.com/vi/reWO41RQZ38/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu1e61QtZGJKligFGxtGtDbneK7g

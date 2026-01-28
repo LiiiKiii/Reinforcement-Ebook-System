@@ -1,3 +1,0 @@
-Title: Google图片搜索: deep learning lecture
-URL: https://www.google.com/search?tbm=isch&q=deep%20learning%20lecture
-Source: Google Images

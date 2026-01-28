@@ -1,9 +1,0 @@
-Source: Google Scholar
-URL: https://www.academia.edu/download/62266271/Deep_Learning20200303-80130-1s42zvt.pdf
-
-==================================================
-
-论文标题: Deep learning
-摘要: Inventors have long dreamed of creating machines that think. Ancient Greek myths tell of
-intelligent objects, such as animated statues of human beings and tables that arrive full of food …
-请访问链接查看完整论文。

@@ -1,4 +1,0 @@
-Title: Top 3 RAG Retrieval Strategies: Sparse, Dense, & Hybrid Explained
-URL: https://www.youtube.com/watch?v=r0Dciuq0knU
-Description: YouTube视频: Top 3 RAG Retrieval Strategies: Sparse, Dense, & Hybrid Explained
-Thumbnail: https://i.ytimg.com/vi/r0Dciuq0knU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO6L7USQy3AaP2YQVRpxtVZ7PrYw

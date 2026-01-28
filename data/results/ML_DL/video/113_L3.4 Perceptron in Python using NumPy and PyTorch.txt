@@ -1,4 +1,0 @@
-Title: L3.4 Perceptron in Python using NumPy and PyTorch
-URL: https://www.youtube.com/watch?v=TlGpIKMVoOg
-Description: YouTube视频: L3.4 Perceptron in Python using NumPy and PyTorch
-Thumbnail: https://i.ytimg.com/vi/TlGpIKMVoOg/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARg4IFsocjAP&rs=AOn4CLBPQXGSH3LPBbOX1zabmqT-vjo9TQ

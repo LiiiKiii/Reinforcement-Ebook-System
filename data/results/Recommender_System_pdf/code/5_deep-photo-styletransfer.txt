@@ -1,4 +1,0 @@
-Title: deep-photo-styletransfer
-URL: https://github.com/luanfujun/deep-photo-styletransfer
-Source: GitHub
-Description: GitHub代码仓库: deep-photo-styletransfer

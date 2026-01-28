@@ -1,4 +1,0 @@
-Title: Gradient descent, how neural networks learn | Deep Learning Chapter 2
-URL: https://www.youtube.com/watch?v=IHZwWFHWa-w
-Description: YouTube视频: Gradient descent, how neural networks learn | Deep Learning Chapter 2
-Thumbnail: https://i.ytimg.com/vi/IHZwWFHWa-w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXkoNHU4W8j-qcW-B9HhhHS0AuXw

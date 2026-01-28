@@ -1,4 +1,0 @@
-Title: 18: Recurrent Networks - Intro to Neural Computation
-URL: https://www.youtube.com/watch?v=EpPtCLkCGOk
-Description: YouTube视频: 18: Recurrent Networks - Intro to Neural Computation
-Thumbnail: https://i.ytimg.com/vi/EpPtCLkCGOk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3AOJkxD48BWGpwaqfHBr_MVj2-w

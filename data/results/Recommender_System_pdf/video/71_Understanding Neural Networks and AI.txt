@@ -1,4 +1,0 @@
-Title: Understanding Neural Networks and AI
-URL: https://www.youtube.com/watch?v=NMZ0Tgc2jFQ
-Description: YouTube视频: Understanding Neural Networks and AI
-Thumbnail: https://i.ytimg.com/vi/NMZ0Tgc2jFQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuY1PFmnuh48H6LXcZTjWC4iyI1g

@@ -1,4 +1,0 @@
-Title: DeepLearningProjectWorkflow
-URL: https://github.com/thomasj02/DeepLearningProjectWorkflow
-Source: GitHub
-Description: GitHub代码仓库: DeepLearningProjectWorkflow

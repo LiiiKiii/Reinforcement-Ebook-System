@@ -1,4 +1,0 @@
-Title: Lec 02 | Introduction to Natural Language Processing
-URL: https://www.youtube.com/watch?v=c_U-6OqbldQ
-Description: YouTube视频: Lec 02 | Introduction to Natural Language Processing
-Thumbnail: https://i.ytimg.com/vi/c_U-6OqbldQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz5ZM_7-1md0tBX2AxgC-28gNOfQ

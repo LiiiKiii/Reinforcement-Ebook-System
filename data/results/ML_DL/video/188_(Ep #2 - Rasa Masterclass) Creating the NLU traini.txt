@@ -1,4 +1,0 @@
-Title: (Ep #2 - Rasa Masterclass) Creating the NLU training data | Rasa 1.8.0
-URL: https://www.youtube.com/watch?v=k5UeywXA28k
-Description: YouTube视频: (Ep #2 - Rasa Masterclass) Creating the NLU training data | Rasa 1.8.0
-Thumbnail: https://i.ytimg.com/vi/k5UeywXA28k/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDZkcgqmYmviS3MQgGknonallI_Q

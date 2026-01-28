@@ -1,4 +1,0 @@
-Title: Content Based Recommender System
-URL: https://www.youtube.com/watch?v=fw-pHvbviqE
-Description: YouTube视频: Content Based  Recommender System
-Thumbnail: https://i.ytimg.com/vi/fw-pHvbviqE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArLTldB7i2EUjdmVr9UkuzsS-wqQ

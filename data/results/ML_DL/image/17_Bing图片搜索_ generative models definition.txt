@@ -1,3 +1,0 @@
-Title: Bing图片搜索: generative models definition
-URL: https://www.bing.com/images/search?q=generative%20models%20definition
-Source: Bing Images

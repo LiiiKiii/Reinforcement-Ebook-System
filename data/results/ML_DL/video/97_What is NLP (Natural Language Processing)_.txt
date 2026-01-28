@@ -1,4 +1,0 @@
-Title: What is NLP (Natural Language Processing)?
-URL: https://www.youtube.com/watch?v=fLvJ8VdHLA0
-Description: YouTube视频: What is NLP (Natural Language Processing)?
-Thumbnail: https://i.ytimg.com/vi/fLvJ8VdHLA0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt1GqOhzJnzhnySSOh6pAml4MYUg

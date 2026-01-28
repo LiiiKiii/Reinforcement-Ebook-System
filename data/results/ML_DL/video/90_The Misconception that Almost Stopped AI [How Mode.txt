@@ -1,4 +1,0 @@
-Title: The Misconception that Almost Stopped AI [How Models Learn Part 1]
-URL: https://www.youtube.com/watch?v=NrO20Jb-hy0
-Description: YouTube视频: The Misconception that Almost Stopped AI [How Models Learn Part 1]
-Thumbnail: https://i.ytimg.com/vi/NrO20Jb-hy0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvawZ3oXBI6bWZxkU993PvT-939g

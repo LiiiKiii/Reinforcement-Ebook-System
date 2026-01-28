@@ -1,4 +1,0 @@
-Title: Lecture 2 – Word Vectors 1 | Stanford CS224U: Natural Language Understanding | Spring 2019
-URL: https://www.youtube.com/watch?v=IYMYI9AJpQs
-Description: YouTube视频: Lecture 2  – Word Vectors 1 | Stanford CS224U: Natural Language Understanding | Spring 2019
-Thumbnail: https://i.ytimg.com/vi/IYMYI9AJpQs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-HqqsuvPoq_vjzAfsETvd2DgDIg

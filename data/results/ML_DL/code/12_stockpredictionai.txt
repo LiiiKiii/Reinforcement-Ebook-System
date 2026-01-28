@@ -1,4 +1,0 @@
-Title: stockpredictionai
-URL: https://github.com/borisbanushev/stockpredictionai
-Source: GitHub
-Description: GitHub代码仓库: stockpredictionai

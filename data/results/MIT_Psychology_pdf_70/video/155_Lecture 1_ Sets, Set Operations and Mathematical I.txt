@@ -1,4 +1,0 @@
-Title: Lecture 1: Sets, Set Operations and Mathematical Induction
-URL: https://www.youtube.com/watch?v=LY7YmuDbuW0
-Description: YouTube视频: Lecture 1: Sets, Set Operations and Mathematical Induction
-Thumbnail: https://i.ytimg.com/vi/LY7YmuDbuW0/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLD8mUTFQ0VtjAR8kVREr1mkvYJbpQ

@@ -1,7 +1,0 @@
-Source: Google Scholar
-URL: https://scholar.google.com/scholar?q=recurrent%20neural%20networks
-
-==================================================
-
-Google Scholar搜索结果: https://scholar.google.com/scholar?q=recurrent%20neural%20networks
-请访问链接查看相关学术论文。

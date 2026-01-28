@@ -1,4 +1,0 @@
-Title: 11. Introduction to Machine Learning
-URL: https://www.youtube.com/watch?v=h0e2HAPTGF4
-Description: YouTube视频: 11. Introduction to Machine Learning
-Thumbnail: https://i.ytimg.com/vi/h0e2HAPTGF4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBzBlO_7G61g2WdNjPlskJa3K0O0Q

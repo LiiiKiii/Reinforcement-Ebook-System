@@ -1,4 +1,0 @@
-Title: The Essential Main Ideas of Neural Networks
-URL: https://www.youtube.com/watch?v=CqOfi41LfDw
-Description: YouTube视频: The Essential Main Ideas of Neural Networks
-Thumbnail: https://i.ytimg.com/vi/CqOfi41LfDw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc08dI1_oEUW9MHbtK0JRptgS9cg

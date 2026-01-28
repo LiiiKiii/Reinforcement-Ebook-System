@@ -1,4 +1,0 @@
-Title: Medical natural language processing
-URL: https://www.youtube.com/watch?v=oyhpIWa9w1Y
-Description: YouTube视频: Medical natural language processing
-Thumbnail: https://i.ytimg.com/vi/oyhpIWa9w1Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6wsmFGo2SczU8VbgTYZOAjwSOZA

@@ -1,9 +1,0 @@
-Source: Google Scholar
-URL: https://surface.syr.edu/cgi/viewcontent.cgi?article=1043&amp;context=istpub
-
-==================================================
-
-论文标题: Natural language processing
-摘要: Natural Language Processing (NLP) is the computerized approach to analyzing text that is
-based on both a set of theories and a set of technologies. And, being a very active area of …
-请访问链接查看完整论文。

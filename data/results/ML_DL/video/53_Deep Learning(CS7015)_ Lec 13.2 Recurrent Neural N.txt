@@ -1,4 +1,0 @@
-Title: Deep Learning(CS7015): Lec 13.2 Recurrent Neural Networks
-URL: https://www.youtube.com/watch?v=ym5qG-3kJ10
-Description: YouTube视频: Deep Learning(CS7015): Lec 13.2 Recurrent Neural Networks
-Thumbnail: https://i.ytimg.com/vi/ym5qG-3kJ10/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG8RWgeVNDAhXqWVwr8TeLPrRwDA

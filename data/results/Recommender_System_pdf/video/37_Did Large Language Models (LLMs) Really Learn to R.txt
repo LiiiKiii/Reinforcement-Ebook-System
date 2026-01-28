@@ -1,4 +1,0 @@
-Title: Did Large Language Models (LLMs) Really Learn to Reason?
-URL: https://www.youtube.com/watch?v=6-tv6tEprVI
-Description: YouTube视频: Did Large Language Models (LLMs) Really Learn to Reason?
-Thumbnail: https://i.ytimg.com/vi/6-tv6tEprVI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoMI1HTom17QcnKuG4cOByw_Lf7w

@@ -1,4 +1,0 @@
-Title: RAG Explained
-URL: https://www.youtube.com/watch?v=qppV3n3YlF8
-Description: YouTube视频: RAG Explained
-Thumbnail: https://i.ytimg.com/vi/qppV3n3YlF8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7hv3-fYlAU4EsO10F-a0hRY0szg

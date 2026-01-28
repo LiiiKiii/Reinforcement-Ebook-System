@@ -1,4 +1,0 @@
-Title: L14.6.2 Transfer Learning in PyTorch -- Code Example
-URL: https://www.youtube.com/watch?v=FaW9JCSJn2s
-Description: YouTube视频: L14.6.2 Transfer Learning in PyTorch -- Code Example
-Thumbnail: https://i.ytimg.com/vi/FaW9JCSJn2s/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhLIFgoZTAP&rs=AOn4CLCZ22CWYMKLZhu8U85OL7IY2GIl1Q

@@ -1,4 +1,0 @@
-Title: Large Language Models as Tool Makers
-URL: https://www.youtube.com/watch?v=srDVNbxPgZI
-Description: YouTube视频: Large Language Models as Tool Makers
-Thumbnail: https://i.ytimg.com/vi/srDVNbxPgZI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMrwUJ_EdJP-u4nZxp_CwuJcdLtA

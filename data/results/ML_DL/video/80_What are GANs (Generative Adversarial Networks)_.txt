@@ -1,4 +1,0 @@
-Title: What are GANs (Generative Adversarial Networks)?
-URL: https://www.youtube.com/watch?v=TpMIssRdhco
-Description: YouTube视频: What are GANs (Generative Adversarial Networks)?
-Thumbnail: https://i.ytimg.com/vi/TpMIssRdhco/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk0vNS6YPHWXpn9_X6D_SVXhwxUw

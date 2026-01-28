@@ -1,4 +1,0 @@
-Title: Federated Learning: The Future of AI Model Training #ai #aimodel #datasecurity
-URL: https://www.youtube.com/watch?v=AZDhZwqkuB8
-Description: YouTube视频: Federated Learning: The Future of AI Model Training #ai #aimodel #datasecurity
-Thumbnail: https://i.ytimg.com/vi/AZDhZwqkuB8/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhyIEYoQTAP&rs=AOn4CLC2T9p_drB6LBkK6EAzCnoST9eBvQ

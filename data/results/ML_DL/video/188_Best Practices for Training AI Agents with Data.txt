@@ -1,4 +1,0 @@
-Title: Best Practices for Training AI Agents with Data
-URL: https://www.youtube.com/watch?v=BiNxKf4QScY
-Description: YouTube视频: Best Practices for Training AI Agents with Data
-Thumbnail: https://i.ytimg.com/vi/BiNxKf4QScY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ49Hd1TaapJx09cpTukR6kJCjow

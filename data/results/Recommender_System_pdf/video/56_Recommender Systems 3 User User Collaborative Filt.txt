@@ -1,4 +1,0 @@
-Title: Recommender Systems 3 User User Collaborative Filtering
-URL: https://www.youtube.com/watch?v=qEur4Xi8dks
-Description: YouTube视频: Recommender Systems 3 User User Collaborative Filtering
-Thumbnail: https://i.ytimg.com/vi/qEur4Xi8dks/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCHcb7vLyiFi5sP6TwdgDXnILhBtg

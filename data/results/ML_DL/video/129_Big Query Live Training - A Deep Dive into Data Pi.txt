@@ -1,4 +1,0 @@
-Title: Big Query Live Training - A Deep Dive into Data Pipelining
-URL: https://www.youtube.com/watch?v=UPMH11BqvGs
-Description: YouTube视频: Big Query Live Training - A Deep Dive into Data Pipelining
-Thumbnail: https://i.ytimg.com/vi/UPMH11BqvGs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALBplsGc4XJWFJw0kQhPBEhQvePQ

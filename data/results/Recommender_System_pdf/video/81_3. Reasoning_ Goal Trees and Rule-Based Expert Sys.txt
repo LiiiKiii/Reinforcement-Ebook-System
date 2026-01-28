@@ -1,4 +1,0 @@
-Title: 3. Reasoning: Goal Trees and Rule-Based Expert Systems
-URL: https://www.youtube.com/watch?v=leXa7EKUPFk
-Description: YouTube视频: 3. Reasoning: Goal Trees and Rule-Based Expert Systems
-Thumbnail: https://i.ytimg.com/vi/leXa7EKUPFk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuQDV6wPfscBxJP4UDgUOHPEEVmQ

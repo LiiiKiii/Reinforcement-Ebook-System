@@ -1,4 +1,0 @@
-Title: deep-learning-book
-URL: https://github.com/ninkle/deep-learning-book
-Source: GitHub
-Description: GitHub代码仓库: deep-learning-book

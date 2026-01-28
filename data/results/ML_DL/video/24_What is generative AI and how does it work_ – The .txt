@@ -1,4 +1,0 @@
-Title: What is generative AI and how does it work? – The Turing Lectures with Mirella Lapata
-URL: https://www.youtube.com/watch?v=_6R7Ym6Vy_I
-Description: YouTube视频: What is generative AI and how does it work? – The Turing Lectures with Mirella Lapata
-Thumbnail: https://i.ytimg.com/vi/_6R7Ym6Vy_I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf4ZYprzsuOFn18Rip-LJlIIz9zA

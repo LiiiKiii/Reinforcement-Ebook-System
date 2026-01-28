@@ -1,4 +1,0 @@
-Title: VanillaCNN
-URL: https://github.com/ishay2b/VanillaCNN
-Source: GitHub
-Description: GitHub代码仓库: VanillaCNN

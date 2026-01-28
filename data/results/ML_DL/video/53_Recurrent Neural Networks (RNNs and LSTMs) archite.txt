@@ -1,4 +1,0 @@
-Title: Recurrent Neural Networks (RNNs and LSTMs) architecture in deep learning #deeplearning
-URL: https://www.youtube.com/watch?v=S0XFd0VMFss
-Description: YouTube视频: Recurrent Neural Networks (RNNs and LSTMs) architecture in deep learning #deeplearning 
-Thumbnail: https://i.ytimg.com/vi/S0XFd0VMFss/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn1Qlid6OvHFJj2Gp3R1w-nNwibQ

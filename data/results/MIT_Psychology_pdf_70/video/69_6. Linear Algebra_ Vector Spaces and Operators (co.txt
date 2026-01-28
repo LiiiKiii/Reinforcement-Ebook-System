@@ -1,4 +1,0 @@
-Title: 6. Linear Algebra: Vector Spaces and Operators (continued)
-URL: https://www.youtube.com/watch?v=8yvmHBGcNbg
-Description: YouTube视频: 6. Linear Algebra: Vector Spaces and Operators (continued)
-Thumbnail: https://i.ytimg.com/vi/8yvmHBGcNbg/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLC4oeEW9aPdeBQsQNLBEtlodKNJ_w

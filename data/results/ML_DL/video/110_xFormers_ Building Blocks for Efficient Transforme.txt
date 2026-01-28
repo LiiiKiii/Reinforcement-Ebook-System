@@ -1,4 +1,0 @@
-Title: xFormers: Building Blocks for Efficient Transformers at PyTorch Conference 2022
-URL: https://www.youtube.com/watch?v=NJyZCdxnGe4
-Description: YouTube视频: xFormers: Building Blocks for Efficient Transformers at PyTorch Conference 2022
-Thumbnail: https://i.ytimg.com/vi/NJyZCdxnGe4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq1VFYO61rpwiZv05nW62rCm1R3A

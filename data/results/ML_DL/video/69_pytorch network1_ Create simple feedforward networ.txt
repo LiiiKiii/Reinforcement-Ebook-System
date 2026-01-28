@@ -1,4 +1,0 @@
-Title: pytorch network1: Create simple feedforward network, print the output
-URL: https://www.youtube.com/watch?v=oSirQZ_L7Q8
-Description: YouTube视频: pytorch network1: Create simple feedforward network, print the output
-Thumbnail: https://i.ytimg.com/vi/oSirQZ_L7Q8/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhhIGEoYTAP&rs=AOn4CLBAYenuONt2crLS7bsSUzWNjfURdA

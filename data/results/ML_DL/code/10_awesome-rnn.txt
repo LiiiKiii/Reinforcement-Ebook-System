@@ -1,4 +1,0 @@
-Title: awesome-rnn
-URL: https://github.com/kjw0612/awesome-rnn
-Source: GitHub
-Description: GitHub代码仓库: awesome-rnn

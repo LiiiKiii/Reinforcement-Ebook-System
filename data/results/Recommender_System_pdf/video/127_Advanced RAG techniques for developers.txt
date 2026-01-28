@@ -1,4 +1,0 @@
-Title: Advanced RAG techniques for developers
-URL: https://www.youtube.com/watch?v=sGvXO7CVwc0
-Description: YouTube视频: Advanced RAG techniques for developers
-Thumbnail: https://i.ytimg.com/vi/sGvXO7CVwc0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdghWfszL093qz3-G0xOO0O0RkEA

@@ -1,4 +1,0 @@
-Title: Should You Use Open Source Large Language Models?
-URL: https://www.youtube.com/watch?v=y9k-U9AuDeM
-Description: YouTube视频: Should You Use Open Source Large Language Models?
-Thumbnail: https://i.ytimg.com/vi/y9k-U9AuDeM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjq2XoFRhfmxhEjy1HPZ6dH6WNnQ

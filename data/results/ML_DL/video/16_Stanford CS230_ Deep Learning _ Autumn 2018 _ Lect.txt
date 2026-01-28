@@ -1,4 +1,0 @@
-Title: Stanford CS230: Deep Learning | Autumn 2018 | Lecture 1 - Class Introduction & Logistics, Andrew Ng
-URL: https://www.youtube.com/watch?v=PySo_6S4ZAg
-Description: YouTube视频: Stanford CS230: Deep Learning | Autumn 2018 | Lecture 1 - Class Introduction & Logistics, Andrew Ng
-Thumbnail: https://i.ytimg.com/vi/PySo_6S4ZAg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRd7q-6zUHpaGVFadbOg1EIbAEqA

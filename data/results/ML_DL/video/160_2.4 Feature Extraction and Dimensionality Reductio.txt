@@ -1,4 +1,0 @@
-Title: 2.4 Feature Extraction and Dimensionality Reduction
-URL: https://www.youtube.com/watch?v=-iQATQdjTj0
-Description: YouTube视频: 2.4 Feature Extraction and Dimensionality Reduction
-Thumbnail: https://i.ytimg.com/vi/-iQATQdjTj0/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhbIGMoZTAP&rs=AOn4CLBxpMUMWuSGl5IU0QEbAGmY8_kBZQ

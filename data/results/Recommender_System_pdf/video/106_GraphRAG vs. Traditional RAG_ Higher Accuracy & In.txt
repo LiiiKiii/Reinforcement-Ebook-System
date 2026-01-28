@@ -1,4 +1,0 @@
-Title: GraphRAG vs. Traditional RAG: Higher Accuracy & Insight with LLM
-URL: https://www.youtube.com/watch?v=Aw7iQjKAX2k
-Description: YouTube视频: GraphRAG vs. Traditional RAG: Higher Accuracy & Insight with LLM
-Thumbnail: https://i.ytimg.com/vi/Aw7iQjKAX2k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVUZ4skkYyTIKFygUQROK4R75ZYQ

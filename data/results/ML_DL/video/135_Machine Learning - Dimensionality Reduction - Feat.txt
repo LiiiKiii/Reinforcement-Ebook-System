@@ -1,4 +1,0 @@
-Title: Machine Learning - Dimensionality Reduction - Feature Extraction & Selection
-URL: https://www.youtube.com/watch?v=AU_hBML2H1c
-Description: YouTube视频: Machine Learning - Dimensionality Reduction - Feature Extraction & Selection
-Thumbnail: https://i.ytimg.com/vi/AU_hBML2H1c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCotY9mOwAyRHKT3h92NAD2QsbKOg

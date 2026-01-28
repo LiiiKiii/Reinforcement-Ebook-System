@@ -1,4 +1,0 @@
-Title: Generative AI Explained (Tutorial + Examples)
-URL: https://www.youtube.com/watch?v=ykzmtSB2c7k
-Description: YouTube视频: Generative AI Explained (Tutorial + Examples)
-Thumbnail: https://i.ytimg.com/vi/ykzmtSB2c7k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCz2CdIvbu3LtXu6O7W-TfjsViGA

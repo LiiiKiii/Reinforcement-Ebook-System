@@ -1,4 +1,0 @@
-Title: 1: Introduction to Neural Networks and Deep Learning; Training Deep NNs
-URL: https://www.youtube.com/watch?v=kyQ0CRkYhy4
-Description: YouTube视频: 1: Introduction to Neural Networks and Deep Learning; Training Deep NNs
-Thumbnail: https://i.ytimg.com/vi/kyQ0CRkYhy4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACdzmjK6FrBp1pPq0gwVZfV0UisQ

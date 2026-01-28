@@ -1,4 +1,0 @@
-Title: Introduction to Generative AI
-URL: https://www.youtube.com/watch?v=2p5OHDxR2l8
-Description: YouTube视频: Introduction to Generative AI
-Thumbnail: https://i.ytimg.com/vi/2p5OHDxR2l8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvnoB9gckSgu6tcs3Sqa-8SlwYEQ

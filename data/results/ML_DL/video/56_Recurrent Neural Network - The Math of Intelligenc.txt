@@ -1,4 +1,0 @@
-Title: Recurrent Neural Network - The Math of Intelligence (Week 5)
-URL: https://www.youtube.com/watch?v=BwmddtPFWtA
-Description: YouTube视频: Recurrent Neural Network - The Math of Intelligence (Week 5)
-Thumbnail: https://i.ytimg.com/vi/BwmddtPFWtA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ3-6tyil6gmeIyLqjbQO8gF3TLw

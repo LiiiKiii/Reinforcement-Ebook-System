@@ -1,4 +1,0 @@
-Title: Backpropagation, intuitively | Deep Learning Chapter 3
-URL: https://www.youtube.com/watch?v=Ilg3gGewQ5U
-Description: YouTube视频: Backpropagation, intuitively | Deep Learning Chapter 3
-Thumbnail: https://i.ytimg.com/vi/Ilg3gGewQ5U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1HaEaDHlR0aScJQzR8rW8ghpZLQ

@@ -1,4 +1,0 @@
-Title: Lecture 23: Expectation and Variance
-URL: https://www.youtube.com/watch?v=047B4UrEaNw
-Description: YouTube视频: Lecture 23: Expectation and Variance
-Thumbnail: https://i.ytimg.com/vi/047B4UrEaNw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBJxRaXQXs_re7Iv-lYHg4geflehw

@@ -1,4 +1,0 @@
-Title: Claude Code is our 10x editor with Remotion
-URL: https://www.youtube.com/watch?v=kl25Txlu9Kw
-Description: YouTube视频: Claude Code is our 10x editor with Remotion
-Thumbnail: https://i.ytimg.com/vi/kl25Txlu9Kw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFqR_sMNUgTN8fpRzCYIAZQ31_vg

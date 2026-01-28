@@ -1,4 +1,0 @@
-Title: Let's train an AI model to generate recipes! 🍪 #python #ailearning #huggingface
-URL: https://www.youtube.com/watch?v=x0hInMGWgWU
-Description: YouTube视频: Let's train an AI model to generate recipes! 🍪 #python #ailearning #huggingface
-Thumbnail: https://i.ytimg.com/vi/x0hInMGWgWU/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAsoNigIMCAAQARhNIFEoZTAP&rs=AOn4CLD23a8tLXOJcR8JOqX3m9YEcgUgkA

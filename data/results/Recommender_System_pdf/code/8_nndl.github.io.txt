@@ -1,4 +1,0 @@
-Title: nndl.github.io
-URL: https://github.com/nndl/nndl.github.io
-Source: GitHub
-Description: GitHub代码仓库: nndl.github.io

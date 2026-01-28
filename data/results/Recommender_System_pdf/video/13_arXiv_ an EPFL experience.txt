@@ -1,4 +1,0 @@
-Title: arXiv: an EPFL experience
-URL: https://www.youtube.com/watch?v=3R4F7eY0enc
-Description: YouTube视频: arXiv: an EPFL experience
-Thumbnail: https://i.ytimg.com/vi/3R4F7eY0enc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVpVvL1QKE8luNAh2cLg1et0fVFQ

@@ -1,4 +1,0 @@
-Title: Large Language Models explained briefly
-URL: https://www.youtube.com/watch?v=LPZh9BOjkQs
-Description: YouTube视频: Large Language Models explained briefly
-Thumbnail: https://i.ytimg.com/vi/LPZh9BOjkQs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATsTncbvO7P7_ANyrCKHuFAAI6MQ

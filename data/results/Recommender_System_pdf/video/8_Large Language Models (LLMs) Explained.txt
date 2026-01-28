@@ -1,4 +1,0 @@
-Title: Large Language Models (LLMs) Explained
-URL: https://www.youtube.com/watch?v=sg_fuEzFw0g
-Description: YouTube视频: Large Language Models (LLMs) Explained
-Thumbnail: https://i.ytimg.com/vi/sg_fuEzFw0g/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANjBlslfryx2zO2a8C-OBe3ADNCA

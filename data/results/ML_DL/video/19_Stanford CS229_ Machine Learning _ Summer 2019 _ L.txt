@@ -1,4 +1,0 @@
-Title: Stanford CS229: Machine Learning | Summer 2019 | Lecture 10 - Deep learning - I
-URL: https://www.youtube.com/watch?v=mpJ2bFF6o8s
-Description: YouTube视频: Stanford CS229: Machine Learning | Summer 2019 | Lecture 10 - Deep learning - I
-Thumbnail: https://i.ytimg.com/vi/mpJ2bFF6o8s/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDLY0VGqS_UiZufCRIkb1pu37gc1w

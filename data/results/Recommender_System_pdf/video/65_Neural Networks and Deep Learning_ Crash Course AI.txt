@@ -1,4 +1,0 @@
-Title: Neural Networks and Deep Learning: Crash Course AI #3
-URL: https://www.youtube.com/watch?v=oV3ZY6tJiA0
-Description: YouTube视频: Neural Networks and Deep Learning: Crash Course AI #3
-Thumbnail: https://i.ytimg.com/vi/oV3ZY6tJiA0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmxprXipfMnOfTMDhErriRVejliA

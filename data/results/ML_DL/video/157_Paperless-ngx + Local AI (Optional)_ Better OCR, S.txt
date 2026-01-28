@@ -1,4 +1,0 @@
-Title: Paperless-ngx + Local AI (Optional): Better OCR, Self-Hosted, No Cloud
-URL: https://www.youtube.com/watch?v=NMAwHjleqHg
-Description: YouTube视频: Paperless-ngx + Local AI (Optional): Better OCR, Self-Hosted, No Cloud
-Thumbnail: https://i.ytimg.com/vi/NMAwHjleqHg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCtoBvoXlfAZCKFzf0TjhCDJWTQA

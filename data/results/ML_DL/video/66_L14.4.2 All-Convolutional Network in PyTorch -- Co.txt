@@ -1,4 +1,0 @@
-Title: L14.4.2 All-Convolutional Network in PyTorch -- Code Example
-URL: https://www.youtube.com/watch?v=A5dC5yuPXwo
-Description: YouTube视频: L14.4.2 All-Convolutional Network in PyTorch -- Code Example
-Thumbnail: https://i.ytimg.com/vi/A5dC5yuPXwo/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IBMoKzAP&rs=AOn4CLCptWJkXAerEMz89_3hm7rf5RdKfw

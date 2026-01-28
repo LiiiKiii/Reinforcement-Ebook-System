@@ -1,4 +1,0 @@
-Title: Paddle_baseline_KDD2019
-URL: https://github.com/yaoxuefeng6/Paddle_baseline_KDD2019
-Source: GitHub
-Description: GitHub代码仓库: Paddle_baseline_KDD2019

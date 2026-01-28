@@ -1,4 +1,0 @@
-Title: DeepMind x UCL | Deep Learning Lectures | 9/12 | Generative Adversarial Networks
-URL: https://www.youtube.com/watch?v=wFsI2WqUfdA
-Description: YouTube视频: DeepMind x UCL | Deep Learning Lectures | 9/12 |  Generative Adversarial Networks
-Thumbnail: https://i.ytimg.com/vi/wFsI2WqUfdA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsndnk0JePKviJ_XvQk8-CuY7b0w

@@ -1,4 +1,0 @@
-Title: SonifyAR: Context-Aware Sound Generation in Augmented Reality
-URL: https://www.youtube.com/watch?v=jMoN2v5BJGM
-Description: YouTube视频: SonifyAR: Context-Aware Sound Generation in Augmented Reality
-Thumbnail: https://i.ytimg.com/vi/jMoN2v5BJGM/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEcoJzAP&rs=AOn4CLDR5hTkllSJM6I-DCZ4iXfDgl3BGA

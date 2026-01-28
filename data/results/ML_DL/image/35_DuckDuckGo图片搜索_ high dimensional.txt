@@ -1,3 +1,0 @@
-Title: DuckDuckGo图片搜索: high dimensional
-URL: https://duckduckgo.com/?q=high%20dimensional&iax=images&ia=images
-Source: DuckDuckGo Images

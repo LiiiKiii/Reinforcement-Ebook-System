@@ -1,4 +1,0 @@
-Title: Deep Learning Training Flow -- PyTorch
-URL: https://www.youtube.com/watch?v=haY_h1HWjpg
-Description: YouTube视频: Deep Learning Training Flow -- PyTorch
-Thumbnail: https://i.ytimg.com/vi/haY_h1HWjpg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKIPPIFbpOMms3SI0tefg_gaid3Q

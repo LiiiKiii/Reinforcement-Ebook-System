@@ -1,4 +1,0 @@
-Title: Machine Learning Fundamentals: Bias and Variance
-URL: https://www.youtube.com/watch?v=EuBBz3bI-aA
-Description: YouTube视频: Machine Learning Fundamentals: Bias and Variance
-Thumbnail: https://i.ytimg.com/vi/EuBBz3bI-aA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3k_7o3ECpZAPUT90ZqkkIGTX_8A

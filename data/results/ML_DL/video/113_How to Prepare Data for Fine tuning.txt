@@ -1,4 +1,0 @@
-Title: How to Prepare Data for Fine tuning
-URL: https://www.youtube.com/watch?v=H3H0X55CdxU
-Description: YouTube视频: How to Prepare Data for Fine tuning
-Thumbnail: https://i.ytimg.com/vi/H3H0X55CdxU/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARgYIEoofzAP&rs=AOn4CLBnMEHgoqSpuUnSOO_A5aPr3ZkVvg

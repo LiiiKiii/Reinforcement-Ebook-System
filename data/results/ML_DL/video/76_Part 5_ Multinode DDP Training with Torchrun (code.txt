@@ -1,4 +1,0 @@
-Title: Part 5: Multinode DDP Training with Torchrun (code walkthrough)
-URL: https://www.youtube.com/watch?v=KaAJtI1T2x4
-Description: YouTube视频: Part 5: Multinode DDP Training with Torchrun (code walkthrough)
-Thumbnail: https://i.ytimg.com/vi/KaAJtI1T2x4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC33Prcci-lI2glEnR42n3ST_mMqA

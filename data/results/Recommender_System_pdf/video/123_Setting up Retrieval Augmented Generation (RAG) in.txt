@@ -1,4 +1,0 @@
-Title: Setting up Retrieval Augmented Generation (RAG) in 3 Steps
-URL: https://www.youtube.com/watch?v=LpKGm1jJXv4
-Description: YouTube视频: Setting up Retrieval Augmented Generation (RAG) in 3 Steps
-Thumbnail: https://i.ytimg.com/vi/LpKGm1jJXv4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGrndHYzRydnvK5PymyyCew5ZtOw

@@ -1,4 +1,0 @@
-Title: Write your training loop in PyTorch
-URL: https://www.youtube.com/watch?v=Dh9CL8fyG80
-Description: YouTube视频: Write your training loop in PyTorch
-Thumbnail: https://i.ytimg.com/vi/Dh9CL8fyG80/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1oFjoTYBSGmtKUz6-D6g57Xxyvg

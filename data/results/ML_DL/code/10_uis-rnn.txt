@@ -1,4 +1,0 @@
-Title: uis-rnn
-URL: https://github.com/google/uis-rnn
-Source: GitHub
-Description: GitHub代码仓库: uis-rnn

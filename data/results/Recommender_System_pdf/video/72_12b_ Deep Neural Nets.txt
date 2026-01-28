@@ -1,4 +1,0 @@
-Title: 12b: Deep Neural Nets
-URL: https://www.youtube.com/watch?v=VrMHA3yX_QI
-Description: YouTube视频: 12b: Deep Neural Nets
-Thumbnail: https://i.ytimg.com/vi/VrMHA3yX_QI/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooTzAP&rs=AOn4CLBHtRgAWSIzyKoCkTkjo1HrMIeX4w

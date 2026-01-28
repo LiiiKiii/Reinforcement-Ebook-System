@@ -1,4 +1,0 @@
-Title: How to create a Paypal donate link
-URL: https://www.youtube.com/watch?v=mxSOqKSUZpY
-Description: YouTube视频: How to create a Paypal donate link
-Thumbnail: https://i.ytimg.com/vi/mxSOqKSUZpY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAms803SA5twKTh2C3jHkzBGjShDg

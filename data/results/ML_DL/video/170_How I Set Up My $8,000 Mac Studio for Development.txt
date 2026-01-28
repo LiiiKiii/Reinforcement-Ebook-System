@@ -1,4 +1,0 @@
-Title: How I Set Up My $8,000 Mac Studio for Development
-URL: https://www.youtube.com/watch?v=lKnRbjZvgGI
-Description: YouTube视频: How I Set Up My $8,000 Mac Studio for Development
-Thumbnail: https://i.ytimg.com/vi/lKnRbjZvgGI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChGjgotUpZbpPMitWiEByPqzqGqQ

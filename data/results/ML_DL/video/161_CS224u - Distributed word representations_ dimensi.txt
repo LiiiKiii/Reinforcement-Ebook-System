@@ -1,4 +1,0 @@
-Title: CS224u - Distributed word representations: dimensionality reduction
-URL: https://www.youtube.com/watch?v=qSA9v7ZkC7Q
-Description: YouTube视频: CS224u - Distributed word representations: dimensionality reduction
-Thumbnail: https://i.ytimg.com/vi/qSA9v7ZkC7Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChYdev2OV_wkis043mWKJBtgCh4g

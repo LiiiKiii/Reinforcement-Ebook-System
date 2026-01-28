@@ -1,9 +1,0 @@
-Source: Google Scholar
-URL: http://etheses.dur.ac.uk/13310
-
-==================================================
-
-论文标题: Immaculate Depth Perception: Recovering 3D Scene Information via Depth Completion and Prediction
-摘要: Even though obtaining three-dimensional (3D) information has received significant attention
-in scene capture systems in recent years, there are currently numerous challenges in scene …
-请访问链接查看完整论文。

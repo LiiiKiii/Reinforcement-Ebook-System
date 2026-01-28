@@ -1,4 +1,0 @@
-Title: Introduction to Dimensionality Reduction
-URL: https://www.youtube.com/watch?v=vnAlnkWyA04
-Description: YouTube视频: Introduction to Dimensionality Reduction
-Thumbnail: https://i.ytimg.com/vi/vnAlnkWyA04/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh6IDMofzAP&rs=AOn4CLB00NTYf7QOK2K7F8ovnHiGgoiGYw

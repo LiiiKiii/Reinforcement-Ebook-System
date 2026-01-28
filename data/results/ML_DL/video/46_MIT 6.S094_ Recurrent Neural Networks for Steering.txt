@@ -1,4 +1,0 @@
-Title: MIT 6.S094: Recurrent Neural Networks for Steering Through Time
-URL: https://www.youtube.com/watch?v=nFTQ7kHQWtc
-Description: YouTube视频: MIT 6.S094: Recurrent Neural Networks for Steering Through Time
-Thumbnail: https://i.ytimg.com/vi/nFTQ7kHQWtc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq_mWqAk06woaB5NJ_8-FN4q88YA

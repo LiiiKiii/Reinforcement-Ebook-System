@@ -1,3 +1,0 @@
-Title: DuckDuckGo图片搜索: dimensionality reduction feature
-URL: https://duckduckgo.com/?q=dimensionality%20reduction%20feature&iax=images&ia=images
-Source: DuckDuckGo Images

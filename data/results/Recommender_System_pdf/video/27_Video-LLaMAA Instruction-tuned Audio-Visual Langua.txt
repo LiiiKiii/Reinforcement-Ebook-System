@@ -1,4 +1,0 @@
-Title: Video-LLaMAA Instruction-tuned Audio-Visual Language Model for Video Understanding
-URL: https://www.youtube.com/watch?v=Uo7ztHagqUY
-Description: YouTube视频: Video-LLaMAA Instruction-tuned Audio-Visual Language Model for Video Understanding
-Thumbnail: https://i.ytimg.com/vi/Uo7ztHagqUY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5kamjNB06fpCFuaMV0f1dCOaX_Q

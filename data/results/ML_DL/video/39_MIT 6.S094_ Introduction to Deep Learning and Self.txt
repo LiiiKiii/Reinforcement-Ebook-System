@@ -1,4 +1,0 @@
-Title: MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars
-URL: https://www.youtube.com/watch?v=1L0TKZQcUtA
-Description: YouTube视频: MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars
-Thumbnail: https://i.ytimg.com/vi/1L0TKZQcUtA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB9BlvD9e5yvJInU2nSO-xu-k_Nw

@@ -1,4 +1,0 @@
-Title: PyTorch DataLoaders Overview and Examples (batch_size, shuffle, num_workers, pin_memory, drop_last)
-URL: https://www.youtube.com/watch?v=eGch5tZry84
-Description: YouTube视频: PyTorch DataLoaders Overview and Examples (batch_size, shuffle, num_workers, pin_memory, drop_last)
-Thumbnail: https://i.ytimg.com/vi/eGch5tZry84/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB86eQughdUV1Mbn6o6sZ7APbfNIQ

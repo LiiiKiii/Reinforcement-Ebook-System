@@ -1,4 +1,0 @@
-Title: Do Statistical Models Understand the World? - Ian Goodfellow, Research Scientist, Google
-URL: https://www.youtube.com/watch?v=Pq4A2mPCB0Y
-Description: YouTube视频: Do Statistical Models Understand the World? - Ian Goodfellow, Research Scientist, Google
-Thumbnail: https://i.ytimg.com/vi/Pq4A2mPCB0Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_swvfysYZA9yrxqll9kOd1yDpgA

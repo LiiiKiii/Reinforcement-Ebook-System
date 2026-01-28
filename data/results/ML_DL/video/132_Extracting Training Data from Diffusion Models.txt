@@ -1,4 +1,0 @@
-Title: Extracting Training Data from Diffusion Models
-URL: https://www.youtube.com/watch?v=MEVh613o_kw
-Description: YouTube视频: Extracting Training Data from Diffusion Models
-Thumbnail: https://i.ytimg.com/vi/MEVh613o_kw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALScrLCsIqOFXOALYXmPdGiu5nSA

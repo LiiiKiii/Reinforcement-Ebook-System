@@ -1,4 +1,0 @@
-Title: Ask the Expert: Build Agile Business Processes with Power Apps | ATE-DB130-R1
-URL: https://www.youtube.com/watch?v=pvMVNr7oaMk
-Description: YouTube视频: Ask the Expert: Build Agile Business Processes with Power Apps | ATE-DB130-R1
-Thumbnail: https://i.ytimg.com/vi/pvMVNr7oaMk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtmb5s9ns41psm-0dqs4FGA0OOtQ

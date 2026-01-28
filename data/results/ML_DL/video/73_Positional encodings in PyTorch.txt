@@ -1,4 +1,0 @@
-Title: Positional encodings in PyTorch
-URL: https://www.youtube.com/watch?v=LlZL1X0n1FM
-Description: YouTube视频: Positional encodings in PyTorch
-Thumbnail: https://i.ytimg.com/vi/LlZL1X0n1FM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1t3kuAoNLWbmzA4qJOjK6b2WDKA

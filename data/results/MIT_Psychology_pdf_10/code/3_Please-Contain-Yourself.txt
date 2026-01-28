@@ -1,4 +1,0 @@
-Title: Please-Contain-Yourself
-URL: https://github.com/dylanlrrb/Please-Contain-Yourself
-Source: GitHub
-Description: GitHub代码仓库: Please-Contain-Yourself

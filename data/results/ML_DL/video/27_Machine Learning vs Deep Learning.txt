@@ -1,4 +1,0 @@
-Title: Machine Learning vs Deep Learning
-URL: https://www.youtube.com/watch?v=q6kJ71tEYqM
-Description: YouTube视频: Machine Learning vs Deep Learning
-Thumbnail: https://i.ytimg.com/vi/q6kJ71tEYqM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_ohzUht0caI7e4xRsgmOwfPA2Nw

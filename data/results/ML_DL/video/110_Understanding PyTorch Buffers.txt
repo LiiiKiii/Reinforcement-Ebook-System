@@ -1,4 +1,0 @@
-Title: Understanding PyTorch Buffers
-URL: https://www.youtube.com/watch?v=PetlIokI9Ao
-Description: YouTube视频: Understanding PyTorch Buffers
-Thumbnail: https://i.ytimg.com/vi/PetlIokI9Ao/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-v2IccaEBTsL1gbUEpscwdupYg

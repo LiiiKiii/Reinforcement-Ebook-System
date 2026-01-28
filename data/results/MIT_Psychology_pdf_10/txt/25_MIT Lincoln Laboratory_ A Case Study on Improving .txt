@@ -1,9 +1,0 @@
-Source: arXiv
-URL: http://arxiv.org/abs/2512.01649v1
-
-==================================================
-
-作者: Daniel Strassler, Gabe Elkin, Curran Schiefelbein, Daniel Herring, Ian Jessen
-摘要: Software plays an ever increasing role in complex system development and prototyping, and in recent years, MIT Lincoln Laboratory has sought to improve both the effectiveness and culture surrounding software engineering in execution of its mission. The Homeland Protection and Air Traffic Control Division conducted an internal study to examine challenges to effective and efficient research software development, and to identify ways to strengthen both the culture and execution for greater impact on our mission. Key findings of this study fell into three main categories: project attributes that influence how software development activities must be conducted and managed, potential efficiencies from centralization, opportunities to improve staffing and culture with respect to software practitioners. The study delivered actionable recommendations, including centralizing and standardizing software support tooling, developing a common database to help match the right software talent and needs ...
-arXiv链接: http://arxiv.org/abs/2512.01649v1
-请访问链接查看完整论文。

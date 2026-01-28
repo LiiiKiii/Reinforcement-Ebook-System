@@ -1,4 +1,0 @@
-Title: Why do you split data into testing and training data in data science? (12 of 28)
-URL: https://www.youtube.com/watch?v=_vdMKioCXqQ
-Description: YouTube视频: Why do you split data into testing and training data in data science? (12 of 28)
-Thumbnail: https://i.ytimg.com/vi/_vdMKioCXqQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjEIRH0GStpWU9SH1lym6sGY4HzQ

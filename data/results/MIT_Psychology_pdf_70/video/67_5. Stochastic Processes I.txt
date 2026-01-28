@@ -1,4 +1,0 @@
-Title: 5. Stochastic Processes I
-URL: https://www.youtube.com/watch?v=TuTmC8aOQJE
-Description: YouTube视频: 5. Stochastic Processes I
-Thumbnail: https://i.ytimg.com/vi/TuTmC8aOQJE/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF4oTjAP&rs=AOn4CLAu4QVLacBGRDgDeK0F8fksePcbYA

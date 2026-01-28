@@ -1,4 +1,0 @@
-Title: [IEEE BigData 2025] Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education
-URL: https://www.youtube.com/watch?v=X0xjJ9lpTYg
-Description: YouTube视频: [IEEE BigData 2025] Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education
-Thumbnail: https://i.ytimg.com/vi/X0xjJ9lpTYg/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBQoNDAP&rs=AOn4CLDuR6Y9KGSy7OliJvV_XRz_Oa3nEg

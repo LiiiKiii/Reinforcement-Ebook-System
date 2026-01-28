@@ -1,4 +1,0 @@
-Title: crnn
-URL: https://github.com/bgshih/crnn
-Source: GitHub
-Description: GitHub代码仓库: crnn

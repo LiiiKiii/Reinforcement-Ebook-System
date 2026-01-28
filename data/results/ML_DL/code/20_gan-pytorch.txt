@@ -1,4 +1,0 @@
-Title: gan-pytorch
-URL: https://github.com/h3lio5/gan-pytorch
-Source: GitHub
-Description: GitHub代码仓库: gan-pytorch

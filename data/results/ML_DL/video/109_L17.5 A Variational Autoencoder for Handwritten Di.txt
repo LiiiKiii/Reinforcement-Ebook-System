@@ -1,4 +1,0 @@
-Title: L17.5 A Variational Autoencoder for Handwritten Digits in PyTorch -- Code Example
-URL: https://www.youtube.com/watch?v=afNuE5z2CQ8
-Description: YouTube视频: L17.5 A Variational Autoencoder for Handwritten Digits in PyTorch -- Code Example
-Thumbnail: https://i.ytimg.com/vi/afNuE5z2CQ8/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhXIGAoZTAP&rs=AOn4CLCANyAgdE1E4ZZw8llqE4pYO2U1GA

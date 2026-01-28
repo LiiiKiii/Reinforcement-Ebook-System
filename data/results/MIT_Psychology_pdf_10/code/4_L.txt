@@ -1,4 +1,0 @@
-Title: L
-URL: https://github.com/jettbrains/-L-
-Source: GitHub
-Description: GitHub代码仓库: -L-

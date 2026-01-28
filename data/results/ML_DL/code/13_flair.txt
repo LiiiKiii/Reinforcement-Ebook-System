@@ -1,4 +1,0 @@
-Title: flair
-URL: https://github.com/flairNLP/flair
-Source: GitHub
-Description: GitHub代码仓库: flair

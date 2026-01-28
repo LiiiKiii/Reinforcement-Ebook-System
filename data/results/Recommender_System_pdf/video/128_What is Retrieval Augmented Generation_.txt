@@ -1,4 +1,0 @@
-Title: What is Retrieval Augmented Generation?
-URL: https://www.youtube.com/watch?v=9_IKLDGzB5Q
-Description: YouTube视频: What is Retrieval Augmented Generation?
-Thumbnail: https://i.ytimg.com/vi/9_IKLDGzB5Q/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhhIGUoWzAP&rs=AOn4CLAqLeRT8tDwnTDClhcILkZ-ZHzEtg

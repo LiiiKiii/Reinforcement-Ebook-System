@@ -1,4 +1,0 @@
-Title: N-Grams in Natural Language Processing | Data Science in Minutes
-URL: https://www.youtube.com/watch?v=E_mN90TYnlg
-Description: YouTube视频: N-Grams in Natural Language Processing | Data Science in Minutes
-Thumbnail: https://i.ytimg.com/vi/E_mN90TYnlg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNLjdYYo599mutKo6XutpU0YWOJQ

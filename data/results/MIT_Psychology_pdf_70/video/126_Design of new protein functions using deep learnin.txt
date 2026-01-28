@@ -1,4 +1,0 @@
-Title: Design of new protein functions using deep learning–David Baker (University of Washington)
-URL: https://www.youtube.com/watch?v=3K1J83Yle5Q
-Description: YouTube视频: Design of new protein functions using deep learning–David Baker (University of Washington)
-Thumbnail: https://i.ytimg.com/vi/3K1J83Yle5Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL_mvUhKZIM-FG9T5_HjvZYggyVA

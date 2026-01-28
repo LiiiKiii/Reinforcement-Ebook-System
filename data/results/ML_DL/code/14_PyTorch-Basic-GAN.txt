@@ -1,4 +1,0 @@
-Title: PyTorch-Basic-GAN
-URL: https://github.com/sajad-bana-zadeh/PyTorch-Basic-GAN
-Source: GitHub
-Description: GitHub代码仓库: PyTorch-Basic-GAN

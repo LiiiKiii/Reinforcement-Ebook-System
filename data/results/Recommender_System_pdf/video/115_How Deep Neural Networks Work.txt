@@ -1,4 +1,0 @@
-Title: How Deep Neural Networks Work
-URL: https://www.youtube.com/watch?v=ILsA4nyG7I0
-Description: YouTube视频: How Deep Neural Networks Work
-Thumbnail: https://i.ytimg.com/vi/ILsA4nyG7I0/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg4IE0ofzAP&rs=AOn4CLBmNM97rZHjzi9E5yX6ImE5OzWWdw

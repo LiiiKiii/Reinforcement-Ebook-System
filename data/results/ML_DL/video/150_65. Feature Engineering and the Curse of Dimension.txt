@@ -1,4 +1,0 @@
-Title: 65. Feature Engineering and the Curse of Dimensionality
-URL: https://www.youtube.com/watch?v=EpCSH7nsT84
-Description: YouTube视频: 65. Feature Engineering and the Curse of Dimensionality
-Thumbnail: https://i.ytimg.com/vi/EpCSH7nsT84/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWzAP&rs=AOn4CLDQ4-NQk5LG1tOMSIQNghkk6xcsmA

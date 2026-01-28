@@ -1,4 +1,0 @@
-Title: Reinforced Self-Training (ReST) for Language Modeling
-URL: https://www.youtube.com/watch?v=geMgd7fov2Q
-Description: YouTube视频: Reinforced Self-Training (ReST) for Language Modeling
-Thumbnail: https://i.ytimg.com/vi/geMgd7fov2Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8v4-9t2582qxeHbe9TVvNss5m-g

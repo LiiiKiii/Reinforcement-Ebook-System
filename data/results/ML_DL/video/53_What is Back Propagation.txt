@@ -1,4 +1,0 @@
-Title: What is Back Propagation
-URL: https://www.youtube.com/watch?v=S5AGN9XfPK4
-Description: YouTube视频: What is Back Propagation
-Thumbnail: https://i.ytimg.com/vi/S5AGN9XfPK4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbuHL6sUxTs_xQ_ZFsyvXDGvkUew

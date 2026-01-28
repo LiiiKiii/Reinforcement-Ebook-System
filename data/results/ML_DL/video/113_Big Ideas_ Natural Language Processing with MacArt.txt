@@ -1,4 +1,0 @@
-Title: Big Ideas: Natural Language Processing with MacArthur Fellow Dan Jurafsky
-URL: https://www.youtube.com/watch?v=VXVxCMRocOs
-Description: YouTube视频: Big Ideas: Natural Language Processing with MacArthur Fellow Dan Jurafsky
-Thumbnail: https://i.ytimg.com/vi/VXVxCMRocOs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBseKvSexlyNGlOGJeqMXZacdorAA

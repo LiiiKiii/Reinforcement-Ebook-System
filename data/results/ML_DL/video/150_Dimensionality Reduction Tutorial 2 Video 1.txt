@@ -1,4 +1,0 @@
-Title: Dimensionality Reduction Tutorial 2 Video 1
-URL: https://www.youtube.com/watch?v=-f6T9--oM0E
-Description: YouTube视频: Dimensionality Reduction Tutorial 2 Video 1
-Thumbnail: https://i.ytimg.com/vi/-f6T9--oM0E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjQgzl5TCxAuCUACFIwxsqXdxzIg

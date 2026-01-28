@@ -1,4 +1,0 @@
-Title: Lecture 11: Special Distributions, continued. The Sample Mean, Central Limit Theorem, and Estimation
-URL: https://www.youtube.com/watch?v=m2gRXPmtU0Q
-Description: YouTube视频: Lecture 11: Special Distributions, continued. The Sample Mean, Central Limit Theorem, and Estimation
-Thumbnail: https://i.ytimg.com/vi/m2gRXPmtU0Q/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARheIF4oXjAP&rs=AOn4CLCVCwDWOJgzXzWuMBcCwGXdt0SqWg

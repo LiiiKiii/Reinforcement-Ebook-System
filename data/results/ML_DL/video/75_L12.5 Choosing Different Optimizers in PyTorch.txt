@@ -1,4 +1,0 @@
-Title: L12.5 Choosing Different Optimizers in PyTorch
-URL: https://www.youtube.com/watch?v=c-SRPvK_zzs
-Description: YouTube视频: L12.5 Choosing Different Optimizers in PyTorch
-Thumbnail: https://i.ytimg.com/vi/c-SRPvK_zzs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARgfIFgofzAP&rs=AOn4CLC-eQkOpsbXvbkbiNMfoWOKmx_dAg

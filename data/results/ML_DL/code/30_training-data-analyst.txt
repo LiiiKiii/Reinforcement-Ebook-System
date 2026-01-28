@@ -1,4 +1,0 @@
-Title: training-data-analyst
-URL: https://github.com/GoogleCloudPlatform/training-data-analyst
-Source: GitHub
-Description: GitHub代码仓库: training-data-analyst

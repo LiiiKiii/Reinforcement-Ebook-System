@@ -1,4 +1,0 @@
-Title: ChemGAN-challenge
-URL: https://github.com/benstaf/ChemGAN-challenge
-Source: GitHub
-Description: GitHub代码仓库: ChemGAN-challenge

@@ -1,4 +1,0 @@
-Title: AI, Machine Learning, Deep Learning and Generative AI Explained
-URL: https://www.youtube.com/watch?v=qYNweeDHiyU
-Description: YouTube视频: AI, Machine Learning, Deep Learning and Generative AI Explained
-Thumbnail: https://i.ytimg.com/vi/qYNweeDHiyU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqKEjbYKsQ5UOPed6OpHoLzjvSqw

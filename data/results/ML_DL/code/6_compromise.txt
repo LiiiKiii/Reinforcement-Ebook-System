@@ -1,4 +1,0 @@
-Title: compromise
-URL: https://github.com/spencermountain/compromise
-Source: GitHub
-Description: GitHub代码仓库: compromise

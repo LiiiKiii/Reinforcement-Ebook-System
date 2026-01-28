@@ -1,4 +1,0 @@
-Title: 6S191_MIT_DeepLearning
-URL: https://github.com/abusufyanvu/6S191_MIT_DeepLearning
-Source: GitHub
-Description: GitHub代码仓库: 6S191_MIT_DeepLearning

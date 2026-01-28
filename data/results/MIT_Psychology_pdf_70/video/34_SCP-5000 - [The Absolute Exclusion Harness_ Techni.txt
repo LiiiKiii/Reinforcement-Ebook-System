@@ -1,4 +1,0 @@
-Title: SCP-5000 - [The Absolute Exclusion Harness: Technical Specs]
-URL: https://www.youtube.com/watch?v=uJfHqPFwvJI
-Description: YouTube视频: SCP-5000 - [The Absolute Exclusion Harness: Technical Specs]
-Thumbnail: https://i.ytimg.com/vi/uJfHqPFwvJI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP0DAUDtE68kWZeJHwOGRtgGuV_A

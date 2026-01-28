@@ -1,4 +1,0 @@
-Title: Training Data in Machine Learning Explained in 60 Seconds | What is Training Data?
-URL: https://www.youtube.com/watch?v=WA_jJtRG-g4
-Description: YouTube视频: Training Data in Machine Learning Explained in 60 Seconds | What is Training Data?
-Thumbnail: https://i.ytimg.com/vi/WA_jJtRG-g4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbiuUeqfvqBF4tAmPitYO9gBiuWA

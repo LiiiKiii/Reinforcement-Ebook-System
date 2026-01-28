@@ -1,4 +1,0 @@
-Title: How to use GEMMA in PyTorch (Free GPU)
-URL: https://www.youtube.com/watch?v=v3HEx-t_6wY
-Description: YouTube视频: How to use GEMMA in PyTorch (Free GPU)
-Thumbnail: https://i.ytimg.com/vi/v3HEx-t_6wY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOGAnoN0jc3lqFO8y3BGCbCSsJhQ

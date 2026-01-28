@@ -1,4 +1,0 @@
-Title: What is a Recommender System in Publishing?
-URL: https://www.youtube.com/watch?v=4L-sym4yfz4
-Description: YouTube视频: What is a Recommender System in Publishing?
-Thumbnail: https://i.ytimg.com/vi/4L-sym4yfz4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASOzxAI-bEDeMpaWDuyIhNl97V5A

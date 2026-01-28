@@ -1,4 +1,0 @@
-Title: What Is Chain-of-Thought Prompting in Generative AI?
-URL: https://www.youtube.com/watch?v=Fp-ue4UCE3s
-Description: YouTube视频: What Is Chain-of-Thought Prompting in Generative AI?
-Thumbnail: https://i.ytimg.com/vi/Fp-ue4UCE3s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0c3YaRTfMApt4r2FllPwnKnORxg

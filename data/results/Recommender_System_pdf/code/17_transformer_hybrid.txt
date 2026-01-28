@@ -1,4 +1,0 @@
-Title: transformer_hybrid
-URL: https://github.com/RuochenT/transformer_hybrid
-Source: GitHub
-Description: GitHub代码仓库: transformer_hybrid

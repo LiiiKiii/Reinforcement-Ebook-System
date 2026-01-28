@@ -1,4 +1,0 @@
-Title: Introduction to Expert Systems
-URL: https://www.youtube.com/watch?v=nolIdLXfI5Y
-Description: YouTube视频: Introduction to Expert Systems
-Thumbnail: https://i.ytimg.com/vi/nolIdLXfI5Y/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkQVIssg8sRgIe0qHEoOADJ5RdtQ

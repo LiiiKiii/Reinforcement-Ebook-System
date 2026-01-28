@@ -1,4 +1,0 @@
-Title: Ollama Launch + Claude Code
-URL: https://www.youtube.com/watch?v=NA5U06WuO34
-Description: YouTube视频: Ollama Launch + Claude Code
-Thumbnail: https://i9.ytimg.com/vi/NA5U06WuO34/hq720_custom_2.jpg?sqp=CLiB38sG-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_nEDVbXDI_NyactfJh6bFXAOrWQ

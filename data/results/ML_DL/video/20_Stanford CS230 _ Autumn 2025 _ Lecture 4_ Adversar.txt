@@ -1,4 +1,0 @@
-Title: Stanford CS230 | Autumn 2025 | Lecture 4: Adversarial Robustness and Generative Models
-URL: https://www.youtube.com/watch?v=aWlRtOlacYM
-Description: YouTube视频: Stanford CS230 | Autumn 2025 | Lecture 4: Adversarial Robustness and Generative Models
-Thumbnail: https://i.ytimg.com/vi/aWlRtOlacYM/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoWzAP&rs=AOn4CLBkKl0e5hyUJgiruNqJm0wTI0cyjQ

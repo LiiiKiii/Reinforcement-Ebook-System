@@ -1,4 +1,0 @@
-Title: 7. Natural Language Processing (NLP), Part 1
-URL: https://www.youtube.com/watch?v=IiD3YZkkCmE
-Description: YouTube视频: 7. Natural Language Processing (NLP), Part 1
-Thumbnail: https://i.ytimg.com/vi/IiD3YZkkCmE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-RvjsHssaJGuTDTJ4W-nOXA9xGw

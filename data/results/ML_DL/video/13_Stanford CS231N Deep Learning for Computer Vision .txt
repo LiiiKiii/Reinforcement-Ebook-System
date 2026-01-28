@@ -1,4 +1,0 @@
-Title: Stanford CS231N Deep Learning for Computer Vision | Spring 2025 | Lecture 1: Introduction
-URL: https://www.youtube.com/watch?v=2fq9wYslV0A
-Description: YouTube视频: Stanford CS231N Deep Learning for Computer Vision | Spring 2025 | Lecture 1: Introduction
-Thumbnail: https://i.ytimg.com/vi/2fq9wYslV0A/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAPRylbtd4cQ-parwH-G2of5o95NQ

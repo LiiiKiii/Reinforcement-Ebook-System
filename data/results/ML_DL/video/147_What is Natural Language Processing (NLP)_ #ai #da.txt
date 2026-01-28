@@ -1,4 +1,0 @@
-Title: What is Natural Language Processing (NLP)? #ai #datascience
-URL: https://www.youtube.com/watch?v=_yqruiqyVm4
-Description: YouTube视频: What is Natural Language Processing (NLP)? #ai  #datascience
-Thumbnail: https://i.ytimg.com/vi/_yqruiqyVm4/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhyIFMoMTAP&rs=AOn4CLBbo1sYR7YJlQ_AKSqM678rcAhIpQ

@@ -1,4 +1,0 @@
-Title: Natural Language Processing: An Introduction
-URL: https://www.youtube.com/watch?v=wS0X1bSsuUU
-Description: YouTube视频: Natural Language Processing: An Introduction
-Thumbnail: https://i.ytimg.com/vi/wS0X1bSsuUU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDuS8owpFKG6SPzyjgA1g2uOYfqA

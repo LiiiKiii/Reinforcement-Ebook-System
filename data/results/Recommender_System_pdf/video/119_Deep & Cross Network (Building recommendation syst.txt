@@ -1,4 +1,0 @@
-Title: Deep & Cross Network (Building recommendation systems with TensorFlow)
-URL: https://www.youtube.com/watch?v=kUuvRStz7CU
-Description: YouTube视频: Deep & Cross Network (Building recommendation systems with TensorFlow)
-Thumbnail: https://i.ytimg.com/vi/kUuvRStz7CU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNVjTQlhLqdSbe4xpJkrvH03FMFw

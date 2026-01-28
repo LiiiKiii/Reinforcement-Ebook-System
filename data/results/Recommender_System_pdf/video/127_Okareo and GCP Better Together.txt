@@ -1,4 +1,0 @@
-Title: Okareo and GCP Better Together
-URL: https://www.youtube.com/watch?v=q3gmEtwfx4M
-Description: YouTube视频: Okareo and GCP Better Together
-Thumbnail: https://i.ytimg.com/vi/q3gmEtwfx4M/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgpIEkofzAP&rs=AOn4CLDVxRcX3arj0XnYrL96U9NnUIG4rw

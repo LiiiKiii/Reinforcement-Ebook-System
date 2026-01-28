@@ -1,4 +1,0 @@
-Title: Build a Large Language Model AI Chatbot using Retrieval Augmented Generation
-URL: https://www.youtube.com/watch?v=XctooiH0moI
-Description: YouTube视频: Build a Large Language Model AI Chatbot using Retrieval Augmented Generation
-Thumbnail: https://i.ytimg.com/vi/XctooiH0moI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAO2uFvNuIFurVdHXoywzKwi65L-g

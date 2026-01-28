@@ -1,4 +1,0 @@
-Title: rnnoise
-URL: https://github.com/xiph/rnnoise
-Source: GitHub
-Description: GitHub代码仓库: rnnoise

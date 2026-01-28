@@ -1,4 +1,0 @@
-Title: natural-language-processing
-URL: https://github.com/khanhnamle1994/natural-language-processing
-Source: GitHub
-Description: GitHub代码仓库: natural-language-processing

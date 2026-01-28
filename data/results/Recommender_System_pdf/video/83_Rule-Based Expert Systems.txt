@@ -1,4 +1,0 @@
-Title: Rule-Based Expert Systems
-URL: https://www.youtube.com/watch?v=LyicSw3N9Co
-Description: YouTube视频: Rule-Based Expert Systems
-Thumbnail: https://i.ytimg.com/vi/LyicSw3N9Co/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD25KlFXkljGYRoGiHFyvnGWc8uSA

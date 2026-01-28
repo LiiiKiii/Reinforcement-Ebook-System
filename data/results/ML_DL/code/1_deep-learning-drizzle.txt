@@ -1,4 +1,0 @@
-Title: deep-learning-drizzle
-URL: https://github.com/kmario23/deep-learning-drizzle
-Source: GitHub
-Description: GitHub代码仓库: deep-learning-drizzle

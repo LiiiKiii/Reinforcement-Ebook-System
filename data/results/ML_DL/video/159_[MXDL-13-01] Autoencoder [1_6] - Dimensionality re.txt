@@ -1,4 +1,0 @@
-Title: [MXDL-13-01] Autoencoder [1/6] - Dimensionality reduction
-URL: https://www.youtube.com/watch?v=Wf8o_w1C0VM
-Description: YouTube视频: [MXDL-13-01] Autoencoder [1/6] - Dimensionality reduction
-Thumbnail: https://i.ytimg.com/vi/Wf8o_w1C0VM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClJhW_spvQWZr65cQhdZkcQT5xUQ

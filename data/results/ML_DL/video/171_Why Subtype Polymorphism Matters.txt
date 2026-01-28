@@ -1,4 +1,0 @@
-Title: Why Subtype Polymorphism Matters
-URL: https://www.youtube.com/watch?v=anbdaVBQT14
-Description: YouTube视频: Why Subtype Polymorphism Matters
-Thumbnail: https://i.ytimg.com/vi/anbdaVBQT14/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzNlv20YJX1zs7ZFFgR3mpkNk_Qg

@@ -1,4 +1,0 @@
-Title: SnakeAI
-URL: https://github.com/Jaredare/SnakeAI
-Source: GitHub
-Description: GitHub代码仓库: SnakeAI

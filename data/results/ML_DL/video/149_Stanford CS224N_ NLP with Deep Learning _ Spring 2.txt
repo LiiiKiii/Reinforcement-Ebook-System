@@ -1,4 +1,0 @@
-Title: Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 1 - Intro and Word Vectors
-URL: https://www.youtube.com/watch?v=DzpHeXVSC5I
-Description: YouTube视频: Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 1 - Intro and Word Vectors
-Thumbnail: https://i.ytimg.com/vi/DzpHeXVSC5I/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLCaGGsPOQqDGAY8M675dLmLo2hKCA

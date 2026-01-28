@@ -1,4 +1,0 @@
-Title: L11.3 BatchNorm in PyTorch -- Code Example
-URL: https://www.youtube.com/watch?v=8AUDn7iF2DY
-Description: YouTube视频: L11.3 BatchNorm in PyTorch -- Code Example
-Thumbnail: https://i.ytimg.com/vi/8AUDn7iF2DY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBT9N5KwpsuABzyzSAt7pI330u4Kw

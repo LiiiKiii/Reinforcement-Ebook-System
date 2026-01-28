@@ -1,4 +1,0 @@
-Title: Neural Networks Explained in 5 minutes
-URL: https://www.youtube.com/watch?v=jmmW0F0biz0
-Description: YouTube视频: Neural Networks Explained in 5 minutes
-Thumbnail: https://i.ytimg.com/vi/jmmW0F0biz0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZY9iTa5eDilpg1E2Cq1QwKRHkOQ

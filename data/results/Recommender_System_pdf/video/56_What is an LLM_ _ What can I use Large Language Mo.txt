@@ -1,4 +1,0 @@
-Title: What is an LLM? | What can I use Large Language Models for?
-URL: https://www.youtube.com/watch?v=U26RWmIf12c
-Description: YouTube视频: What is an LLM? | What can I use Large Language Models for?
-Thumbnail: https://i.ytimg.com/vi/U26RWmIf12c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyODByykPC_yYGPZFsaXR8cE4v9A

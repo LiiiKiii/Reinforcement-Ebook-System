@@ -1,4 +1,0 @@
-Title: Introduction | NLP Tutorial For Beginners In Python - Season 1 Episode 1
-URL: https://www.youtube.com/watch?v=R-AG4-qZs1A
-Description: YouTube视频: Introduction | NLP Tutorial For Beginners In Python  -  Season 1 Episode 1
-Thumbnail: https://i.ytimg.com/vi/R-AG4-qZs1A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJYaVZHu4VhXtyHe2ugZLScw23Ow

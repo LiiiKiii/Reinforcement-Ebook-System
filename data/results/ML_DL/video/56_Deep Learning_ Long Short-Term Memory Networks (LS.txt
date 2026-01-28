@@ -1,4 +1,0 @@
-Title: Deep Learning: Long Short-Term Memory Networks (LSTMs)
-URL: https://www.youtube.com/watch?v=5dMXyiWddYs
-Description: YouTube视频: Deep Learning: Long Short-Term Memory Networks (LSTMs)
-Thumbnail: https://i.ytimg.com/vi/5dMXyiWddYs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfp3Z3xXTmF64ffpu5mvmSkTv8xw

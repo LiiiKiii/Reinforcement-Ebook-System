@@ -1,4 +1,0 @@
-Title: What is Agentic RAG?
-URL: https://www.youtube.com/watch?v=0z9_MhcYvcY
-Description: YouTube视频: What is Agentic RAG?
-Thumbnail: https://i.ytimg.com/vi/0z9_MhcYvcY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOQPnUSZ1i3_3EYi8Q_CaP9faOSA

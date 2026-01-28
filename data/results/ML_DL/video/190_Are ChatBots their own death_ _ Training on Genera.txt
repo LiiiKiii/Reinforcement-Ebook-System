@@ -1,4 +1,0 @@
-Title: Are ChatBots their own death? | Training on Generated Data Makes Models Forget – Paper explained
-URL: https://www.youtube.com/watch?v=rrMNWJ9qXlI
-Description: YouTube视频: Are ChatBots their own death? | Training on Generated Data Makes Models Forget – Paper explained
-Thumbnail: https://i.ytimg.com/vi/rrMNWJ9qXlI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw-dglPOtlkGzxKTYeJ80PpVYJVw

@@ -1,7 +1,0 @@
-Source: Google Scholar
-URL: https://www.academia.edu/download/31279335/___Recurrent_Neural_Networks_Design_And_Applicatio(BookFi.org).pdf
-
-==================================================
-
-论文标题: Recurrent neural networks
-请访问链接查看完整论文。

@@ -1,4 +1,0 @@
-Title: biaxial-rnn-music-composition
-URL: https://github.com/danieldjohnson/biaxial-rnn-music-composition
-Source: GitHub
-Description: GitHub代码仓库: biaxial-rnn-music-composition

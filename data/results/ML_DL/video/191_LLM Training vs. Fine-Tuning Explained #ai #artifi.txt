@@ -1,4 +1,0 @@
-Title: LLM Training vs. Fine-Tuning Explained #ai #artificialintelligence #llm
-URL: https://www.youtube.com/watch?v=1r9h4rbWMVg
-Description: YouTube视频: LLM Training vs. Fine-Tuning Explained #ai #artificialintelligence #llm
-Thumbnail: https://i.ytimg.com/vi/1r9h4rbWMVg/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhyIE8oPzAP&rs=AOn4CLCcSAblh1deyuMr-MWsQNh9U35CFg

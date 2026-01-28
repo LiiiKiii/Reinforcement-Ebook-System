@@ -1,4 +1,0 @@
-Title: The CAUCE Entity Context Model Editor
-URL: https://www.youtube.com/watch?v=owFw8GFaZbI
-Description: YouTube视频: The CAUCE Entity Context Model Editor
-Thumbnail: https://i.ytimg.com/vi/owFw8GFaZbI/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBggeAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLCljZYhTngM9ppM98SI1hfEAOtOOg

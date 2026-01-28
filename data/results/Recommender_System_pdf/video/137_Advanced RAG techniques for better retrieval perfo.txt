@@ -1,4 +1,0 @@
-Title: Advanced RAG techniques for better retrieval performance
-URL: https://www.youtube.com/watch?v=DjJ6ngX2Dv8
-Description: YouTube视频: Advanced RAG techniques for better retrieval performance
-Thumbnail: https://i.ytimg.com/vi/DjJ6ngX2Dv8/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhNIEIocjAP&rs=AOn4CLDJqj0ZPxbfMVQvtMvXeIUivan_Vw

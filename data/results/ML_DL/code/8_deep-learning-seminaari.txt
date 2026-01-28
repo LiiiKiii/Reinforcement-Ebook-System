@@ -1,4 +1,0 @@
-Title: deep-learning-seminaari
-URL: https://github.com/ratteripenta/deep-learning-seminaari
-Source: GitHub
-Description: GitHub代码仓库: deep-learning-seminaari

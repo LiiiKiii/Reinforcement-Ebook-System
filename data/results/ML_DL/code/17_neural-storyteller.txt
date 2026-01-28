@@ -1,4 +1,0 @@
-Title: neural-storyteller
-URL: https://github.com/ryankiros/neural-storyteller
-Source: GitHub
-Description: GitHub代码仓库: neural-storyteller

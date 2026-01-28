@@ -1,4 +1,0 @@
-Title: 8. Continuous Random Variables
-URL: https://www.youtube.com/watch?v=mHfn_7ym6to
-Description: YouTube视频: 8. Continuous Random Variables
-Thumbnail: https://i.ytimg.com/vi/mHfn_7ym6to/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhOIFkoZTAP&rs=AOn4CLBDiUUkfPwmKZAI84DfcsKssGocPg

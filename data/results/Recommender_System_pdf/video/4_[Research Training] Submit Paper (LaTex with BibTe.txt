@@ -1,4 +1,0 @@
-Title: [Research Training] Submit Paper (LaTex with BibTex) to arXiv in Overleaf
-URL: https://www.youtube.com/watch?v=RUAaaq1FHes
-Description: YouTube视频: [Research Training] Submit Paper (LaTex with BibTex) to arXiv in Overleaf
-Thumbnail: https://i.ytimg.com/vi/RUAaaq1FHes/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAD3jJZw45mPBtYaOBfHtswYd13A

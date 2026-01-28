@@ -1,4 +1,0 @@
-Title: Stanford CS230: Deep Learning | Autumn 2018 | Lecture 2 - Deep Learning Intuition
-URL: https://www.youtube.com/watch?v=AwQHqWyHRpU
-Description: YouTube视频: Stanford CS230: Deep Learning | Autumn 2018 | Lecture 2 - Deep Learning Intuition
-Thumbnail: https://i.ytimg.com/vi/AwQHqWyHRpU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-hyeVFGjusgfTKnRRcjG1h6D4rw

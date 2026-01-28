@@ -1,4 +1,0 @@
-Title: Wasserstein Collaborative Filtering for Item Cold-start Recommendation
-URL: https://www.youtube.com/watch?v=EoG01QUjY3Q
-Description: YouTube视频: Wasserstein Collaborative Filtering for Item Cold-start Recommendation
-Thumbnail: https://i.ytimg.com/vi/EoG01QUjY3Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-TbQpbyRjYhJ_06_6eBD4xrfu9g

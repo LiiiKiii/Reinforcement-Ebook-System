@@ -1,4 +1,0 @@
-Title: Web Filtering - CompTIA Security+ SY0-701 - 4.5
-URL: https://www.youtube.com/watch?v=I_c0D49uCwQ
-Description: YouTube视频: Web Filtering - CompTIA Security+ SY0-701 - 4.5
-Thumbnail: https://i.ytimg.com/vi/I_c0D49uCwQ/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGEoVjAP&rs=AOn4CLBLvt3fLUpSkqsAjgfwywkjV1Ri1A

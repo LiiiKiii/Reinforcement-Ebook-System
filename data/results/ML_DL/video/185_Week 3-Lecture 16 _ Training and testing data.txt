@@ -1,4 +1,0 @@
-Title: Week 3-Lecture 16 : Training and testing data
-URL: https://www.youtube.com/watch?v=X-0ERnjgNLI
-Description: YouTube视频: Week 3-Lecture 16 : Training and testing data
-Thumbnail: https://i.ytimg.com/vi/X-0ERnjgNLI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7D2-Kj37Wu2i6snhMMOQyWBlFrQ

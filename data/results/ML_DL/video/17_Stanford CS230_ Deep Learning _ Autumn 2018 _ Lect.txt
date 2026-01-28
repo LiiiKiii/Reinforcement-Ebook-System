@@ -1,4 +1,0 @@
-Title: Stanford CS230: Deep Learning | Autumn 2018 | Lecture 9 - Deep Reinforcement Learning
-URL: https://www.youtube.com/watch?v=NP2XqpgTJyo
-Description: YouTube视频: Stanford CS230: Deep Learning | Autumn 2018 | Lecture 9 - Deep Reinforcement Learning
-Thumbnail: https://i.ytimg.com/vi/NP2XqpgTJyo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN2de1Ifkz2bMcvncIw5v7Edka2w

@@ -1,4 +1,0 @@
-Title: Recent Progress in High-Dimensional Learning
-URL: https://www.youtube.com/watch?v=pNSh2H1vgWw
-Description: YouTube视频: Recent Progress in High-Dimensional Learning
-Thumbnail: https://i.ytimg.com/vi/pNSh2H1vgWw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASrFVerzGMtiZPLLBnBgWc7wojuQ

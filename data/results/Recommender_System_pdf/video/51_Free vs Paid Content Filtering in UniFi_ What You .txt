@@ -1,4 +1,0 @@
-Title: Free vs Paid Content Filtering in UniFi: What You REALLY Get
-URL: https://www.youtube.com/watch?v=I8BD5IsRmXo
-Description: YouTube视频: Free vs Paid Content Filtering in UniFi: What You REALLY Get
-Thumbnail: https://i.ytimg.com/vi/I8BD5IsRmXo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOaiCJJ8NGPJgsjREovZtcHxWbCg

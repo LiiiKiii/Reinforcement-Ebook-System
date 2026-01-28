@@ -1,4 +1,0 @@
-Title: MinIO AI Model Training With PyTorch
-URL: https://www.youtube.com/watch?v=_qksEhAAVag
-Description: YouTube视频: MinIO AI Model Training With PyTorch
-Thumbnail: https://i.ytimg.com/vi/_qksEhAAVag/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBODJ8nJFtdzEbx8ppnIbhdKDFDOw

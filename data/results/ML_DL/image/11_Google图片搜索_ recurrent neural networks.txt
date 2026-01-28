@@ -1,3 +1,0 @@
-Title: Google图片搜索: recurrent neural networks
-URL: https://www.google.com/search?tbm=isch&q=recurrent%20neural%20networks
-Source: Google Images

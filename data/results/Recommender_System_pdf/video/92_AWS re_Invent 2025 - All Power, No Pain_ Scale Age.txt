@@ -1,4 +1,0 @@
-Title: AWS re:Invent 2025 - All Power, No Pain: Scale Agentic AI Apps in an Open Lakehouse (AIM247)
-URL: https://www.youtube.com/watch?v=1oMv-BBWjCc
-Description: YouTube视频: AWS re:Invent 2025 - All Power, No Pain: Scale Agentic AI Apps in an Open Lakehouse (AIM247)
-Thumbnail: https://i.ytimg.com/vi/1oMv-BBWjCc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTz8C3WQAN4lcve1TbjXtkKD2uEg

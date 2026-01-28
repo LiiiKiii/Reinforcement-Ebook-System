@@ -1,4 +1,0 @@
-Title: Types of RNN | Recurrent Neural Network Types | Deep Learning Tutorial 34 (Tensorflow & Python)
-URL: https://www.youtube.com/watch?v=EzsXi4WzelI
-Description: YouTube视频: Types of RNN | Recurrent Neural Network Types | Deep Learning Tutorial 34 (Tensorflow & Python)
-Thumbnail: https://i.ytimg.com/vi/EzsXi4WzelI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBnWmjeUWXshoZ7zd-kZKJCKlVeQ

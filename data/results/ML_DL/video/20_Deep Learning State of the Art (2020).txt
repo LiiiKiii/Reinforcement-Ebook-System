@@ -1,4 +1,0 @@
-Title: Deep Learning State of the Art (2020)
-URL: https://www.youtube.com/watch?v=0VH1Lim8gL8
-Description: YouTube视频: Deep Learning State of the Art (2020)
-Thumbnail: https://i.ytimg.com/vi/0VH1Lim8gL8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATVuLQcJMn2IkZRbV0nNlrjv8lkA

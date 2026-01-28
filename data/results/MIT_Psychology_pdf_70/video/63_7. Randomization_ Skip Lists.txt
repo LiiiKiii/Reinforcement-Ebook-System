@@ -1,4 +1,0 @@
-Title: 7. Randomization: Skip Lists
-URL: https://www.youtube.com/watch?v=2g9OSRKJuzM
-Description: YouTube视频: 7. Randomization: Skip Lists
-Thumbnail: https://i.ytimg.com/vi/2g9OSRKJuzM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHKasdMjv0qrZIW3eMu5-x5P_VKw

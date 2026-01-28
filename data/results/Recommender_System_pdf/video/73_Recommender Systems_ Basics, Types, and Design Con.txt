@@ -1,4 +1,0 @@
-Title: Recommender Systems: Basics, Types, and Design Consideration | Machine Learning | Community Webinar
-URL: https://www.youtube.com/watch?v=Ams4sEn50cw
-Description: YouTube视频: Recommender Systems: Basics, Types, and Design Consideration | Machine Learning | Community Webinar
-Thumbnail: https://i.ytimg.com/vi/Ams4sEn50cw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG5YGtS71Qj1CmIOsr887nzbidJw

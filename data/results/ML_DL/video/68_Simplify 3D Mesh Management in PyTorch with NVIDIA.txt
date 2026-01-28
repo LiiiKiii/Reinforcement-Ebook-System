@@ -1,4 +1,0 @@
-Title: Simplify 3D Mesh Management in PyTorch with NVIDIA Kaolin Library v0.15.0
-URL: https://www.youtube.com/watch?v=sRAgqNhsfJA
-Description: YouTube视频: Simplify 3D Mesh Management in PyTorch with NVIDIA Kaolin Library v0.15.0
-Thumbnail: https://i.ytimg.com/vi/sRAgqNhsfJA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPFZAyCM9sUrz_zTcgNTm1BbPJKg

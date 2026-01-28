@@ -1,4 +1,0 @@
-Title: Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language
-URL: https://www.youtube.com/watch?v=GmYYa3-TRRo
-Description: YouTube视频: Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language
-Thumbnail: https://i.ytimg.com/vi/GmYYa3-TRRo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC35akg3v8xKxeu4TeaYjP56kcm8A

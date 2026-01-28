@@ -1,4 +1,0 @@
-Title: Recurrent Neural Networks
-URL: https://www.youtube.com/watch?v=k97Jrg_4tFA
-Description: YouTube视频: Recurrent Neural Networks
-Thumbnail: https://i.ytimg.com/vi/k97Jrg_4tFA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1PFb6-9x7WQ_hbiIOsGB8ZFWILw

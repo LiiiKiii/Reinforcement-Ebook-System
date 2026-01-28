@@ -1,4 +1,0 @@
-Title: neuraltalk
-URL: https://github.com/karpathy/neuraltalk
-Source: GitHub
-Description: GitHub代码仓库: neuraltalk

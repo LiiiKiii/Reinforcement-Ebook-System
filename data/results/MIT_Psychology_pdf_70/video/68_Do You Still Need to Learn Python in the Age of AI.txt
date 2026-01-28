@@ -1,4 +1,0 @@
-Title: Do You Still Need to Learn Python in the Age of AI?
-URL: https://www.youtube.com/watch?v=5B4OiFm48Tw
-Description: YouTube视频: Do You Still Need to Learn Python in the Age of AI?
-Thumbnail: https://i.ytimg.com/vi/5B4OiFm48Tw/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhlIGUoZTAP&rs=AOn4CLDw6-vBWQG98mtwih1yFZ-BbPP8eg

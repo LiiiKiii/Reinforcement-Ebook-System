@@ -1,4 +1,0 @@
-Title: Neural Networks Pt. 2: Backpropagation Main Ideas
-URL: https://www.youtube.com/watch?v=IN2XmBhILt4
-Description: YouTube视频: Neural Networks Pt. 2: Backpropagation Main Ideas
-Thumbnail: https://i.ytimg.com/vi/IN2XmBhILt4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6eBemR3Xb7Xe_89pBq0UR8jpe1g

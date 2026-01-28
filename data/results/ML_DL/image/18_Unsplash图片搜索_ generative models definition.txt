@@ -1,3 +1,0 @@
-Title: Unsplash图片搜索: generative models definition
-URL: https://unsplash.com/s/photos/generative%20models%20definition
-Source: Unsplash

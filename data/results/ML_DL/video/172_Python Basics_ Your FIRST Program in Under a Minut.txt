@@ -1,4 +1,0 @@
-Title: Python Basics: Your FIRST Program in Under a Minute! 🚀
-URL: https://www.youtube.com/watch?v=nluUYtejoIE
-Description: YouTube视频: Python Basics: Your FIRST Program in Under a Minute! 🚀
-Thumbnail: https://i.ytimg.com/vi/nluUYtejoIE/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhPIFkoZTAP&rs=AOn4CLCmb2yLUJYbdicPm8ltc_sGvNScgA

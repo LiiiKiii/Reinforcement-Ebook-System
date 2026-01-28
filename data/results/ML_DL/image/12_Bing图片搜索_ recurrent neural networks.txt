@@ -1,3 +1,0 @@
-Title: Bing图片搜索: recurrent neural networks
-URL: https://www.bing.com/images/search?q=recurrent%20neural%20networks
-Source: Bing Images

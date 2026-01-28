@@ -1,4 +1,0 @@
-Title: ShiftwiseConv: Small Convolutional Kernel with Large Kernel Effect:
-URL: https://www.youtube.com/watch?v=dYsh-tJtwlM
-Description: YouTube视频: ShiftwiseConv: Small Convolutional Kernel with Large Kernel Effect: https://arxiv.org/abs/2401.12736
-Thumbnail: https://i.ytimg.com/vi/dYsh-tJtwlM/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDLwAopT_aWynLVAqggw4Gv5Eh2Qw

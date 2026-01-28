@@ -1,4 +1,0 @@
-Title: Andrew Ng and Chris Manning Discuss Natural Language Processing
-URL: https://www.youtube.com/watch?v=6w0Po83ZmjA
-Description: YouTube视频: Andrew Ng and Chris Manning Discuss Natural Language Processing
-Thumbnail: https://i.ytimg.com/vi/6w0Po83ZmjA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDUvytmbmU9Bf_WbDcgz_lzn5Qfw

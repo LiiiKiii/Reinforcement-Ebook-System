@@ -1,4 +1,0 @@
-Title: Transformers, explained: Understand the model behind GPT, BERT, and T5
-URL: https://www.youtube.com/watch?v=SZorAJ4I-sA
-Description: YouTube视频: Transformers, explained: Understand the model behind GPT, BERT, and T5
-Thumbnail: https://i.ytimg.com/vi/SZorAJ4I-sA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi9n2KxgH_wwCyf9XWhc9IYZ7SAQ

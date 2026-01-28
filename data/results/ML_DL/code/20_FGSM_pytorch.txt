@@ -1,4 +1,0 @@
-Title: FGSM_pytorch
-URL: https://github.com/ferjad/FGSM_pytorch
-Source: GitHub
-Description: GitHub代码仓库: FGSM_pytorch

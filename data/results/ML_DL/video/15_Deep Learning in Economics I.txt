@@ -1,4 +1,0 @@
-Title: Deep Learning in Economics I
-URL: https://www.youtube.com/watch?v=6JCiVCYJ0b0
-Description: YouTube视频: Deep Learning in Economics I
-Thumbnail: https://i.ytimg.com/vi/6JCiVCYJ0b0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHjN8Erlk-N5RQcqEl531uUt6u2A

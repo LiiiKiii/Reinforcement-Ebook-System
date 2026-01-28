@@ -1,4 +1,0 @@
-Title: Scalable Extraction of Training Data from (Production) Language Models
-URL: https://www.youtube.com/watch?v=adCLAhoQhOQ
-Description: YouTube视频: Scalable Extraction of Training Data from (Production) Language Models
-Thumbnail: https://i.ytimg.com/vi/adCLAhoQhOQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5iORwTPl-X8Ein9yZVpHSi4GcCA

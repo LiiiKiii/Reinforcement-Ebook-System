@@ -1,4 +1,0 @@
-Title: Training Neural Networks: Crash Course AI #4
-URL: https://www.youtube.com/watch?v=lgKrup5oi_A
-Description: YouTube视频: Training Neural Networks: Crash Course AI #4
-Thumbnail: https://i.ytimg.com/vi/lgKrup5oi_A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-NrBEmGR0BF4bBVW0FKq7pVhSRw

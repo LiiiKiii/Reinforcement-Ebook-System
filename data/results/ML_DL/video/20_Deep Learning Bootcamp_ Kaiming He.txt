@@ -1,4 +1,0 @@
-Title: Deep Learning Bootcamp: Kaiming He
-URL: https://www.youtube.com/watch?v=D_jt-xO_RmI
-Description: YouTube视频: Deep Learning Bootcamp: Kaiming He
-Thumbnail: https://i.ytimg.com/vi/D_jt-xO_RmI/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIF8oOjAP&rs=AOn4CLAdVVfg0uSSjSemK3dbs5X_aWj6_g

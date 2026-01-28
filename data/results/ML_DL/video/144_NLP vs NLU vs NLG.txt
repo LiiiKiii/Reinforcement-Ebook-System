@@ -1,4 +1,0 @@
-Title: NLP vs NLU vs NLG
-URL: https://www.youtube.com/watch?v=1I6bQ12VxV0
-Description: YouTube视频: NLP vs NLU vs NLG
-Thumbnail: https://i.ytimg.com/vi/1I6bQ12VxV0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBINwn0qjJC0H_1bnFgB-w1KvPz2Q

@@ -1,4 +1,0 @@
-Title: Performance Modeling of Streaming Kernels and Sparse Matrix-Vector Multiplication on A64FX
-URL: https://www.youtube.com/watch?v=nqrrTCLTPDw
-Description: YouTube视频: Performance Modeling of Streaming Kernels and Sparse Matrix-Vector Multiplication on A64FX
-Thumbnail: https://i.ytimg.com/vi/nqrrTCLTPDw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYdulV3TpOhInkPVB3--zpojFoVQ

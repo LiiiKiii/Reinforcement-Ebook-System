@@ -1,4 +1,0 @@
-Title: The History of Natural Language Processing (NLP)
-URL: https://www.youtube.com/watch?v=Uuz8ZTV5vdA
-Description: YouTube视频: The History of Natural Language Processing (NLP)
-Thumbnail: https://i.ytimg.com/vi/Uuz8ZTV5vdA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMbp2JfSGmsYvdVC-I-PxaGP4wTQ

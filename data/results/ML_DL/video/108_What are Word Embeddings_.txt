@@ -1,4 +1,0 @@
-Title: What are Word Embeddings?
-URL: https://www.youtube.com/watch?v=wgfSDrqYMJ4
-Description: YouTube视频: What are Word Embeddings?
-Thumbnail: https://i.ytimg.com/vi/wgfSDrqYMJ4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIjS3J0LgfaEesrCKAOaCkzTOnmA

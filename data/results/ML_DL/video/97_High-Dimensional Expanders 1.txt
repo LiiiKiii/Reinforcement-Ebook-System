@@ -1,4 +1,0 @@
-Title: High-Dimensional Expanders 1
-URL: https://www.youtube.com/watch?v=Ohh9J7UGgDc
-Description: YouTube视频: High-Dimensional Expanders 1
-Thumbnail: https://i.ytimg.com/vi/Ohh9J7UGgDc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAFIDwHVE99ObqlXdIorhL7bVup0w

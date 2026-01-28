@@ -1,4 +1,0 @@
-Title: Recommender Systems 4 Item Item Collaborative Filtering
-URL: https://www.youtube.com/watch?v=FFi0iPY5fko
-Description: YouTube视频: Recommender Systems 4 Item Item Collaborative Filtering
-Thumbnail: https://i.ytimg.com/vi/FFi0iPY5fko/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IEAoKzAP&rs=AOn4CLBqlFQLVWKrXH0tyaCRbW2yuMjcHQ

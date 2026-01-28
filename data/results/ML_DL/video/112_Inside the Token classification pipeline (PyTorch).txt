@@ -1,4 +1,0 @@
-Title: Inside the Token classification pipeline (PyTorch)
-URL: https://www.youtube.com/watch?v=0E7ltQB7fM8
-Description: YouTube视频: Inside the Token classification pipeline (PyTorch)
-Thumbnail: https://i.ytimg.com/vi/0E7ltQB7fM8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEjyZkW52NOo6aoS1EBlcz-qXNRg

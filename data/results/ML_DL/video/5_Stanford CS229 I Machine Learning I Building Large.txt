@@ -1,4 +1,0 @@
-Title: Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)
-URL: https://www.youtube.com/watch?v=9vM4p9NN0Ts
-Description: YouTube视频: Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)
-Thumbnail: https://i.ytimg.com/vi/9vM4p9NN0Ts/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoWDAP&rs=AOn4CLAkzupviVlheO8hQYbTm-UNV-Otmg

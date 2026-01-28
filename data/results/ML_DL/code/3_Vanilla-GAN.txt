@@ -1,4 +1,0 @@
-Title: Vanilla-GAN
-URL: https://github.com/safwankdb/Vanilla-GAN
-Source: GitHub
-Description: GitHub代码仓库: Vanilla-GAN

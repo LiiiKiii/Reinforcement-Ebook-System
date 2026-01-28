@@ -1,4 +1,0 @@
-Title: 26 Content based Recommender Systems
-URL: https://www.youtube.com/watch?v=YMZmLx-AUvY
-Description: YouTube视频: 26 Content based Recommender Systems
-Thumbnail: https://i.ytimg.com/vi/YMZmLx-AUvY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBgAWAAugCigIMCAAQARhlIGUoZTAP&rs=AOn4CLBSXI4GsgfsrhbpXv-Rtq8Ad_onGw

@@ -1,4 +1,0 @@
-Title: Dimensionality Reduction | Introduction to Data Mining | Part 13
-URL: https://www.youtube.com/watch?v=F37gDOXQWWs
-Description: YouTube视频: Dimensionality Reduction | Introduction to Data Mining | Part 13
-Thumbnail: https://i.ytimg.com/vi/F37gDOXQWWs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrSk3HhcUk6B-RH6QdROyQt1yWow

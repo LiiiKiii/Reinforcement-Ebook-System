@@ -1,4 +1,0 @@
-Title: Morphing NVIDIA StyleGAN2 ADA Pytorch Between Real Photos your GAN Doppelganger
-URL: https://www.youtube.com/watch?v=J2nTo0cYVBk
-Description: YouTube视频: Morphing NVIDIA StyleGAN2 ADA Pytorch Between Real Photos your GAN Doppelganger
-Thumbnail: https://i.ytimg.com/vi/J2nTo0cYVBk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdDa0_L15DoDXJ8JEf5eOBTT0EHw

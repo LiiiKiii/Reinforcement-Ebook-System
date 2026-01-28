@@ -1,4 +1,0 @@
-Title: 16. Markov Chains I
-URL: https://www.youtube.com/watch?v=IkbkEtOOC1Y
-Description: YouTube视频: 16. Markov Chains I
-Thumbnail: https://i.ytimg.com/vi/IkbkEtOOC1Y/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhcIFkoZTAP&rs=AOn4CLCQ2Q_Hwx8lHVtoerbPj03V48rU1Q

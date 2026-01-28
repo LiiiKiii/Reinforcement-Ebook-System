@@ -1,4 +1,0 @@
-Title: char-rnn
-URL: https://github.com/karpathy/char-rnn
-Source: GitHub
-Description: GitHub代码仓库: char-rnn

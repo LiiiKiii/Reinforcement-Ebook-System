@@ -1,3 +1,0 @@
-Title: Bing图片搜索: natural language processing
-URL: https://www.bing.com/images/search?q=natural%20language%20processing
-Source: Bing Images

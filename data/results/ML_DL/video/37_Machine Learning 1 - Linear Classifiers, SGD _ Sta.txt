@@ -1,4 +1,0 @@
-Title: Machine Learning 1 - Linear Classifiers, SGD | Stanford CS221: AI (Autumn 2019)
-URL: https://www.youtube.com/watch?v=zrT2qETJilw
-Description: YouTube视频: Machine Learning 1 - Linear Classifiers, SGD | Stanford CS221: AI (Autumn 2019)
-Thumbnail: https://i.ytimg.com/vi/zrT2qETJilw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoTb9tz1d9m3eDcI4ozDfwc-nsBg

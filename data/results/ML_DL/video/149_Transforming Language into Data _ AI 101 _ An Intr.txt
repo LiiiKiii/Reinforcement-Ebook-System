@@ -1,4 +1,0 @@
-Title: Transforming Language into Data | AI 101 : An Introduction to Natural Language Processing
-URL: https://www.youtube.com/watch?v=gscx6xg6uws
-Description: YouTube视频: Transforming Language into Data | AI 101 : An Introduction to Natural Language Processing
-Thumbnail: https://i.ytimg.com/vi/gscx6xg6uws/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdc8yQ9OaWXeRs2My3L4xtDOKO8w

@@ -1,4 +1,0 @@
-Title: Machine Learning Tutorial Python - 19: Principal Component Analysis (PCA) with Python Code
-URL: https://www.youtube.com/watch?v=8klqIM9UvAc
-Description: YouTube视频: Machine Learning Tutorial Python - 19: Principal Component Analysis (PCA) with Python Code
-Thumbnail: https://i.ytimg.com/vi/8klqIM9UvAc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvWl0QgwT2nI-loiZb-Ki_EJElXw

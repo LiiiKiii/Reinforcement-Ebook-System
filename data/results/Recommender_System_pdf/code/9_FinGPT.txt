@@ -1,4 +1,0 @@
-Title: FinGPT
-URL: https://github.com/AI4Finance-Foundation/FinGPT
-Source: GitHub
-Description: GitHub代码仓库: FinGPT

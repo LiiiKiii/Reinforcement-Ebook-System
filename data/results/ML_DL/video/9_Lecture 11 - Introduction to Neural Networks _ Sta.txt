@@ -1,4 +1,0 @@
-Title: Lecture 11 - Introduction to Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)
-URL: https://www.youtube.com/watch?v=MfIjxPh6Pys
-Description: YouTube视频: Lecture 11 - Introduction to Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)
-Thumbnail: https://i.ytimg.com/vi/MfIjxPh6Pys/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl3KCkXd_mug7-7koFcF7PbNVGTA

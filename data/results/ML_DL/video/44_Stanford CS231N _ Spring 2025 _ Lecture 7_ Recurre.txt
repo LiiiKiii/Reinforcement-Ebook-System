@@ -1,4 +1,0 @@
-Title: Stanford CS231N | Spring 2025 | Lecture 7: Recurrent Neural Networks
-URL: https://www.youtube.com/watch?v=kG2lAPBF7zA
-Description: YouTube视频: Stanford CS231N | Spring 2025 | Lecture 7: Recurrent Neural Networks
-Thumbnail: https://i.ytimg.com/vi/kG2lAPBF7zA/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhkIGQoZDAP&rs=AOn4CLCOrPxeuN64XCW4_TKvIifNS4PXog

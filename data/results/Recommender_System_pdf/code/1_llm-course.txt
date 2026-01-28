@@ -1,4 +1,0 @@
-Title: llm-course
-URL: https://github.com/mlabonne/llm-course
-Source: GitHub
-Description: GitHub代码仓库: llm-course

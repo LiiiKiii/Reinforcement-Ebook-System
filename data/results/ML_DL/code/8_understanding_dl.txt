@@ -1,4 +1,0 @@
-Title: understanding_dl
-URL: https://github.com/xuzhiqin1990/understanding_dl
-Source: GitHub
-Description: GitHub代码仓库: understanding_dl

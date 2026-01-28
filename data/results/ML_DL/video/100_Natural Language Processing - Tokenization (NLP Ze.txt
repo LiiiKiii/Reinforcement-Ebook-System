@@ -1,4 +1,0 @@
-Title: Natural Language Processing - Tokenization (NLP Zero to Hero - Part 1)
-URL: https://www.youtube.com/watch?v=fNxaJsNG3-s
-Description: YouTube视频: Natural Language Processing - Tokenization (NLP Zero to Hero - Part 1)
-Thumbnail: https://i.ytimg.com/vi/fNxaJsNG3-s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Wt-etaXxVl2rulNnvjWLTMtmJQ

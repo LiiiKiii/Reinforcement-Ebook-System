@@ -1,4 +1,0 @@
-Title: DeepLearningReadingGroup
-URL: https://github.com/arnemann/DeepLearningReadingGroup
-Source: GitHub
-Description: GitHub代码仓库: DeepLearningReadingGroup

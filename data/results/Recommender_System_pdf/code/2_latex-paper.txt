@@ -1,4 +1,0 @@
-Title: latex-paper
-URL: https://github.com/pmichaillat/latex-paper
-Source: GitHub
-Description: GitHub代码仓库: latex-paper

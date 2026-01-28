@@ -1,4 +1,0 @@
-Title: L14.3.1.2 VGG16 in PyTorch -- Code Example
-URL: https://www.youtube.com/watch?v=PlFiRPdBEAo
-Description: YouTube视频: L14.3.1.2 VGG16 in PyTorch -- Code Example
-Thumbnail: https://i.ytimg.com/vi/PlFiRPdBEAo/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IBMoKzAP&rs=AOn4CLBqyRSvQguUk1P2KC5YB9WGeBCrqA

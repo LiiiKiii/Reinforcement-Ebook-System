@@ -1,4 +1,0 @@
-Title: BookNotes_Deep_Learning
-URL: https://github.com/itacdonev/BookNotes_Deep_Learning
-Source: GitHub
-Description: GitHub代码仓库: BookNotes_Deep_Learning

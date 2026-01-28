@@ -1,4 +1,0 @@
-Title: 2. Conditioning and Bayes' Rule
-URL: https://www.youtube.com/watch?v=TluTv5V0RmE
-Description: YouTube视频: 2. Conditioning and Bayes' Rule
-Thumbnail: https://i.ytimg.com/vi/TluTv5V0RmE/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhqIGooajAP&rs=AOn4CLBqYKlQyph4Qe_dm-uxbn1QK-DLlA

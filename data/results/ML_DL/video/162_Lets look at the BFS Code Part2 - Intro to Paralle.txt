@@ -1,4 +1,0 @@
-Title: Lets look at the BFS Code Part2 - Intro to Parallel Programming
-URL: https://www.youtube.com/watch?v=qnEUyIkuuy8
-Description: YouTube视频: Lets look at the BFS Code Part2 - Intro to Parallel Programming
-Thumbnail: https://i.ytimg.com/vi/qnEUyIkuuy8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8i8_XN6oGIVUrVTeSruoNepybVg

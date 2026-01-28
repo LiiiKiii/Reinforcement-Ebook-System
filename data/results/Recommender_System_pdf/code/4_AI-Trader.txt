@@ -1,4 +1,0 @@
-Title: AI-Trader
-URL: https://github.com/HKUDS/AI-Trader
-Source: GitHub
-Description: GitHub代码仓库: AI-Trader

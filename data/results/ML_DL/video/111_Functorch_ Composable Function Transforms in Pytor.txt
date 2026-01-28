@@ -1,4 +1,0 @@
-Title: Functorch: Composable Function Transforms in Pytorch at PyTorch Conference 2022
-URL: https://www.youtube.com/watch?v=lFHPHZF12Jg
-Description: YouTube视频: Functorch: Composable Function Transforms in Pytorch at PyTorch Conference 2022
-Thumbnail: https://i.ytimg.com/vi/lFHPHZF12Jg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNsdufHg-z81OZyNhaVlizeqNtAw

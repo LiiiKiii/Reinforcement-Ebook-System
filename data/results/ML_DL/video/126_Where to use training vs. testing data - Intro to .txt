@@ -1,4 +1,0 @@
-Title: Where to use training vs. testing data - Intro to Machine Learning
-URL: https://www.youtube.com/watch?v=NvgWKf-iBsw
-Description: YouTube视频: Where to use training vs. testing data - Intro to Machine Learning
-Thumbnail: https://i.ytimg.com/vi/NvgWKf-iBsw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFEoPzAP&rs=AOn4CLDqm9gpMfjI6LA3VMpfma2ROYUN4Q

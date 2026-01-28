@@ -1,4 +1,0 @@
-Title: Matthew Schlegel - Action Encodings in Recurrent Neural Networks in Reinforcement Learning
-URL: https://www.youtube.com/watch?v=6yCqjuuj90g
-Description: YouTube视频: Matthew Schlegel - Action Encodings in Recurrent Neural Networks in Reinforcement Learning
-Thumbnail: https://i.ytimg.com/vi/6yCqjuuj90g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgVLdHCpqSIYrLWiLWdxvCzj77fQ

@@ -1,4 +1,0 @@
-Title: Let's live code in Flutter (DartConf 2018)
-URL: https://www.youtube.com/watch?v=iflV0D0d1zQ
-Description: YouTube视频: Let's live code in Flutter (DartConf 2018)
-Thumbnail: https://i.ytimg.com/vi/iflV0D0d1zQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzKgW3uwbZSznQe_Xp0pEtJmraVw
