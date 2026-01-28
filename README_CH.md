@@ -6,38 +6,65 @@
 
 ```
 Project/
-├── app.py                      # 主应用入口
-├── requirements.txt            # Python依赖
-├── README.md                   # 项目说明
+├── app.py                      # Flask 主应用入口
+├── requirements.txt            # Python 依赖
+├── README.md / README_CH.md    # 中英文项目说明
 ├── start.sh                    # 启动脚本
+├── index.html                  # 根目录跳转页（重定向到 frontend/，用于 GitHub Pages）
 │
-├── frontend/                   # 前端文件
-│   ├── templates/
-│   │   └── index.html         # 主页面模板
-│   └── static/
+├── frontend/                   # 前端代码（本地 + GitHub Pages 共用）
+│   ├── index.html              # 纯静态首页（GitHub Pages 使用）
+│   ├── templates/              # Flask 模板（本地运行使用）
+│   │   ├── index.html          # 首页模板
+│   │   ├── help.html           # 帮助页面模板
+│   │   ├── progress.html       # 研发进度页面模板
+│   │   ├── ai-enhance.html     # AI 增强页面模板
+│   │   └── contact.html        # 加入我们页面模板
+│   └── static/                 # 静态资源
 │       ├── css/
-│       │   └── style.css      # 样式文件
-│       └── js/
-│           └── main.js        # JavaScript文件
+│       │   ├── style.css       # 全局样式
+│       │   ├── help.css        # 帮助页样式
+│       │   ├── progress.css    # 进度页样式
+│       │   ├── ai-enhance.css  # AI 增强页样式
+│       │   └── contact.css     # 加入我们页样式
+│       ├── js/
+│       │   ├── main.js         # 全局逻辑（上传、SSE、i18n、主题等）
+│       │   ├── help.js         # 帮助页交互
+│       │   ├── progress.js     # 进度页动画
+│       │   ├── ai-enhance.js   # AI 增强页逻辑
+│       │   └── contact.js      # 联系表单逻辑
+│       └── images/
+│           └── home-icon.png   # 网站图标
 │
 ├── backend/                    # 后端代码
-│   ├── core/                  # 核心功能模块
+│   ├── core/                   # 核心功能模块
 │   │   ├── __init__.py
 │   │   ├── keyword_extractor.py    # 关键词提取
-│   │   ├── resource_searcher.py   # 资源搜索
-│   │   ├── recommender.py          # CBF推荐系统
-│   │   └── ai_summarizer.py       # AI摘要生成
-│   └── utils/                 # 工具模块
+│   │   ├── resource_searcher.py    # 资源搜索
+│   │   ├── recommender.py          # CBF 推荐系统
+│   │   └── ai_summarizer.py        # AI 摘要生成
+│   └── utils/                  # 工具模块
 │       ├── __init__.py
-│       └── file_utils.py      # 文件处理工具
+│       └── file_utils.py       # 文件处理工具
 │
-├── data/                       # 数据目录
-│   ├── uploads/               # 用户上传的文件
-│   ├── results/               # 搜索结果
-│   └── outputs/               # 最终输出
+├── data/                       # 数据目录（运行时自动创建子目录）
+│   ├── uploads/                # 用户上传的文件
+│   ├── results/                # 搜索结果
+│   └── outputs/                # 最终输出
 │
-└── docs/                       # 文档目录
-    └── README.md              # 详细文档
+├── test/                       # 测试与评估
+│   ├── README.md               # 测试总览与说明
+│   ├── performance/            # 性能测试脚本
+│   │   └── run_performance_tests.py
+│   ├── evaluation_subjective/  # 主观评价（问卷、打分模板）
+│   └── evaluation_objective/   # 客观指标（性能 + 质量指标及表格）
+│
+└── docs/                       # 详细文档
+    ├── STRUCTURE.md            # 代码结构说明
+    ├── TECHNICAL_OVERVIEW.md   # 技术概览
+    ├── EVALUATION.md           # 评估方案
+    ├── INNOVATION.md           # 创新点说明
+    └── REFERENCES.md           # 参考文献与资料
 ```
 
 ## 功能特点
@@ -77,6 +104,22 @@ chmod +x start.sh
 ```
 
 应用将在 `http://localhost:5000` 启动。
+
+---
+
+## 在线访问（GitHub Pages 预览）
+
+本项目提供一个 **纯前端静态版本**，可以直接通过 GitHub Pages 访问界面效果（不需要本地运行 Flask）：
+
+- 部署方式：将仓库推送到 GitHub，使用 `main` 分支的根目录作为 Pages 源
+- 访问路径：
+  - 根地址 `https://<你的用户名>.github.io/` 会通过根目录的 `index.html` **自动重定向** 到 `frontend/`
+  - 实际静态站点入口为 `https://<你的用户名>.github.io/frontend/`
+
+注意：
+
+- 静态版本会正常展示页面、主题切换、多语言切换、动画效果等前端交互  
+- 但依赖后端的功能（如 ZIP 上传、关键词提取、推荐计算、联系我们表单提交等）在 GitHub Pages 上不会真正执行，需要连接到你部署好的 Flask 后端
 
 ## 配置说明
 

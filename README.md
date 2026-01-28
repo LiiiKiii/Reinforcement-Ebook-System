@@ -132,6 +132,19 @@ python app.py
 
 Open your browser and visit: `http://localhost:5000`
 
+---
+
+## Online Demo (GitHub Pages)
+
+This project also provides a **pure frontend static version** that can be hosted on GitHub Pages to showcase the UI without running the Flask backend locally.
+
+- When deploying Pages from the `main` branch **root folder**:
+  - The root `index.html` simply redirects `https://<username>.github.io/` to `https://<username>.github.io/frontend/`
+  - The actual static site entry is `frontend/index.html` under the repository
+- The static site will:
+  - Fully render the modern UI, theme switch, i18n, animations, etc.
+  - But any backend‑dependent features (ZIP upload, keyword extraction, recommendation pipeline, contact form submission, etc.) will **not** actually run on GitHub Pages unless you point the JS API calls to a separately deployed Flask backend
+
 ## Configuration
 
 ### OpenAI API Key (Optional)
@@ -210,53 +223,82 @@ After processing is complete, click the "Download Recommendation Results" button
 Reinforcement-Ebook-System/
 ├── app.py                      # Flask main application entry
 ├── requirements.txt            # Python dependencies list
-├── README.md                   # Project documentation (Chinese)
-├── README_EN.md                # Project documentation (English)
+├── README.md / README_CH.md    # Project documentation (EN / CN)
 ├── start.sh                    # Startup script
 ├── LICENSE                     # License file
+├── index.html                  # Root redirect page (redirects to /frontend/, for GitHub Pages)
 │
-├── frontend/                   # Frontend files
-│   ├── templates/             # HTML templates
-│   │   ├── index.html         # Main page
-│   │   ├── help.html          # Help page
+├── frontend/                   # Frontend code (shared by Flask + GitHub Pages)
+│   ├── index.html              # Pure static home page (GitHub Pages entry)
+│   ├── templates/              # HTML templates for Flask rendering
+│   │   ├── index.html          # Main page
+│   │   ├── help.html           # Help page
 │   │   ├── progress.html       # Progress page
-│   │   ├── ai-enhance.html    # AI Enhancement page
-│   │   └── contact.html       # Contact page
+│   │   ├── ai-enhance.html     # AI Enhancement page
+│   │   └── contact.html        # Contact page
 │   └── static/                 # Static resources
-│       ├── css/                # Style files
-│       │   ├── style.css      # Main styles
-│       │   ├── help.css       # Help page styles
-│       │   ├── progress.css   # Progress page styles
-│       │   ├── ai-enhance.css # AI Enhancement page styles
-│       │   └── contact.css    # Contact page styles
+│       ├── css/                # Styles
+│       │   ├── style.css       # Main styles
+│       │   ├── help.css        # Help page styles
+│       │   ├── progress.css    # Progress page styles
+│       │   ├── ai-enhance.css  # AI Enhancement page styles
+│       │   └── contact.css     # Contact page styles
 │       ├── js/                 # JavaScript files
-│       │   ├── main.js        # Main logic
-│       │   ├── help.js        # Help page logic
-│       │   ├── progress.js    # Progress page logic
-│       │   ├── ai-enhance.js  # AI Enhancement page logic
-│       │   └── contact.js    # Contact page logic
+│       │   ├── main.js         # Global logic (upload, SSE, i18n, theme, etc.)
+│       │   ├── help.js         # Help page logic
+│       │   ├── progress.js     # Progress page logic
+│       │   ├── ai-enhance.js   # AI Enhancement page logic
+│       │   └── contact.js      # Contact page logic
+│       └── images/
+│           └── home-icon.png   # Site icon
 │
 ├── backend/                    # Backend code
 │   ├── core/                   # Core functional modules
 │   │   ├── __init__.py
 │   │   ├── keyword_extractor.py    # Keyword extraction module
 │   │   ├── resource_searcher.py    # Resource search module
-│   │   ├── recommender.py           # CBF recommendation system
+│   │   ├── recommender.py          # CBF recommendation system
 │   │   └── ai_summarizer.py        # AI summary generation module
 │   └── utils/                  # Utility modules
 │       ├── __init__.py
-│       └── file_utils.py      # File processing utilities
+│       └── file_utils.py       # File processing utilities
 │
 ├── data/                       # Data directory (auto-created)
-│   ├── uploads/               # User uploaded files
-│   ├── results/               # Search results
-│   └── outputs/              # Final outputs
+│   ├── uploads/                # User uploaded files
+│   ├── results/                # Search results
+│   └── outputs/                # Final outputs
+│
+├── test/                       # Testing & evaluation
+│   ├── README.md               # Test overview
+│   ├── performance/            # Performance tests
+│   │   └── run_performance_tests.py
+│   ├── evaluation_subjective/  # Subjective evaluation (questionnaires, score templates)
+│   └── evaluation_objective/   # Objective metrics (performance + quality metrics & tables)
 │
 └── docs/                       # Documentation directory
-    ├── STRUCTURE.md           # Project structure documentation
-    ├── EVALUATION.md          # Evaluation documentation
-    └── COMPARISON.md          # Comparison documentation
+    ├── STRUCTURE.md            # Project structure documentation
+    ├── TECHNICAL_OVERVIEW.md   # Technical overview
+    ├── EVALUATION.md           # Evaluation documentation
+    ├── INNOVATION.md           # Innovation points
+    └── REFERENCES.md           # References and resources
 ```
+
+---
+
+## Testing & Evaluation
+
+The project includes a dedicated `test/` directory to support both **qualitative** and **quantitative** evaluation:
+
+- **`test/README.md`**: High‑level overview of the testing framework and directory layout  
+- **`test/performance/run_performance_tests.py`**:
+  - Unified entry for basic performance testing of core modules such as `keyword_extractor` and `recommender`
+  - Designed to be extended with additional tests for `resource_searcher` and `ai_summarizer`
+- **`test/evaluation_subjective/`**:
+  - Templates and guidance for subjective evaluation (usability, satisfaction, trust, etc.)
+  - Suitable for Likert‑scale questionnaires filled by users/experts
+- **`test/evaluation_objective/`**:
+  - Definitions and formulas for objective metrics (coverage, redundancy, noise rate, HitRate@K, etc.)
+  - Ready‑to‑use table templates for recording experiment results and plotting figures
 
 ## Core Algorithms
 
