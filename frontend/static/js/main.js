@@ -100,14 +100,18 @@ function setupUploadArea() {
       folderInput.files = e.dataTransfer.files;
       handleFileSelect(file);
     } else {
-      showStatus('请上传zip格式的文件', 'error');
+      const lang = getCurrentLanguage();
+      const invalidFormatText = lang === 'en-US' ? I18N_MAP['en-US']['home.upload.invalidFormat'] : I18N_MAP['zh-CN']['home.upload.invalidFormat'];
+      showStatus(invalidFormatText, 'error');
     }
   });
 }
 
 function handleFileSelect(file) {
   if (!file.name.endsWith('.zip')) {
-    showStatus('请上传zip格式的文件', 'error');
+    const lang = getCurrentLanguage();
+    const invalidFormatText = lang === 'en-US' ? I18N_MAP['en-US']['home.upload.invalidFormat'] : I18N_MAP['zh-CN']['home.upload.invalidFormat'];
+    showStatus(invalidFormatText, 'error');
     return;
   }
   
@@ -122,7 +126,9 @@ function setupUploadButton() {
   uploadBtn.addEventListener('click', async () => {
     const file = folderInput.files[0];
     if (!file) {
-      showStatus('请先选择文件', 'error');
+      const lang = getCurrentLanguage();
+      const noFileText = lang === 'en-US' ? I18N_MAP['en-US']['home.upload.noFileSelected'] : I18N_MAP['zh-CN']['home.upload.noFileSelected'];
+      showStatus(noFileText, 'error');
       return;
     }
     
@@ -168,11 +174,15 @@ async function uploadFile(file) {
         startProcessing(data.folder_name);
       }, 1000);
     } else {
-      showStatus(data.error || '上传失败', 'error');
+      const lang = getCurrentLanguage();
+      const failedText = lang === 'en-US' ? I18N_MAP['en-US']['home.upload.failed'] : I18N_MAP['zh-CN']['home.upload.failed'];
+      showStatus(data.error || failedText, 'error');
       uploadBtn.disabled = false;
     }
   } catch (error) {
-    showStatus('上传失败: ' + error.message, 'error');
+    const lang = getCurrentLanguage();
+    const failedText = lang === 'en-US' ? I18N_MAP['en-US']['home.upload.failed'] : I18N_MAP['zh-CN']['home.upload.failed'];
+    showStatus(`${failedText}: ${error.message}`, 'error');
     uploadBtn.disabled = false;
   }
 }
@@ -1077,6 +1087,8 @@ const I18N_MAP = {
     'home.upload.uploading': '正在上传...',
     'home.upload.success': '上传成功！',
     'home.upload.failed': '上传失败',
+    'home.upload.invalidFormat': '请上传zip格式的文件',
+    'home.upload.noFileSelected': '请先选择文件',
     'home.processing.start': '🚀 开始处理文件...',
     'home.processing.searching': '正在搜索关键词',
     'home.processing.complete': '✨ 处理完成！',
@@ -1264,6 +1276,8 @@ const I18N_MAP = {
     'home.upload.uploading': 'Uploading...',
     'home.upload.success': 'Upload successful!',
     'home.upload.failed': 'Upload failed',
+    'home.upload.invalidFormat': 'Please upload a zip file',
+    'home.upload.noFileSelected': 'Please select a file first',
     'home.processing.start': '🚀 Start processing files...',
     'home.processing.searching': 'Searching for keywords',
     'home.processing.complete': '✨ Processing complete!',
